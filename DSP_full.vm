@@ -1,0 +1,29 @@
+[BEGINVDF]
+Comment=Темная Сага 2: Чума
+BaseDir=D:\Gothic MOD\My mods\DarkSaga2_Plague
+VDFName=D:\Gothic MOD\Gothic II DSP\Data\modvdf\DarkSaga2_Plague.mod
+[FILES]
+*.dat -r
+*.bin -r
+*.d -r
+*.tex -r
+*.tga -r
+*.fnt -r
+*.mrm -r
+*.msh -r
+*.mmb -r
+*.mdh -r
+*.msb -r
+*.man -r
+*.mdl -r
+*.mdm -r
+*.asc -r
+*.mms -r
+*.mds -r
+*.3ds -r
+*.zen -r
+*.wav -r
+*.bik -r
+[EXCLUDE]
+[INCLUDE]
+[ENDVDF]

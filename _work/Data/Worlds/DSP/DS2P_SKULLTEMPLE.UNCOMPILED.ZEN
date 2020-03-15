@@ -1,0 +1,4595 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 15.3.2020 23:57:45
+user Anastasy
+END
+objects 159      
+END
+
+[% oCWorld:zCWorld 36865 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVobLevelCompo:zCVob 52224 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:0 0 0 0 0 0 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:0 0 0
+			vobName=string:LEVEL-VOB
+			visual=string:#41
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCMesh 53505 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:128
+		[% zCVob 52224 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14703.8408 457.560425 -21033.6426 -14437.8779 486.90094 -20768.0176 
+			trafoOSToWSRot=raw:737873bf00000000b3379e3e000000000000803f00000000b3379ebe00000000737873bf
+			trafoOSToWSPos=vec3:-14556.1475 474.826813 -20974.5742
+			vobName=string:
+			visual=string:ORC_SKELETON_V4.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 4]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs2=int:0
+		[% zCVob 52224 5]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14580.7148 451.901703 -21183.5996 -14488.9395 483.526276 -21088.1387 
+			trafoOSToWSRot=raw:2e0709be0000000094b27dbf000000000000803f0000000094b27d3f000000002e0709be
+			trafoOSToWSPos=vec3:-14534.8271 467.713989 -21135.8691
+			vobName=string:
+			visual=string:ORC_SKULLSONFLOOR.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs3=int:0
+		[% zCVob 52224 7]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14646.4023 450.901703 -21128.959 -14554.627 482.526276 -21033.498 
+			trafoOSToWSRot=raw:2e0709be0000000094b27dbf000000000000803f0000000094b27d3f000000002e0709be
+			trafoOSToWSPos=vec3:-14600.5146 466.713989 -21081.2285
+			vobName=string:
+			visual=string:ORC_SKULLSONFLOOR.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs4=int:0
+		[% zCVob 52224 8]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14532.1016 448.701874 -21148.752 -14440.3262 480.326447 -21053.291 
+			trafoOSToWSRot=raw:2e0709be0000000094b27dbf000000000000803f0000000094b27d3f000000002e0709be
+			trafoOSToWSPos=vec3:-14486.2139 464.51416 -21101.0215
+			vobName=string:
+			visual=string:ORC_SKULLSONFLOOR.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 6]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs5=int:0
+		[% zCVob 52224 9]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14640.2139 444.219788 -21134.4746 -14533.415 543.08429 -21025.8379 
+			trafoOSToWSRot=raw:e126383f0000000052d531bf000000000000803f0000000052d5313f00000000e126383f
+			trafoOSToWSPos=vec3:-14586.8145 493.652039 -21080.1563
+			vobName=string:
+			visual=string:ORC_SKULLSONSTAFF.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs6=int:0
+		[% zCVob 52224 11]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14555.1465 438.760193 -21133.0156 -14459.5195 554.317627 -20998.4297 
+			trafoOSToWSRot=raw:1bd96a3f3ae58a3ef51f953e649d9dbe508b723fb47eb23d502e81bee2af2dbe07e2733f
+			trafoOSToWSPos=vec3:-14507.333 496.53894 -21065.7227
+			vobName=string:
+			visual=string:ORC_SKULLSONSTAFF.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs7=int:0
+		[% zCVob 52224 12]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14603.2197 444.546692 -21138.6016 -14485.9697 543.411194 -21086.0625 
+			trafoOSToWSRot=raw:9496f9bd00000000ab177e3f000000000000803f00000000ab177ebf000000009496f9bd
+			trafoOSToWSPos=vec3:-14544.5947 493.978943 -21112.332
+			vobName=string:
+			visual=string:ORC_SKULLSONSTAFF.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs8=int:0
+		[% zCVob 52224 13]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14510.1426 452.256714 -21124.0762 -14390.5664 551.121216 -21043.873 
+			trafoOSToWSRot=raw:270ec83e0000000086a66b3f000000000000803f0000000086a66bbf00000000270ec83e
+			trafoOSToWSPos=vec3:-14450.3545 501.688965 -21083.9746
+			vobName=string:
+			visual=string:ORC_SKULLSONSTAFF.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs9=int:0
+		[% zCVob 52224 14]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14673.4619 455.742065 -21155.0176 -14574.0908 554.606567 -21041.0215 
+			trafoOSToWSRot=raw:e2734c3f00000000e2101abf000000000000803f00000000e6101a3f00000000e0734c3f
+			trafoOSToWSPos=vec3:-14623.7764 505.174316 -21098.0195
+			vobName=string:
+			visual=string:ORC_SKULLSONSTAFF.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 10]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs10=int:0
+		[% zCVobLight:zCVob 39168 15]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13487.2168 558.49408 -16839.082 -13087.2168 958.49408 -16439.082 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13287.2168 758.49408 -16639.082
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:200
+			color=color:191 255 255 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs11=int:0
+		[% zCVobLight:zCVob 39168 16]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13444.0254 548.797241 -15782.9248 -13044.0254 948.797241 -15382.9248 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13244.0254 748.797241 -15582.9248
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:200
+			color=color:191 255 255 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs12=int:0
+		[% zCVobLight:zCVob 39168 17]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15917.1855 596.339355 -15815.3174 -15517.1855 996.339355 -15415.3174 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15717.1855 796.339355 -15615.3174
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:200
+			color=color:191 255 255 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs13=int:0
+		[% zCVobLight:zCVob 39168 18]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15993.3096 527.995911 -16837.4785 -15593.3096 927.995911 -16437.4785 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15793.3096 727.995911 -16637.4785
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:200
+			color=color:191 255 255 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs14=int:0
+		[% zCVob 52224 19]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13948.3936 445.718933 -18348.8164 -13684.624 907.099243 -18050.9219 
+			trafoOSToWSRot=raw:b9dc8ebd0000000076607f3f000000000000803f0000000076607fbf00000000b9dc8ebd
+			trafoOSToWSPos=vec3:-13816.5088 676.409119 -18199.8691
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs15=int:0
+		[% zCVob 52224 21]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15365.0352 454.40979 -18392.6523 -15105.9082 915.7901 -18098.7188 
+			trafoOSToWSRot=raw:6e5e563d0000000053a67fbf000000000000803f0000000053a67f3f000000006e5e563d
+			trafoOSToWSPos=vec3:-15235.4717 685.099976 -18245.6855
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs16=int:0
+		[% zCVobLight:zCVob 39168 22]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13395.3389 -566.059387 -20760.3379 -11395.3389 1433.94067 -18760.3379 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12395.3389 433.940613 -19760.3379
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs17=int:0
+		[% zCVobLight:zCVob 39168 23]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-17839.7344 -445.6026 -20532.1133 -15839.7344 1554.39746 -18532.1133 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-16839.7344 554.3974 -19532.1133
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs18=int:0
+		[% zCVob 52224 24]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16105.1416 454.043915 -20922.7051 -15940.333 1004.69495 -20514.9102 
+			trafoOSToWSRot=raw:2bf48ebc0000000025f67fbf000000000000803f0000000025f67f3f000000002bf48ebc
+			trafoOSToWSPos=vec3:-16023.9189 452.08786 -20718.8398
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs19=int:0
+		[% zCVob 52224 26]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15666.5039 436.506012 -20954.582 -15508.7402 987.157104 -20549.4766 
+			trafoOSToWSRot=raw:0000083600000000100080bf000000000000803f000000001000803f0000000000000836
+			trafoOSToWSPos=vec3:-15588.8047 434.549957 -20752.041
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs20=int:0
+		[% zCVob 52224 27]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15204.7549 457.897461 -20927.9492 -15026.0078 1008.54852 -20515.1426 
+			trafoOSToWSRot=raw:4c5c56bd0000000056a67fbf000000000000803f0000000056a67f3f000000004c5c56bd
+			trafoOSToWSPos=vec3:-15116.5615 455.941406 -20721.6191
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs21=int:0
+		[% zCVob 52224 28]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13134.2559 430.872101 -20809.9063 -12976.4922 981.523193 -20404.8027 
+			trafoOSToWSRot=raw:5e1203b6000000800000803f000000000000803f00000000000080bf000000005e1203b6
+			trafoOSToWSPos=vec3:-13054.1914 428.916046 -20607.3438
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs22=int:0
+		[% zCVob 52224 29]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13637.3594 436.976807 -20815.9785 -13451.7197 987.627869 -20400.8555 
+			trafoOSToWSRot=raw:7fdd8ebd000000005f607f3f000000000000803f000000005f607fbf000000007fdd8ebd
+			trafoOSToWSPos=vec3:-13543.3594 435.020752 -20608.4883
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs23=int:0
+		[% zCVob 52224 30]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14085.6025 443.790955 -20727.4023 -13927.8389 994.442017 -20322.2988 
+			trafoOSToWSRot=raw:5e1203b6000000800000803f000000000000803f00000000000080bf000000005e1203b6
+			trafoOSToWSPos=vec3:-14005.5381 441.8349 -20524.8398
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs24=int:0
+		[% zCVob 52224 31]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13123.1709 448.315308 -20198.5645 -12965.4072 998.96637 -19793.4609 
+			trafoOSToWSRot=raw:5e1203b6000000800000803f000000000000803f00000000000080bf000000005e1203b6
+			trafoOSToWSPos=vec3:-13043.1064 446.359253 -19996.002
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs25=int:0
+		[% zCVob 52224 32]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13628.8018 455.001709 -20209.0977 -13471.0381 1005.65277 -19803.9941 
+			trafoOSToWSRot=raw:5e1203b6000000800000803f000000000000803f00000000000080bf000000005e1203b6
+			trafoOSToWSPos=vec3:-13548.7373 453.045654 -20006.5352
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs26=int:0
+		[% zCVob 52224 33]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14100.8447 446.973999 -20200.5078 -13888.2373 997.625061 -19777.3906 
+			trafoOSToWSRot=raw:e4820e3e000000003c827d3f000000000000803f000000003c827dbf00000000e4820e3e
+			trafoOSToWSPos=vec3:-13993.3721 445.017944 -19988.7734
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs27=int:0
+		[% zCVob 52224 34]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16105.2422 454.685181 -20290.3691 -15933.4365 1005.33624 -19880.0059 
+			trafoOSToWSRot=raw:bcf00ebd0000000035d87fbf000000000000803f0000000035d87f3f00000000bcf00ebd
+			trafoOSToWSPos=vec3:-16020.5205 452.729126 -20085.2402
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs28=int:0
+		[% zCVob 52224 35]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15669.1465 464.69754 -20309.5156 -15497.3398 1015.34863 -19899.1523 
+			trafoOSToWSRot=raw:f8f40e3d000000002fd87fbf000000000000803f000000002fd87f3f00000000f8f40e3d
+			trafoOSToWSPos=vec3:-15584.4248 462.741486 -20104.3027
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs29=int:0
+		[% zCVob 52224 36]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15243.3535 458.561493 -20353.1602 -15050.8828 1009.21252 -19935.8477 
+			trafoOSToWSRot=raw:ba7db2bd00000000bd067fbf000000000000803f00000000bd067f3f00000000ba7db2bd
+			trafoOSToWSPos=vec3:-15148.2949 456.605438 -20144.6191
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs30=int:0
+		[% zCVob 52224 37]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16070.4492 446.843567 -19542.8965 -15898.6426 997.494629 -19132.5332 
+			trafoOSToWSRot=raw:f8f40e3d000000002fd87fbf000000000000803f000000002fd87f3f00000000f8f40e3d
+			trafoOSToWSPos=vec3:-15985.7275 444.887512 -19337.6836
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs31=int:0
+		[% zCVob 52224 38]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15615.4189 458.522522 -19544.8613 -15450.6094 1009.17358 -19137.0645 
+			trafoOSToWSRot=raw:b2fc8e3c000000002ef67fbf000000000000803f000000002ef67f3f00000000b2fc8e3c
+			trafoOSToWSPos=vec3:-15534.1963 456.566467 -19340.9531
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs32=int:0
+		[% zCVob 52224 39]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13160.5186 432.681519 -19609.6035 -12988.7119 983.332581 -19199.2422 
+			trafoOSToWSRot=raw:ccf40ebd0000000017d87f3f000000000000803f0000000017d87fbf00000000ccf40ebd
+			trafoOSToWSPos=vec3:-13073.4336 430.725464 -19404.4531
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs33=int:0
+		[% zCVob 52224 40]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13610.7598 438.337952 -19591.584 -13445.9502 988.989014 -19183.7871 
+			trafoOSToWSRot=raw:64fc8ebc0000000008f67f3f000000000000803f0000000008f67fbf0000000064fc8ebc
+			trafoOSToWSPos=vec3:-13527.1729 436.381897 -19387.6953
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs34=int:0
+		[% zCVob 52224 41]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16591.248 271.226074 -21720.0898 -14577.0381 696.419434 -18618.8184 
+			trafoOSToWSRot=raw:8e3020be0000000030d97cbf000000000000803f0000000030d97c3f00000000843020be
+			trafoOSToWSPos=vec3:-15598.6631 287.620087 -20046.8613
+			vobName=string:
+			visual=string:EVT_TPL_METALTHORNS_DEADLY.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 42]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs35=int:0
+		[% zCVob 52224 43]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14498.2754 198.668182 -21633.4883 -12307.1582 623.861572 -18462.3281 
+			trafoOSToWSRot=raw:c85966be00000000667079bf000000000000803f000000006570793f00000000c05966be
+			trafoOSToWSPos=vec3:-13425.7539 215.062195 -19926.627
+			vobName=string:
+			visual=string:EVT_TPL_METALTHORNS_DEADLY.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 42]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs36=int:0
+		[% zCVob 52224 44]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14059.9004 443.711853 -19585.4258 -13902.1367 994.362915 -19180.3203 
+			trafoOSToWSRot=raw:00808db5000000001100803f000000000000803f00000000110080bf0000000000808db5
+			trafoOSToWSPos=vec3:-13979.8359 441.755798 -19382.8613
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs37=int:0
+		[% zCVob 52224 45]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15163.2021 453.067902 -19573.957 -14944.0078 1003.71899 -19149.1602 
+			trafoOSToWSRot=raw:9630203e0000000027d97cbf000000000000803f0000000029d97c3f000000009830203e
+			trafoOSToWSPos=vec3:-15054.7744 451.111847 -19361.3848
+			vobName=string:
+			visual=string:TPL_ORCSTATUE.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 25]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs38=int:0
+		[% zCVob 52224 46]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14686.6006 443.277954 -21377.8809 -14388.7041 904.658264 -21114.1113 
+			trafoOSToWSRot=raw:80607fbf0000000098dc8ebd000000000000803f0000000098dc8e3d0000000080607fbf
+			trafoOSToWSPos=vec3:-14537.6523 673.96814 -21245.9961
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs39=int:1
+		[% oCTriggerScript:zCTrigger:zCVob 24577 47]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14884.6729 436.102478 -21435.377 -14184.6729 1136.10242 -20735.377 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14534.6729 786.102478 -21085.377
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:3f
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			scriptFunc=string:EVT_TRG_EXXXIT
+		[]
+		childs40=int:0
+		[% zCVob 52224 48]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13226.8477 442.610107 -16781.084 -12977.2441 903.990417 -16495.3477 
+			trafoOSToWSRot=raw:bbf88ebc0000000018f67f3f000000000000803f0000000018f67fbf00000000bbf88ebc
+			trafoOSToWSPos=vec3:-13102.0459 673.300293 -16638.2168
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs41=int:0
+		[% zCVob 52224 49]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13229.7393 445.934509 -15725.8965 -12970.6123 907.314819 -15431.9639 
+			trafoOSToWSRot=raw:725e56bd0000000041a67f3f000000000000803f0000000041a67fbf00000000725e56bd
+			trafoOSToWSPos=vec3:-13100.1758 676.624695 -15578.9307
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs42=int:0
+		[% zCVob 52224 50]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16026.9639 457.584106 -15753.2686 -15777.3604 918.964417 -15467.5303 
+			trafoOSToWSRot=raw:a4f78ebc000000001df67fbf000000000000803f000000001df67f3f00000000a4f78ebc
+			trafoOSToWSPos=vec3:-15902.1621 688.274292 -15610.3994
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs43=int:0
+		[% zCVob 52224 51]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16032.8145 456.379517 -16769.832 -15783.2109 917.759827 -16484.0957 
+			trafoOSToWSRot=raw:a1f78ebc0000000017f67fbf000000000000803f0000000017f67f3f00000000a1f78ebc
+			trafoOSToWSPos=vec3:-15908.0127 687.069702 -16626.9629
+			vobName=string:
+			visual=string:OSTA_AXE2.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 20]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs44=int:0
+		[% oCTriggerScript:zCTrigger:zCVob 24577 52]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15639.3633 149.876587 -17908.8125 -13493.7852 1649.87659 -17225.1406 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14243.7852 899.876587 -17975.1406
+			vobName=string:SH_FINAL_GROUP_01
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:3f
+			respondToVobName=string:
+			numCanBeActivated=int:1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			scriptFunc=string:EVT_SH_FINAL_GROUP_01
+		[]
+		childs45=int:0
+		[% zCVobLight:zCVob 39168 53]
+			pack=int:0
+			presetName=string:FIRESMALL
+			bbox3DWS=rawFloat:-18098.4766 934.544312 3321.52783 -17298.4766 1734.54431 4121.52783 
+			trafoOSToWSRot=raw:22270f3f00000080e63b543f000000000000803f00000000e63b54bf0000008022270f3f
+			trafoOSToWSPos=vec3:-17698.4766 1334.54431 3721.52783
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:FIRESMALL
+			lightType=enum:0
+			range=float:400
+			color=color:124 255 131 255
+			spotConeAngle=float:0
+			lightStatic=bool:0
+			lightQuality=enum:1
+			lensflareFX=string:
+			turnedOn=bool:1
+			rangeAniScale=string:
+			rangeAniFPS=float:3
+			rangeAniSmooth=bool:1
+			colorAniList=string:(0 255 255) (128 255 128) 
+			colorAniFPS=float:2
+			colorAniSmooth=bool:1
+			canMove=bool:0
+		[]
+		childs46=int:0
+		[% zCVobLight:zCVob 39168 54]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15329.542 -266.785156 -19573.5293 -13329.542 1733.21484 -17573.5293 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14329.542 733.214844 -18573.5293
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs47=int:0
+		[% zCVobLight:zCVob 39168 55]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15542.917 -178.324585 -16541.4961 -13542.917 1821.67542 -14541.4951 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14542.917 821.675415 -15541.4951
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs48=int:0
+		[% zCVobLight:zCVob 39168 56]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16895.1172 -835.642578 2567.76709 -14895.1162 1164.35742 4567.76709 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15895.1162 164.357422 3567.76709
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs49=int:0
+		[% zCVobLight:zCVob 39168 57]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18512.7695 -1821.07446 -9464.57129 -16512.7695 178.925598 -7464.57129 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17512.7695 -821.074402 -8464.57129
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs50=int:0
+		[% zCVobLight:zCVob 39168 58]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12228.1055 -1717.41577 -7644.15527 -10228.1055 282.584229 -5644.15527 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11228.1055 -717.415771 -6644.15527
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs51=int:0
+		[% zCVobLight:zCVob 39168 59]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12193.2764 -1773.60388 -8671.39844 -10193.2764 226.396118 -6671.39844 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11193.2764 -773.603882 -7671.39844
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs52=int:0
+		[% zCVobLight:zCVob 39168 60]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18202.082 -1617.07825 -8948.66211 -16202.082 382.921753 -6948.66211 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17202.082 -617.078247 -7948.66211
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs53=int:0
+		[% zCMover:zCTrigger:zCVob 39936 61]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14611.7129 470.741394 -14301.3584 -14338.5947 737.355713 -14229.1826 
+			trafoOSToWSRot=raw:8abe7d3facc554bd1997f9bdba5e56bd5ea67fbf00000033893ff9bd4400d13bb0177ebf
+			trafoOSToWSPos=vec3:-14473.9316 604.049561 -14255.3066
+			vobName=string:DS_SKULL_SWORD_01
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 62]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:ba2762c62c0317443abd5ec6706f7f3f120bd6bc79f879bd4c76d1ba6a1a62c62c0317443a555cc6706f7f3f120bd6bc79f879bd4c76d1ba7cfa59c62c0317444dcd5cc6706f7f3f120bd6bc79f879bd4c76d1ba
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs54=int:0
+		[% zCMover:zCTrigger:zCVob 39936 63]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14612.0137 1025.58972 -14305.1523 -14352.4824 1279.07935 -14247.7666 
+			trafoOSToWSRot=raw:60607fbf00000000b6dc8ebd000000000200803f00000000b6dc8e3d0000000060607fbf
+			trafoOSToWSPos=vec3:-14481.5469 1152.33362 -14266.4453
+			vobName=string:DS_SKULL_SWORD_01
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 62]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:304662c6ad0a9044c8e95ec60000000016d87f3f0000000000f30e3ddc3a62c6ad0a9044c8a55cc60000000016d87f3f0000000000f30e3daa006bc6ad0a90443c2f5cc60000000015d87f3f0000000001f30e3d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs55=int:0
+		[% zCMover:zCTrigger:zCVob 39936 64]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14962.8184 770.958618 -14339.5918 -14697.623 1037.04858 -14255.1133 
+			trafoOSToWSRot=raw:c2c50cbd23f57bbf07d131be2dd87fbfaef10e3d000040332093c63b4cb5313e741c7cbf
+			trafoOSToWSPos=vec3:-14828.4766 904.004578 -14287.4668
+			vobName=string:DS_SKULL_SWORD_01
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 62]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:e8b167c64b006244de3d5fc6f42731bf4573373fb6fc773d1e66803db86768c64b00624401c760c6670d04bfb7a4063f0368f43e613ef53e
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs56=int:0
+		[% zCMover:zCTrigger:zCVob 39936 65]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14359.1826 705.473694 -14308.9443 -14010.3477 1053.70239 -14186.002 
+			trafoOSToWSRot=raw:f91d573f6e65f8be93ba77be120000bfdfb35dbf000080b3118a56beaebaf73d596578bf
+			trafoOSToWSPos=vec3:-14182.3369 879.589417 -14237.7324
+			vobName=string:DS_SKULL_SWORD_01
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 62]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:59995dc6b9e55b44ee765ec6166f753f208783bea315f1bd763201bdacc45cc6b9e55b441a2260c6c852473f718fa5bb797d203f364edd3c
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs57=int:0
+		[% zCMover:zCTrigger:zCVob 39936 66]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14527.2227 1180.4458 -14309.9395 -14435.8027 1370.56311 -14247.2637 
+			trafoOSToWSRot=raw:18d87fbf0000000033f30ebd000000000200803f0000000033f30e3d0000000018d87fbf
+			trafoOSToWSPos=vec3:-14481.5117 1117.07251 -14278.6055
+			vobName=string:DS_SKULL_SWORD_02
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_02.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 67]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:0c4662c652a28b446c1a5fc60000000007f67f3f00000000c5f88e3c0c4662c6c6c79e446c1a5fc60000000007f67f3f00000000c5f88e3c
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs58=int:0
+		[% zCMover:zCTrigger:zCVob 39936 68]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14535.1484 383.352661 -14290.8838 -14437.1709 576.578796 -14227.6328 
+			trafoOSToWSRot=raw:79b07f3fe9670ebd40140fbd03c10ebd31d87fbfe267efba5abb0ebdc757473b01d87fbf
+			trafoOSToWSPos=vec3:-14480.6523 638.301453 -14259.7441
+			vobName=string:DS_SKULL_SWORD_02
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_02.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 67]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:9c4262c64b931f44face5ec618ec7f3f8d9f8ebcebf28ebc44929fba9c4262c6129f0444face5ec618ec7f3f8d9f8ebcebf28ebc44929fba
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs59=int:0
+		[% zCMover:zCTrigger:zCVob 39936 69]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14143.8379 830.990723 -14332.7607 -13944.9521 920.384949 -14228.9443 
+			trafoOSToWSRot=raw:000042335c65783f76ba77be0800803f00800fb4000080b400008cb476ba77be5c6578bf
+			trafoOSToWSPos=vec3:-14198.1221 875.686829 -14242.5283
+			vobName=string:DS_SKULL_SWORD_02
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_02.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 67]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:7dd85dc6f5eb5a441d8a5ec68eab333f8dab333f6b7cb0bd537cb03db7035cc6f5eb5a44a5545ec68eab333f8dab333f6b7cb0bd537cb03d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs60=int:0
+		[% zCMover:zCTrigger:zCVob 39936 70]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15044.3447 866.032288 -14334.9551 -14843.9727 958.730774 -14230.7695 
+			trafoOSToWSRot=raw:88b78abcaf5b78bf72ba77be17f67fbf98f68e3c00001034f0568a3bc9b0773e5d6578bf
+			trafoOSToWSPos=vec3:-14790.457 909.617676 -14321.1885
+			vobName=string:DS_SKULL_SWORD_02
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_02.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 67]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:d41967c688676344c1c45fc6711832bf2b3b353f69f0ae3ddc04b23dd40569c688676344b4b95fc6741832bf283b353f6cf0ae3de004b23d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs61=int:0
+		[% zCMover:zCTrigger:zCVob 39936 71]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14721.5195 1064.61719 -14302.8496 -14484.2002 1406.14282 -14241.1055 
+			trafoOSToWSRot=raw:30a67fbf00000000305e56bd000000000000803f00000000305e563d0000000030a67fbf
+			trafoOSToWSPos=vec3:-14462.9131 1152.65222 -14274.2773
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 72]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:a7fb61c6df1490441c095fc6000000008be97f3f000000000071d63ca73766c6df14904477fd5ec6000000008be97f3f000000000071d63c
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs62=int:0
+		[% zCMover:zCTrigger:zCVob 39936 73]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14668.4307 919.012878 -14325.7207 -14271.0557 1089.77576 -14235.2598 
+			trafoOSToWSRot=raw:fe987ebf000000000013d6bd000000000100803f000000000013d63d00000000fe987ebf
+			trafoOSToWSPos=vec3:-14469.2168 1172.50146 -14275.4902
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 74]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:de1462c60c909244f60d5fc60000000030a67f3f00000000355e563d080d62c60c909244f6055dc60000000030a67f3f00000000355e563d96f45ac60c909244b6775dc60000000030a67f3f00000000355e563d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs63=int:0
+		[% zCMover:zCTrigger:zCVob 39936 75]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14463.0557 1045.72119 -14314.9268 -14224.1152 1387.24683 -14241.1182 
+			trafoOSToWSRot=raw:fc987ebf00000000f612d6bd000000000000803f00000000f612d63d00000000fc987ebf
+			trafoOSToWSPos=vec3:-14482.167 1133.75623 -14258.4014
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_07.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 76]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:ab4862c633b88d449bc95ec6000000002fa67f3f000000002c5e563dabe05dc633b88d4484ba5ec6000000002fa67f3f000000002c5e563d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs64=int:0
+		[% zCMover:zCTrigger:zCVob 39936 77]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14664.8711 654.359802 -14324.0566 -14259.1445 845.528198 -14232.7168 
+			trafoOSToWSRot=raw:c13f7e3f193255bd0c13d6bdbb5e56bd47a67fbf00004030f0c7d5bd1243b33b15997ebf
+			trafoOSToWSPos=vec3:-14470.2334 582.067078 -14272.4668
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_06.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 74]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:ef1862c64b841144de015fc6ce8f7f3f4526d6bc694b56bdc391b3baa9f561c64b84114475095dc6ce8f7f3f4526d6bc694b56bdc391b3baa9716ac64b8411445ef65cc6cb8f7f3f4726d6bc6b4b56bdc591b3ba
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs65=int:0
+		[% zCMover:zCTrigger:zCVob 39936 78]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14804.3174 350.323151 -14302.6152 -14396.0654 700.133972 -14231.9131 
+			trafoOSToWSRot=raw:b1c7c7be97536bbf395e56bd43a66bbfe10dc83e000000b13685a73cae53453d3ca67fbf
+			trafoOSToWSPos=vec3:-14469.3027 621.660278 -14269.0889
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 72]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:361562c6426a1b445bf45ec6603f0dbfd366553f68b76c3cd6d1b23c361562c652ebc7435bf45ec6603f0dbfd366553f68b76c3cd6d1b23c
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs66=int:0
+		[% zCMover:zCTrigger:zCVob 39936 79]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14466.0771 333.040955 -14318.6201 -14183.5752 703.956055 -14254.5078 
+			trafoOSToWSRot=raw:58297d3f67510e3e415e56bd67830e3e48827dbf0000a0302f4854bd92aceebb42a67fbf
+			trafoOSToWSPos=vec3:-14474.3848 580.954346 -14273.6914
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 72]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:8a2962c6143d1144c4065fc6fe497f3ff0cf8e3d4febd5bcbe56ef3a8a2962c6a220a143c4065fc6fe497f3ff0cf8e3d4febd5bcbe56ef3a
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs67=int:0
+		[% zCMover:zCTrigger:zCVob 39936 80]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14531.4658 658.800781 -14249.4473 -14129.834 1071.51294 -14179.0928 
+			trafoOSToWSRot=raw:b1d643bf055424bf355e56bdc18d24bf7e1b443f000000002337243d0bcb093d34a67fbf
+			trafoOSToWSPos=vec3:-14170.2793 891.693848 -14217.6396
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 72]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:1e695dc668ec5e448f265ec6ec0dafbe997a703fc8af123c5182c93c1e695dc63a7523448f265ec6ec0dafbe997a703fc8af123c5182c93c0c6a5dc6435c33448f4e5ec6145c5b3f01ce03bfeecfb7bc29e45cbc
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs68=int:0
+		[% zCMover:zCTrigger:zCVob 39936 81]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14862.8936 690.955811 -14349.8184 -14485.5391 1106.94104 -14276.2139 
+			trafoOSToWSRot=raw:a07a5b3fe4c6033f201e33ba6c8f033f26195bbf2c826f3de5c8f13c32c74ebdf68f7fbf
+			trafoOSToWSPos=vec3:-14836.7178 897.57428 -14307.9482
+			vobName=string:DS_SKULL_SWORD_03
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_05.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 72]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:dfd267c6c1646044cb8f5fc64098763fc5b0883e1632f53b74a7e73cdfd267c63bc91944cb8f5fc64098763fc5b0883e1632f53b74a7e73c8be867c67b6c364408715ec6aadc603fa345f4bea7a669bc3838d13c
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs69=int:0
+		[% zCMover:zCTrigger:zCVob 39936 82]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14607.5684 726.404053 -14328.9951 -14348.0371 979.893616 -14271.6094 
+			trafoOSToWSRot=raw:5c607fbf00000000a8dc8ebd000000000000803f00000000a8dc8e3d000000005c607fbf
+			trafoOSToWSPos=vec3:-14477.1016 853.147888 -14290.2881
+			vobName=string:DS_SKULL_SWORD_01
+			visual=string:EVT_ADDON_NW_TROLLPORTAL_PORTAL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 62]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:683462c67749554427495fc60000000014d87f3f00000000f3f20e3d770163c677495544929c87c60000000014d87f3f00000000f3f20e3d
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs70=int:0
+		[% zCMover:zCTrigger:zCVob 39936 83]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14551.5439 476.756348 -14496.6543 -13862.1396 1424.81104 -14232.7773 
+			trafoOSToWSRot=raw:83177ebf000000007996f93d000000000100803f000000007996f9bd0000000083177ebf
+			trafoOSToWSPos=vec3:-14207.1758 926.382996 -14362.3213
+			vobName=string:DS_SKULL_SWORD_04
+			visual=string:TPL_EVT_SECRETWALL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 84]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:b4fc5dc683986744496960c600000000c4857f3f00000000de0d7abd4f4f5ec683986744355b66c600000000c4857f3f00000000de0d7abd400458c683986744dfc465c600000000c4857f3f00000000de0d7abd
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs71=int:0
+		[% zCMover:zCTrigger:zCVob 39936 85]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15212.3457 462.827972 -14517.7871 -14522.9414 1410.88245 -14253.9102 
+			trafoOSToWSRot=raw:81177ebf000000007e96f93d00000000ffff7f3f000000007e96f9bd0000000081177ebf
+			trafoOSToWSPos=vec3:-14867.9775 912.454529 -14383.4541
+			vobName=string:DS_SKULL_SWORD_04
+			visual=string:TPL_EVT_SECRETWALL_01.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual § 0 84]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:0
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:2
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:3
+			moveSpeed=float:0.300000012
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:e94f68c6171d6444d1bd60c600000000c3857f3f00000000e40d7abd2ded67c6171d6444e91d66c600000000c3857f3f00000000e40d7abd1af96dc6171d6444c63d65c600000000c3857f3f00000000e40d7abd
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs72=int:0
+		[% oCMobInter:oCMOB:zCVob 35585 86]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14551.5771 461.789459 -21064.0566 -14516.9102 605.809509 -21052.3809 
+			trafoOSToWSRot=raw:ca7b17bd1b7c403e92427bbfbdd27f3f308af33a14c718bd8e00aabbfd6f7bbf106c40be
+			trafoOSToWSPos=vec3:-14536.8213 581.961426 -21058.3086
+			vobName=string:
+			visual=string:DS_BLACKSWORD_1.3DS
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 87]
+			[]
+			[ai % 0 0]
+			[]
+			focusName=string:
+			hitpoints=int:10
+			damage=int:0
+			moveable=bool:0
+			takeable=bool:0
+			focusOverride=bool:0
+			soundMaterial=enum:0
+			visualDestroyed=string:
+			owner=string:
+			ownerGuild=string:
+			isDestroyed=bool:0
+			stateNum=int:1
+			triggerTarget=string:
+			useWithItem=string:
+			conditionFunc=string:
+			onStateFunc=string:
+			rewind=bool:0
+		[]
+		childs73=int:0
+		[% zCVobLight:zCVob 39168 88]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12850.3398 -1825.79663 -16963.0078 -10850.3398 174.203308 -14963.0088 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11850.3398 -825.796692 -15963.0088
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs74=int:0
+		[% zCVobLight:zCVob 39168 89]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12886.3584 -1727.02148 -18101.7969 -10886.3584 272.978455 -16101.7969 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11886.3584 -727.021545 -17101.7969
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs75=int:0
+		[% zCVobLight:zCVob 39168 90]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12681.2822 -1840.29663 -19541.6172 -10681.2822 159.703369 -17541.6172 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11681.2822 -840.296631 -18541.6172
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs76=int:0
+		[% zCVobLight:zCVob 39168 91]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13505.6348 -1687.83105 -18999.5859 -11505.6348 312.168945 -16999.5859 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12505.6348 -687.831055 -17999.5859
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs77=int:0
+		[% zCVobLight:zCVob 39168 92]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15794.6455 -1734.62134 -19001.5039 -13794.6455 265.378601 -17001.5039 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14794.6455 -734.621399 -18001.5039
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs78=int:0
+		[% zCVobLight:zCVob 39168 93]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12968.7051 -1784.64575 -20771.4395 -10968.7051 215.354309 -18771.4395 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11968.7051 -784.645691 -19771.4395
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs79=int:0
+		[% zCVobLight:zCVob 39168 94]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11730.3506 -1876.13391 -21141.5508 -9730.35059 123.866089 -19141.5508 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-10730.3506 -876.133911 -20141.5508
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs80=int:0
+		[% zCVobLight:zCVob 39168 95]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12510.4902 -1849.87769 -21973.2949 -10510.4902 150.122375 -19973.2949 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11510.4902 -849.877625 -20973.2949
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs81=int:0
+		[% zCVobLight:zCVob 39168 96]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13550.3086 -1912.28003 -23107.4629 -11550.3086 87.7199707 -21107.4629 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12550.3086 -912.280029 -22107.4629
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs82=int:0
+		[% zCVobLight:zCVob 39168 97]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11849.1621 -1731.83838 -23050.9238 -9849.16211 268.16156 -21050.9238 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-10849.1621 -731.83844 -22050.9238
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs83=int:0
+		[% zCVobLight:zCVob 39168 98]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13716.4971 -1810.58813 -24432.4141 -11716.4971 189.411926 -22432.4141 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12716.4971 -810.588074 -23432.4141
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs84=int:0
+		[% zCVobLight:zCVob 39168 99]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15369.6133 -1922.65649 -24045.0605 -13369.6133 77.3435669 -22045.0605 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14369.6133 -922.656433 -23045.0605
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs85=int:0
+		[% zCVobLight:zCVob 39168 100]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15818.3818 -1932.98071 -25169.3242 -13818.3818 67.0192871 -23169.3242 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14818.3818 -932.980713 -24169.3242
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs86=int:0
+		[% zCVobLight:zCVob 39168 101]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16957.6563 -1921.72485 -24110.9277 -14957.6572 78.2752075 -22110.9277 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15957.6572 -921.724792 -23110.9277
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs87=int:0
+		[% zCVobLight:zCVob 39168 102]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18316.5313 -1896.10669 -24141.8398 -16316.5313 103.89325 -22141.8398 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17316.5313 -896.10675 -23141.8398
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs88=int:0
+		[% zCVobLight:zCVob 39168 103]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-17788.0781 -1872.52344 -22428.625 -15788.0781 127.476563 -20428.625 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-16788.0781 -872.523438 -21428.625
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs89=int:0
+		[% zCVobLight:zCVob 39168 104]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-19187.6309 -1829.66833 -22900.4727 -17187.6309 170.331665 -20900.4727 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-18187.6309 -829.668335 -21900.4727
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs90=int:0
+		[% zCVobLight:zCVob 39168 105]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18606.666 -1950.00842 -21302.2461 -16606.666 49.9915771 -19302.2461 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17606.666 -950.008423 -20302.2461
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs91=int:0
+		[% zCVobLight:zCVob 39168 106]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-19121.0859 -1778.13013 -20258.8906 -17121.0859 221.869812 -18258.8906 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-18121.0859 -778.130188 -19258.8906
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs92=int:0
+		[% zCVobLight:zCVob 39168 107]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-17780.9043 -1768.5647 -19923.8281 -15780.9043 231.435242 -17923.8281 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-16780.9043 -768.564758 -18923.8281
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs93=int:0
+		[% zCVobLight:zCVob 39168 108]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18069.0762 -1982.60986 -18149.1738 -16069.0762 17.3900757 -16149.1738 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17069.0762 -982.609924 -17149.1738
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs94=int:0
+		[% zCVobLight:zCVob 39168 109]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18701.9922 -1879.87207 -17062.0195 -16701.9922 120.127869 -15062.0195 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17701.9922 -879.872131 -16062.0195
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs95=int:0
+		[% zCVobLight:zCVob 39168 110]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-17656.9297 -1832.78955 -16526.0742 -15656.9297 167.21051 -14526.0732 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-16656.9297 -832.78949 -15526.0732
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs96=int:0
+		[% zCVobLight:zCVob 39168 111]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12381.4697 -1866.7561 -16025.2803 -10381.4697 133.243958 -14025.2803 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11381.4697 -866.756042 -15025.2803
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs97=int:0
+		[% zCVobLight:zCVob 39168 112]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13711.7402 -1642.41479 -17885.8301 -11711.7402 357.585266 -15885.8301 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12711.7402 -642.414734 -16885.8301
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs98=int:0
+		[% zCVobLight:zCVob 39168 113]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13487.4541 -1568.72437 -20023.707 -11487.4541 431.275574 -18023.707 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12487.4541 -568.724426 -19023.707
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs99=int:0
+		[% zCVobLight:zCVob 39168 114]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12079.9121 -1545.98279 -20152.1074 -10079.9121 454.017212 -18152.1074 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11079.9121 -545.982788 -19152.1074
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs100=int:0
+		[% zCVobLight:zCVob 39168 115]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12112.7588 -1289.30591 -17970.2031 -10112.7588 710.694092 -15970.2031 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11112.7588 -289.305908 -16970.2031
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs101=int:0
+		[% zCVobLight:zCVob 39168 116]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12622.4424 -1829.07837 -23226.5898 -10622.4424 170.921631 -21226.5898 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11622.4424 -829.078369 -22226.5898
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs102=int:0
+		[% zCVobLight:zCVob 39168 117]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-11306.3359 -1701.18262 -21753.0352 -9306.33594 298.817322 -19753.0352 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-10306.3359 -701.182678 -20753.0352
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs103=int:0
+		[% zCVobLight:zCVob 39168 118]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-12316.3975 -1863.02942 -24331.7305 -10316.3975 136.970581 -22331.7305 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11316.3975 -863.029419 -23331.7305
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs104=int:0
+		[% zCVobLight:zCVob 39168 119]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14320.6221 -1749.61719 -23767.4688 -12320.6221 250.382813 -21767.4688 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13320.6221 -749.617188 -22767.4688
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs105=int:0
+		[% zCVobLight:zCVob 39168 120]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14484.5723 -1632.64575 -25169.4707 -12484.5723 367.354309 -23169.4707 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13484.5723 -632.645691 -24169.4707
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs106=int:0
+		[% zCVobLight:zCVob 39168 121]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-16523.0859 -1719.18945 -24963.9844 -14523.0869 280.810608 -22963.9844 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15523.0869 -719.189392 -23963.9844
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs107=int:0
+		[% zCVobLight:zCVob 39168 122]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18199.8008 -1803.12732 -23345.7734 -16199.8008 196.872681 -21345.7734 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17199.8008 -803.127319 -22345.7734
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs108=int:0
+		[% zCVobLight:zCVob 39168 123]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-19197.5566 -1727.73596 -24033.7734 -17197.5566 272.264038 -22033.7734 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-18197.5566 -727.735962 -23033.7734
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs109=int:0
+		[% zCVobLight:zCVob 39168 124]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18888.5234 -1834.12732 -22250.9277 -16888.5234 165.872681 -20250.9277 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17888.5234 -834.127319 -21250.9277
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs110=int:0
+		[% zCVobLight:zCVob 39168 125]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-19656.9102 -1584.07983 -22134.7754 -17656.9102 415.920166 -20134.7754 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-18656.9102 -584.079834 -21134.7754
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs111=int:0
+		[% zCVobLight:zCVob 39168 126]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18759.8633 -1800.49316 -19674.7168 -16759.8633 199.506897 -17674.7168 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17759.8633 -800.493103 -18674.7168
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs112=int:0
+		[% zCVobLight:zCVob 39168 127]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18820.3867 -1753.43604 -18495.4531 -16820.3867 246.564026 -16495.4531 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17820.3867 -753.435974 -17495.4531
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs113=int:0
+		[% zCVobLight:zCVob 39168 128]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-18808.7793 -1643.74292 -16378.3506 -16808.7793 356.257141 -14378.3506 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17808.7793 -643.742859 -15378.3506
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs114=int:0
+		[% zCVobLight:zCVob 39168 129]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14826.6572 -1566.74365 -19094.3086 -12826.6572 433.256287 -17094.3086 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13826.6572 -566.743713 -18094.3086
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs115=int:0
+		[% zCVobLight:zCVob 39168 130]
+			pack=int:0
+			presetName=string:FIRESMALL
+			bbox3DWS=rawFloat:-15461.7998 1714.17285 -12756.5723 -14661.7998 2514.17285 -11956.5723 
+			trafoOSToWSRot=raw:3b270f3f00000080d63b543f000000000000803f00000000d63b54bf000000803b270f3f
+			trafoOSToWSPos=vec3:-15061.7998 2114.17285 -12356.5723
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:FIRESMALL
+			lightType=enum:0
+			range=float:400
+			color=color:131 0 0 255
+			spotConeAngle=float:0
+			lightStatic=bool:0
+			lightQuality=enum:2
+			lensflareFX=string:
+			turnedOn=bool:1
+			rangeAniScale=string:
+			rangeAniFPS=float:3
+			rangeAniSmooth=bool:1
+			colorAniList=string:(255 0 0) (128 0 0) 
+			colorAniFPS=float:2
+			colorAniSmooth=bool:1
+			canMove=bool:0
+		[]
+		childs116=int:0
+		[% zCVobLight:zCVob 39168 131]
+			pack=int:0
+			presetName=string:FIRESMALL
+			bbox3DWS=rawFloat:-14432.9531 1712.53735 -12786.2813 -13632.9531 2512.53735 -11986.2813 
+			trafoOSToWSRot=raw:3b270f3f00000080d63b543f000000000000803f00000000d63b54bf000000803b270f3f
+			trafoOSToWSPos=vec3:-14032.9531 2112.53735 -12386.2813
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:FIRESMALL
+			lightType=enum:0
+			range=float:400
+			color=color:252 0 0 255
+			spotConeAngle=float:0
+			lightStatic=bool:0
+			lightQuality=enum:2
+			lensflareFX=string:
+			turnedOn=bool:1
+			rangeAniScale=string:
+			rangeAniFPS=float:3
+			rangeAniSmooth=bool:1
+			colorAniList=string:(255 0 0) (128 0 0) 
+			colorAniFPS=float:2
+			colorAniSmooth=bool:1
+			canMove=bool:0
+		[]
+		childs117=int:0
+		[% zCVobLight:zCVob 39168 132]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14987.1064 1105.30688 -13273.0908 -12987.1064 3105.30688 -11273.0908 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-13987.1064 2105.30688 -12273.0908
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 128 128 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs118=int:0
+		[% zCVobLight:zCVob 39168 133]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15539 -182 -20261 -13539 1818 -18261 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14539 818 -19261
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs119=int:0
+		[% zCVobLight:zCVob 39168 134]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15013 213 -20371 -14013 1213 -19371 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14513 713 -19871
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:500
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs120=int:0
+		[% zCVobLight:zCVob 39168 135]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15044.5244 76.9867554 -21563.3027 -14044.5244 1076.98682 -20563.3027 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14544.5244 576.986755 -21063.3027
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:500
+			color=color:255 255 168 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs121=int:0
+		[% zCMover:zCTrigger:zCVob 39936 136]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14494.0234 4119.33398 -20515.2715 -14374.0234 4219.33398 -20415.2715 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000000000803f
+			trafoOSToWSPos=vec3:-14434.0244 4169.33301 -20465.2734
+			vobName=string:EXXXIT
+			visual=string:AW_CRATE_01.3DS
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCProgMeshProto 53505 137]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:39
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			moverBehavior=enum:2
+			touchBlockerDamage=float:0
+			stayOpenTimeSec=float:60
+			moverLocked=bool:0
+			autoLinkEnabled=bool:0
+			autoRotate=bool:0
+			numKeyframes=int:2
+			moveSpeed=float:20
+			posLerpType=enum:1
+			speedType=enum:1
+			keyframes=raw:198861c6aa4a82458ce29fc60000000000000080000000800000803f198861c64fd557448ce29fc60000000000000080000000800000803f
+			sfxOpenStart=string:
+			sfxOpenEnd=string:
+			sfxMoving=string:
+			sfxCloseStart=string:
+			sfxCloseEnd=string:
+			sfxLock=string:
+			sfxUnlock=string:
+			sfxUseLocked=string:
+		[]
+		childs122=int:1
+		[% oCTriggerChangeLevel:zCTrigger:zCVob 24577 138]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14776.7607 3773.49951 -21473.3457 -14276.7607 4273.49951 -20973.3457 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:-14526.7607 4023.49951 -21223.3457
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			triggerTarget=string:
+			flags=raw:07
+			filterFlags=raw:1f
+			respondToVobName=string:
+			numCanBeActivated=int:-1
+			retriggerWaitSec=float:0
+			damageThreshold=float:0
+			fireDelaySec=float:0
+			levelName=string:WORLD_DARKSAGA_FINAL_BEACH.ZEN
+			startVobName=string:
+		[]
+		childs123=int:0
+		[% zCVobSound:zCVob 12289 139]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15952.0859 -783.318726 -20286.5215 -12952.0859 2216.68115 -17286.5215 
+			trafoOSToWSRot=raw:6dc1e4bc0000000092e67f3f000000000000803f0000000090e67fbf000000005ec1e4bc
+			trafoOSToWSPos=vec3:-14452.0859 716.681274 -18786.5215
+			vobName=string:
+			visual=string:
+			showVisual=bool:0
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			sndVolume=float:100
+			sndMode=enum:2
+			sndRandDelay=float:5
+			sndRandDelayVar=float:2
+			sndStartOn=bool:1
+			sndAmbient3D=bool:0
+			sndObstruction=bool:0
+			sndConeAngle=float:0
+			sndVolType=enum:0
+			sndRadius=float:1500
+			sndName=string:AMBIENTCRAWLERSCREAM
+		[]
+		childs124=int:0
+		[% oCTouchDamage:zCTouchDamage:zCVob 36865 140]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-20313.873 -831.871826 -22575.2598 -15313.873 4168.12793 -17575.2598 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-17813.873 1668.12817 -20075.2598
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			damage=float:10
+			Barrier=bool:1
+			Blunt=bool:0
+			Edge=bool:0
+			Fire=bool:0
+			Fly=bool:0
+			Magic=bool:0
+			Point=bool:0
+			Fall=bool:0
+			damageRepeatDelaySec=float:0
+			damageVolDownScale=float:1
+			damageCollType=enum:1
+		[]
+		childs125=int:0
+		[% oCTouchDamage:zCTouchDamage:zCVob 36865 141]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13650.583 -1619.8103 -22485.3223 -8650.24316 3380.18945 -17485.3223 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-11150.2432 880.189697 -19985.3223
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			damage=float:10
+			Barrier=bool:1
+			Blunt=bool:0
+			Edge=bool:0
+			Fire=bool:0
+			Fly=bool:0
+			Magic=bool:0
+			Point=bool:0
+			Fall=bool:0
+			damageRepeatDelaySec=float:0
+			damageVolDownScale=float:1
+			damageCollType=enum:1
+		[]
+		childs126=int:0
+		[% oCTouchDamage:zCTouchDamage:zCVob 36865 142]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-20040.3945 -1780.97937 -24538.1758 -10040.3945 -782.97937 -14596.1758 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-15040.3945 -1281.97937 -19567.1758
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:1
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			damage=float:10000
+			Barrier=bool:0
+			Blunt=bool:0
+			Edge=bool:0
+			Fire=bool:1
+			Fly=bool:0
+			Magic=bool:0
+			Point=bool:0
+			Fall=bool:0
+			damageRepeatDelaySec=float:1
+			damageVolDownScale=float:3
+			damageCollType=enum:1
+		[]
+		childs127=int:0
+		[% zCVobLight:zCVob 39168 143]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-15673 -273 -19551 -13673 1727 -17551 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-14673 727 -18551
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs128=int:0
+		[% zCVobStartpoint:zCVob 52224 144]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-14504 508 -18317 -14504 508 -18317 
+			trafoOSToWSRot=raw:47b97cbf1cccf5bd6d1fd7bd03fbf8bd84177e3f84480b3c076ed33dc65cad3c44937ebf
+			trafoOSToWSPos=vec3:-14504 508 -18317
+			vobName=string:START_TEMPLE
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:1
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs129=int:0
+		[% zCVobLight:zCVob 39168 145]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-13896.0723 -758.396423 -19461.2188 -11896.0723 1241.60352 -17461.2188 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-12896.0723 241.603561 -18461.2188
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs130=int:0
+		[% zCVobLight:zCVob 39168 146]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:-17684.5039 -863.87085 -19040.6816 -15684.5039 1136.12915 -17040.6816 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:-16684.5039 136.129135 -18040.6816
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:1000
+			color=color:255 179 102 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:2
+			lensflareFX=string:
+		[]
+		childs131=int:0
+	[]
+	[WayNet % 0 0]
+		[% zCWayNet 0 147]
+			waynetVersion=int:1
+			numWaypoints=int:0
+			numWays=int:16
+			[wayl0 zCWaypoint 0 148]
+				wpName=string:ST_FINAL_06
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14099 507.676453 -18867
+				direction=vec3:-0.92050606 0 0.390731424
+			[]
+			[wayr0 zCWaypoint 0 149]
+				wpName=string:ST_FINAL_05
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14486 509.819855 -18698
+				direction=vec3:-0.0348973423 0 -0.999391794
+			[]
+			[wayl1 zCWaypoint 0 150]
+				wpName=string:ST_FINAL_BORIS_N_STAY_01
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-15106.3086 513.614624 -15907.4561
+				direction=vec3:-0.0174528509 0 -0.9998492
+			[]
+			[wayr1 zCWaypoint 0 151]
+				wpName=string:ST_FINAL_03
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-15014 513.038818 -18073
+				direction=vec3:0.0697555467 0 -0.997566402
+			[]
+			[wayl2 zCWaypoint 0 152]
+				wpName=string:ST_FINAL_07
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14890 512.111755 -18835
+				direction=vec3:0.809019029 0 0.587786376
+			[]
+			[wayr2 § 0 151]
+			[]
+			[wayl3 § 0 149]
+			[]
+			[wayr3 § 0 151]
+			[]
+			[wayl4 § 0 148]
+			[]
+			[wayr4 zCWaypoint 0 153]
+				wpName=string:ST_FINAL_04
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14083 507.451111 -18003
+				direction=vec3:-0.224951863 0 -0.974370062
+			[]
+			[wayl5 zCWaypoint 0 154]
+				wpName=string:ST_FINAL_02
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14073.7881 507.417297 -15814.2959
+				direction=vec3:-0.052336432 0 -0.998630643
+			[]
+			[wayr5 § 0 153]
+			[]
+			[wayl6 zCWaypoint 0 155]
+				wpName=string:ST_FINAL_08
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14513 509.94165 -19129
+				direction=vec3:0.0174525715 0 0.999850214
+			[]
+			[wayr6 § 0 148]
+			[]
+			[wayl7 § 0 155]
+			[]
+			[wayr7 § 0 152]
+			[]
+			[wayl8 § 0 149]
+			[]
+			[wayr8 § 0 152]
+			[]
+			[wayl9 § 0 150]
+			[]
+			[wayr9 § 0 154]
+			[]
+			[wayl10 § 0 153]
+			[]
+			[wayr10 § 0 151]
+			[]
+			[wayl11 § 0 155]
+			[]
+			[wayr11 § 0 149]
+			[]
+			[wayl12 § 0 149]
+			[]
+			[wayr12 § 0 153]
+			[]
+			[wayl13 § 0 155]
+			[]
+			[wayr13 zCWaypoint 0 156]
+				wpName=string:ST_FINAL_TO_SWORD_01
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14535 510.134644 -19778
+				direction=vec3:-0.0697561353 0 -0.997565985
+			[]
+			[wayl14 § 0 156]
+			[]
+			[wayr14 zCWaypoint 0 157]
+				wpName=string:ST_FINAL_TO_SWORD_02
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14521.8867 510.067078 -20259.6543
+				direction=vec3:-0.0697557032 0 -0.997564137
+			[]
+			[wayl15 § 0 157]
+			[]
+			[wayr15 zCWaypoint 0 158]
+				wpName=string:ST_FINAL_TO_SWORD_03
+				waterDepth=int:0
+				underWater=bool:0
+				position=vec3:-14522 510 -20830
+				direction=vec3:-0.0697557032 0 -0.997564137
+			[]
+		[]
+	[]
+	[EndMarker % 0 0]
+	[]
+[]
