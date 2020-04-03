@@ -5,9 +5,7 @@ VDFName=F:\Gothic MOD\Gothic II DSP\Data\modvdf\DarkSaga2_Plague.mod
 [FILES]
 *.dat -r
 *.bin -r
-WORLD_DS2PROLOG.ZEN.zen -r
-WORLD_DS2PROLOG_STARTOCEAN.zen -r
-WORLD_DARKSAGA_SKULL_TEMPLE_CLEAR.zen -r
+*.ZEN -r
 *.fnt -r
 *.tex -r
 *.mrm -r
@@ -22,5 +20,8 @@ WORLD_DARKSAGA_SKULL_TEMPLE_CLEAR.zen -r
 *.wav -r
 *.bik -r
 [EXCLUDE]
+*.UNCOMPILED.zen -r
+DS2P_ATOLL_PART_*.zen -r
 [INCLUDE]
+*.*
 [ENDVDF]
