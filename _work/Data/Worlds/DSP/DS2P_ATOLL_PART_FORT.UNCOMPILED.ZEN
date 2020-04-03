@@ -3,10 +3,10 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 3.4.2020 1:26:43
+date 3.4.2020 15:45:50
 user Anastasiya
 END
-objects 2115     
+objects 2116     
 END
 
 [% oCWorld:zCWorld 36865 0]
@@ -2151,7 +2151,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -2448,7 +2448,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:400
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -2547,7 +2547,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -2712,7 +2712,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -2811,7 +2811,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -2910,7 +2910,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:154 59 58 255
+			color=color:159 68 65 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -3009,7 +3009,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:164 80 74 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -3108,7 +3108,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:175 102 92 255
+			color=color:184 122 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -3745,9 +3745,9 @@ END
 		[% zCVob 52224 170]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:6194.8999 115 -2520.08398 6931.1001 115 -1819.91602 
+			bbox3DWS=rawFloat:6005.8999 115 -2516.08398 6742.1001 115 -1815.91602 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
-			trafoOSToWSPos=vec3:6563 105 -2170
+			trafoOSToWSPos=vec3:6374 105 -2166
 			vobName=string:
 			visual=string:DT_CARPET_ROUND_01.3DS
 			showVisual=bool:1
@@ -10683,7 +10683,7 @@ END
 			lightPresetInUse=string:FIRESMALL
 			lightType=enum:0
 			range=float:2000
-			color=color:224 72 0 255
+			color=color:222 62 0 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12393,7 +12393,7 @@ END
 		[% zCVob 52224 573]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10710.9941 -730.593811 2373.78198 10852.9941 -588.593811 2515.78198 
+			bbox3DWS=rawFloat:10501.5869 -870.397522 2257.39038 10982.0371 -474.716736 2636.77148 
 			trafoOSToWSRot=raw:ebd5123f00000080f0b3513f000000000000803f00000000f2b351bf00000080ead5123f
 			trafoOSToWSPos=vec3:10781.9941 -659.593811 2444.78198
 			vobName=string:
@@ -12418,7 +12418,7 @@ END
 		[% zCVob 52224 575]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10627.1113 -730.593811 1705.24951 10769.1113 -588.593811 1847.24951 
+			bbox3DWS=rawFloat:10530.3984 -811.155701 1636.297 10995.6621 -385.985229 1945.97534 
 			trafoOSToWSRot=raw:ebd5123f00000080f0b3513f000000000000803f00000000f2b351bf00000080ead5123f
 			trafoOSToWSPos=vec3:10698.1113 -659.593811 1776.24951
 			vobName=string:
@@ -12443,7 +12443,7 @@ END
 		[% zCVob 52224 577]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10817.4014 -355.286804 2122.56299 10959.4014 -213.286804 2264.56299 
+			bbox3DWS=rawFloat:10722.8613 -506.615906 2037.08569 11059.0371 -46.8499069 2414.92554 
 			trafoOSToWSRot=raw:f0d5123f00000000fcb3513f000000000000803f00000000fcb351bf00000000f0d5123f
 			trafoOSToWSPos=vec3:10888.4014 -284.286804 2193.56299
 			vobName=string:
@@ -12491,7 +12491,7 @@ END
 			lightPresetInUse=string:DOMUJAS
 			lightType=enum:3
 			range=float:1000
-			color=color:46 0 46 255
+			color=color:20 0 20 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12532,7 +12532,7 @@ END
 			lightPresetInUse=string:DOMUJAS
 			lightType=enum:3
 			range=float:1000
-			color=color:25 0 25 255
+			color=color:35 0 35 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12573,7 +12573,7 @@ END
 			lightPresetInUse=string:DOMUJAS
 			lightType=enum:3
 			range=float:1000
-			color=color:25 0 25 255
+			color=color:56 0 56 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12614,7 +12614,7 @@ END
 			lightPresetInUse=string:DOMUJAS
 			lightType=enum:3
 			range=float:1000
-			color=color:20 0 20 255
+			color=color:29 0 29 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12655,7 +12655,7 @@ END
 			lightPresetInUse=string:DOMUJAS
 			lightType=enum:3
 			range=float:1000
-			color=color:46 0 46 255
+			color=color:20 0 20 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -12673,7 +12673,7 @@ END
 		[% zCVob 52224 584]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:16058.3633 4384.21924 -2092.87695 16200.3633 4526.21924 -1950.87683 
+			bbox3DWS=rawFloat:15883.8408 4300.60059 -2203.09082 16255.5986 4636.46729 -1857.90491 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:16129.3633 4455.21924 -2021.87683
 			vobName=string:
@@ -12848,7 +12848,7 @@ END
 		[% zCVob 52224 593]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:13900.7217 1542.42212 -5054.92383 14042.7217 1684.42212 -4912.92383 
+			bbox3DWS=rawFloat:13823.166 1475.88794 -5141.76123 14149.3555 1819.62158 -4879.70996 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:13971.7217 1613.42212 -4983.92383
 			vobName=string:
@@ -12873,7 +12873,7 @@ END
 		[% zCVob 52224 595]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:11625.5313 895.373535 -4647.77979 11767.5313 1037.37354 -4505.77979 
+			bbox3DWS=rawFloat:11462.3994 797.937073 -4834.2876 11900.3525 1095.5481 -4412.89941 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:11696.5313 966.373535 -4576.77979
 			vobName=string:
@@ -12898,7 +12898,7 @@ END
 		[% zCVob 52224 597]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:9916.37598 610.716064 -4067.3623 10058.376 752.716064 -3925.3623 
+			bbox3DWS=rawFloat:9876.71387 533.58551 -4289.61279 10257.7891 808.191101 -3824.73462 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:9987.37598 681.716064 -3996.3623
 			vobName=string:
@@ -28959,7 +28959,7 @@ END
 		[% zCVob 52224 1291]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10592.4785 -1096.24011 2115.51221 10914.4785 -774.240112 2437.51221 
+			bbox3DWS=rawFloat:9593.66211 -1165.18152 1125.48462 11911.5254 -805.276733 3436.146 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:10753.4785 -935.240112 2276.51221
 			vobName=string:
@@ -29034,7 +29034,7 @@ END
 		[% zCVob 52224 1295]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10422.7998 -145.673462 2610.70801 10564.7998 -3.67346191 2752.70801 
+			bbox3DWS=rawFloat:10305.8379 -328.650909 2435.97607 10644.1709 98.4169846 2858.35034 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:10493.7998 -74.6734619 2681.70801
 			vobName=string:
@@ -29276,7 +29276,7 @@ END
 		[% zCVob 52224 1307]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10993 -170 7924 11315 152 8246 
+			bbox3DWS=rawFloat:10047.6748 -238.915771 6887.46094 12373.1934 120.898682 9228.14355 
 			trafoOSToWSRot=raw:26d97cbf00000000483020be000000000000803f000000004830203e0000000026d97cbf
 			trafoOSToWSPos=vec3:11154 -9 8085
 			vobName=string:
@@ -29301,7 +29301,7 @@ END
 		[% zCVob 52224 1309]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10460 -226 8518 10782 96 8840 
+			bbox3DWS=rawFloat:9541.5625 -294.285889 7510.08008 11765.8096 63.0419312 9701.55566 
 			trafoOSToWSRot=raw:354c2b3f00000000d23e3ebf000000000000803f00000000d43e3e3f00000000344c2b3f
 			trafoOSToWSPos=vec3:10621 -65 8679
 			vobName=string:
@@ -29326,9 +29326,9 @@ END
 		[% zCVob 52224 1311]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10678.9648 -547.374023 8229.94141 10719.0488 -238.623993 8249.98828 
-			trafoOSToWSRot=raw:ca42803f000000000050a338000000000000803f000000000030ab38000000000745803f
-			trafoOSToWSPos=vec3:10699.0059 -393 8239.96387
+			bbox3DWS=rawFloat:10678.9648 -547.374023 8229.93945 10719.0488 -238.623993 8249.98633 
+			trafoOSToWSRot=raw:e542803f000000000090a338000000000000803f000000000070ab38000000002245803f
+			trafoOSToWSPos=vec3:10699.0059 -393 8239.96191
 			vobName=string:
 			visual=string:NW_MISC_CHAIN_01.3DS
 			showVisual=bool:1
@@ -29376,7 +29376,7 @@ END
 		[% zCVob 52224 1315]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10643.124 134.436493 -2922.51318 10785.124 276.436493 -2780.51318 
+			bbox3DWS=rawFloat:10465.2979 -28.8804398 -3021.27197 10936.0176 375.693237 -2641.82031 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:10714.124 205.436493 -2851.51318
 			vobName=string:
@@ -29401,7 +29401,7 @@ END
 		[% zCVob 52224 1317]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:10274.9502 2074.39771 -6390.37793 10416.9502 2216.39771 -6248.37793 
+			bbox3DWS=rawFloat:10216.7031 2026.62915 -6561.06348 10464.0723 2182.92383 -6222.39746 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:10345.9502 2145.39771 -6319.37793
 			vobName=string:
@@ -29426,7 +29426,7 @@ END
 		[% zCVob 52224 1319]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:11307.2236 2807.2561 -6703.96191 11449.2236 2949.2561 -6561.96191 
+			bbox3DWS=rawFloat:11242.8418 2719.4729 -6816.86426 11496.9229 2966.81787 -6399.52832 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:11378.2236 2878.2561 -6632.96191
 			vobName=string:
@@ -29451,7 +29451,7 @@ END
 		[% zCVob 52224 1321]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:11331.8389 3757.89526 -7781.50537 11473.8389 3899.89526 -7639.50537 
+			bbox3DWS=rawFloat:11230.9033 3687.75659 -7867.79297 11567.7813 4012.4458 -7571.72461 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:11402.8389 3828.89526 -7710.50537
 			vobName=string:
@@ -32192,7 +32192,7 @@ END
 		[% zCVob 52224 1417]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:8141.2959 1251.57898 -4220.0498 8283.2959 1393.57898 -4078.0498 
+			bbox3DWS=rawFloat:7988.40723 1231.01794 -4293.2041 8431.85059 1484.87561 -4005.8335 
 			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
 			trafoOSToWSPos=vec3:8212.2959 1322.57898 -4149.0498
 			vobName=string:
@@ -33142,7 +33142,7 @@ END
 		[% zCVob 52224 1470]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:2953 870 -2233 3019 936 -2167 
+			bbox3DWS=rawFloat:2914.78589 872 -2268.95923 3060.79199 1156.69788 -2117.41113 
 			trafoOSToWSRot=raw:ca3017bf00000000cb954ebf000000000000803f00000000cb954e3f00000000ca3017bf
 			trafoOSToWSPos=vec3:2986 903 -2200
 			vobName=string:SMOKE
@@ -33167,7 +33167,7 @@ END
 		[% zCVob 52224 1472]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:3584 921 548 3650 987 614 
+			bbox3DWS=rawFloat:3513.03174 923 514.895264 3712.04077 1201.12598 670.212219 
 			trafoOSToWSRot=raw:ca3017bf00000000cb954ebf000000000000803f00000000cb954e3f00000000ca3017bf
 			trafoOSToWSPos=vec3:3617 954 581
 			vobName=string:SMOKE
@@ -34361,9 +34361,9 @@ END
 		[% zCVobLight:zCVob 39168 1524]
 			pack=int:0
 			presetName=string:FIRESMALL
-			bbox3DWS=rawFloat:6126 226 -2704 6926 1026 -1904 
+			bbox3DWS=rawFloat:6116 172 -2707 6916 972 -1907 
 			trafoOSToWSRot=raw:6ce2ff3c0000000006e07fbf000000000000803f0000000006e07f3f000000806ce2ff3c
-			trafoOSToWSPos=vec3:6526 626 -2304
+			trafoOSToWSPos=vec3:6516 572 -2307
 			vobName=string:
 			visual=string:
 			showVisual=bool:1
@@ -34384,7 +34384,7 @@ END
 			lightPresetInUse=string:FIRESMALL
 			lightType=enum:0
 			range=float:400
-			color=color:239 85 0 255
+			color=color:255 87 0 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -34525,7 +34525,7 @@ END
 			lightPresetInUse=string:LIGHT
 			lightType=enum:0
 			range=float:1200
-			color=color:211 147 107 255
+			color=color:225 197 100 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -34579,7 +34579,7 @@ END
 		[% zCVob 52224 1532]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:3431.99854 69 885.002991 3497.99854 135 951.002991 
+			bbox3DWS=rawFloat:3419.4856 72.7735901 863.789612 3523.09741 186.066498 966.250549 
 			trafoOSToWSRot=raw:14b47ebf00000000d859dd3d000000000000803f00000000d859ddbd0000000014b47ebf
 			trafoOSToWSPos=vec3:3464.99854 102 918.002991
 			vobName=string:SMOKE
@@ -34604,7 +34604,7 @@ END
 		[% zCVob 52224 1534]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:3423.99902 77 877.001526 3505.99902 159 959.001526 
+			bbox3DWS=rawFloat:3418.22583 75.0456085 867.541748 3510.78882 205.543854 967.860229 
 			trafoOSToWSRot=raw:becd7ebf00000000e4adf6bd000000000000803f00000000e4adf63d00000000becd7ebf
 			trafoOSToWSPos=vec3:3464.99902 118 918.001526
 			vobName=string:FIRE
@@ -34752,7 +34752,7 @@ END
 			lightPresetInUse=string:LIGHT
 			lightType=enum:0
 			range=float:1200
-			color=color:223 173 117 255
+			color=color:211 147 107 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -34831,7 +34831,7 @@ END
 		[% zCVob 52224 1545]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:4063.25391 66 -3498.20874 4145.25391 148 -3416.20874 
+			bbox3DWS=rawFloat:4058.77393 60.5763321 -3503.9353 4151.1665 156.179764 -3412.54272 
 			trafoOSToWSRot=raw:7c973e3f0000000001022b3f000000000000803f0000000001022bbf000000007c973e3f
 			trafoOSToWSPos=vec3:4104.25391 107 -3457.20874
 			vobName=string:FIRE
@@ -35158,7 +35158,7 @@ END
 		[% zCVob 52224 1562]
 			pack=int:0
 			presetName=string:
-			bbox3DWS=rawFloat:3736 823 -4984 3802 889 -4918 
+			bbox3DWS=rawFloat:3680.01904 825 -5026.11084 3848.40015 1113.03113 -4882.22021 
 			trafoOSToWSRot=raw:cb3017bf00000000ca954ebf000000000000803f00000000c8954e3f00000000cc3017bf
 			trafoOSToWSPos=vec3:3769 856 -4951
 			vobName=string:SMOKE
@@ -37327,7 +37327,7 @@ END
 			lightPresetInUse=string:NW_STANDART_FIRE_DYNAMIC
 			lightType=enum:0
 			range=float:300
-			color=color:174 100 90 255
+			color=color:173 99 89 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -38476,7 +38476,7 @@ END
 			lightPresetInUse=string:FIRESMALL
 			lightType=enum:0
 			range=float:400
-			color=color:233 198 111 255
+			color=color:230 186 95 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -38658,7 +38658,7 @@ END
 			lightPresetInUse=string:FIRESMALL
 			lightType=enum:0
 			range=float:400
-			color=color:204 52 0 255
+			color=color:212 60 0 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -38890,7 +38890,7 @@ END
 			lightPresetInUse=string:FIRESMALL
 			lightType=enum:0
 			range=float:400
-			color=color:239 85 0 255
+			color=color:255 88 0 255
 			spotConeAngle=float:0
 			lightStatic=bool:0
 			lightQuality=enum:2
@@ -38929,8 +38929,49 @@ END
 			[ai % 0 0]
 			[]
 		[]
-		childs1443=int:0
-		[% zCVob 52224 1714]
+		childs1443=int:1
+		[% zCVobLight:zCVob 39168 1714]
+			pack=int:0
+			presetName=string:FIRESMALL
+			bbox3DWS=rawFloat:4820 125 -2327 5620 925 -1527 
+			trafoOSToWSRot=raw:4de2ff3c0000000005e07fbf000000000000803f0000000007e07f3f000000804be2ff3c
+			trafoOSToWSPos=vec3:5220 525 -1927
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:FIRESMALL
+			lightType=enum:0
+			range=float:400
+			color=color:239 71 0 255
+			spotConeAngle=float:0
+			lightStatic=bool:0
+			lightQuality=enum:2
+			lensflareFX=string:
+			turnedOn=bool:1
+			rangeAniScale=string:
+			rangeAniFPS=float:3
+			rangeAniSmooth=bool:1
+			colorAniList=string:(255 80 0) (200 50 0) (255 100 0) 
+			colorAniFPS=float:2
+			colorAniSmooth=bool:1
+			canMove=bool:0
+		[]
+		childs1444=int:0
+		[% zCVob 52224 1715]
 			pack=int:0
 			presetName=string:
 			bbox3DWS=rawFloat:136.973434 -1502.24609 -7774.3457 1326.30664 229.785843 -6592.13916 
@@ -38949,13 +38990,13 @@ END
 			dynShadow=enum:0
 			zbias=int:0
 			isAmbient=bool:0
-			[visual zCProgMeshProto 53505 1715]
+			[visual zCProgMeshProto 53505 1716]
 			[]
 			[ai % 0 0]
 			[]
 		[]
-		childs1444=int:0
-		[% zCVob 52224 1716]
+		childs1445=int:0
+		[% zCVob 52224 1717]
 			pack=int:0
 			presetName=string:
 			bbox3DWS=rawFloat:12972.3613 -769.138 8799.59082 13183.457 -378.859985 9088.41797 
@@ -38979,3757 +39020,3757 @@ END
 			[ai % 0 0]
 			[]
 		[]
-		childs1445=int:0
+		childs1446=int:0
 	[]
 	[WayNet % 0 0]
-		[% zCWayNet 0 1717]
+		[% zCWayNet 0 1718]
 			waynetVersion=int:1
 			numWaypoints=int:0
 			numWays=int:440
-			[wayl0 zCWaypoint 0 1718]
+			[wayl0 zCWaypoint 0 1719]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_KITCHEN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6345 564 -2293
 				direction=vec3:1.00000238 0 1.08405948e-006
 			[]
-			[wayr0 zCWaypoint 0 1719]
+			[wayr0 zCWaypoint 0 1720]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_KITCHEN_STOVE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6505 564 -2305
 				direction=vec3:0.999848783 0 0.0174538959
 			[]
-			[wayl1 zCWaypoint 0 1720]
+			[wayl1 zCWaypoint 0 1721]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_KITCHEN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6331 564 -2543
 				direction=vec3:0.997565091 0 -0.0697556585
 			[]
-			[wayr1 zCWaypoint 0 1721]
+			[wayr1 zCWaypoint 0 1722]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_KITCHEN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6403 564.685913 -2694
 				direction=vec3:0.0349008515 0 -0.999390841
 			[]
-			[wayl2 § 0 1718]
+			[wayl2 § 0 1719]
 			[]
-			[wayr2 § 0 1720]
+			[wayr2 § 0 1721]
 			[]
-			[wayl3 § 0 1718]
+			[wayl3 § 0 1719]
 			[]
-			[wayr3 zCWaypoint 0 1722]
+			[wayr3 zCWaypoint 0 1723]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_KITCHEN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6350 564.685913 -2149
 				direction=vec3:0.0871548876 0 0.996195614
 			[]
-			[wayl4 zCWaypoint 0 1723]
+			[wayl4 zCWaypoint 0 1724]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_UP_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5970 564.685913 -1752
 				direction=vec3:0.0348989218 0 0.999390781
 			[]
-			[wayr4 zCWaypoint 0 1724]
+			[wayr4 zCWaypoint 0 1725]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_UP_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5902 564 -2278
 				direction=vec3:0.0348988846 0 0.999390841
 			[]
-			[wayl5 § 0 1723]
+			[wayl5 § 0 1724]
 			[]
-			[wayr5 zCWaypoint 0 1725]
+			[wayr5 zCWaypoint 0 1726]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_UP_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6167 564.685913 -1750
 				direction=vec3:0.996195674 0 0.0871565044
 			[]
-			[wayl6 § 0 1724]
+			[wayl6 § 0 1725]
 			[]
-			[wayr6 § 0 1718]
+			[wayr6 § 0 1719]
 			[]
-			[wayl7 zCWaypoint 0 1726]
+			[wayl7 zCWaypoint 0 1727]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5462 543 -2293
 				direction=vec3:-0.996195912 0 -0.0871563777
 			[]
-			[wayr7 zCWaypoint 0 1727]
+			[wayr7 zCWaypoint 0 1728]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5461 543 -2083
 				direction=vec3:0.087155275 0 0.996195793
 			[]
-			[wayl8 § 0 1727]
+			[wayl8 § 0 1728]
 			[]
-			[wayr8 zCWaypoint 0 1728]
+			[wayr8 zCWaypoint 0 1729]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5258 543 -2096
 				direction=vec3:0.104528107 0 0.994526148
 			[]
-			[wayl9 zCWaypoint 0 1729]
+			[wayl9 zCWaypoint 0 1730]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5254 543 -2309
 				direction=vec3:-0.996194661 0 -0.0871564001
 			[]
-			[wayr9 § 0 1726]
+			[wayr9 § 0 1727]
 			[]
-			[wayl10 zCWaypoint 0 1730]
+			[wayl10 zCWaypoint 0 1731]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5432 543.248413 -2584
 				direction=vec3:-0.996194661 0 -0.0871564001
 			[]
-			[wayr10 § 0 1726]
+			[wayr10 § 0 1727]
 			[]
-			[wayl11 zCWaypoint 0 1731]
+			[wayl11 zCWaypoint 0 1732]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BEDROOM_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5290 543.248413 -2603
 				direction=vec3:-0.0697574764 0 0.997565269
 			[]
-			[wayr11 § 0 1730]
+			[wayr11 § 0 1731]
 			[]
-			[wayl12 § 0 1724]
+			[wayl12 § 0 1725]
 			[]
-			[wayr12 § 0 1726]
+			[wayr12 § 0 1727]
 			[]
-			[wayl13 zCWaypoint 0 1732]
+			[wayl13 zCWaypoint 0 1733]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_UP_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5808 564.685913 -2518
 				direction=vec3:0.034898825 0 0.999392033
 			[]
-			[wayr13 § 0 1724]
+			[wayr13 § 0 1725]
 			[]
-			[wayl14 zCWaypoint 0 1733]
+			[wayl14 zCWaypoint 0 1734]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_STAIRS_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5792 562.915771 -2818
 				direction=vec3:-0.9993909 0 0.034898866
 			[]
-			[wayr14 § 0 1732]
+			[wayr14 § 0 1733]
 			[]
-			[wayl15 zCWaypoint 0 1734]
+			[wayl15 zCWaypoint 0 1735]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5910 164.32251 -1968
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr15 zCWaypoint 0 1735]
+			[wayr15 zCWaypoint 0 1736]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6192 164.32251 -1967
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl16 zCWaypoint 0 1736]
+			[wayl16 zCWaypoint 0 1737]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BACK_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6113 164.32251 -1762
 				direction=vec3:-0.0523354076 0 -0.99862963
 			[]
-			[wayr16 § 0 1735]
+			[wayr16 § 0 1736]
 			[]
-			[wayl17 zCWaypoint 0 1737]
+			[wayl17 zCWaypoint 0 1738]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6283.75195 164.32251 -2165.00537
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr17 § 0 1735]
+			[wayr17 § 0 1736]
 			[]
-			[wayl18 § 0 1737]
+			[wayl18 § 0 1738]
 			[]
-			[wayr18 zCWaypoint 0 1738]
+			[wayr18 zCWaypoint 0 1739]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_CHIEF
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6512 187 -2177
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl19 zCWaypoint 0 1739]
+			[wayl19 zCWaypoint 0 1740]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5349.94043 164.322525 -2468.95923
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr19 zCWaypoint 0 1740]
+			[wayr19 zCWaypoint 0 1741]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5815 164.468826 -2498
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl20 § 0 1740]
+			[wayl20 § 0 1741]
 			[]
-			[wayr20 zCWaypoint 0 1741]
+			[wayr20 zCWaypoint 0 1742]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6272 164.283936 -2465
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl21 zCWaypoint 0 1742]
+			[wayl21 zCWaypoint 0 1743]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_STAIRS_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6467 164.32251 -2787
 				direction=vec3:-0.999392748 0 0.0348990038
 			[]
-			[wayr21 § 0 1741]
+			[wayr21 § 0 1742]
 			[]
-			[wayl22 § 0 1737]
+			[wayl22 § 0 1738]
 			[]
-			[wayr22 § 0 1741]
+			[wayr22 § 0 1742]
 			[]
-			[wayl23 zCWaypoint 0 1743]
+			[wayl23 zCWaypoint 0 1744]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5516 164.32251 -2093
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr23 § 0 1734]
+			[wayr23 § 0 1735]
 			[]
-			[wayl24 § 0 1743]
+			[wayl24 § 0 1744]
 			[]
-			[wayr24 zCWaypoint 0 1744]
+			[wayr24 zCWaypoint 0 1745]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5305 164.322601 -2257
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl25 § 0 1739]
+			[wayl25 § 0 1740]
 			[]
-			[wayr25 § 0 1744]
+			[wayr25 § 0 1745]
 			[]
-			[wayl26 zCWaypoint 0 1745]
+			[wayl26 zCWaypoint 0 1746]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BOOKSTAND_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5852 164.32251 -1750
 				direction=vec3:-0.9993909 0 0.0348989889
 			[]
-			[wayr26 § 0 1736]
+			[wayr26 § 0 1737]
 			[]
-			[wayl27 zCWaypoint 0 1746]
+			[wayl27 zCWaypoint 0 1747]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_BACKENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6166 164.32251 -1386
 				direction=vec3:-0.0523356497 0 -0.998630524
 			[]
-			[wayr27 § 0 1736]
+			[wayr27 § 0 1737]
 			[]
-			[wayl28 § 0 1742]
+			[wayl28 § 0 1743]
 			[]
-			[wayr28 § 0 1733]
+			[wayr28 § 0 1734]
 			[]
-			[wayl29 zCWaypoint 0 1747]
+			[wayl29 zCWaypoint 0 1748]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_IN_MAINENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5166 164.322632 -2271
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr29 § 0 1744]
+			[wayr29 § 0 1745]
 			[]
-			[wayl30 zCWaypoint 0 1748]
+			[wayl30 zCWaypoint 0 1749]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_ENTRANCE_BACK
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6166 67.3746948 -1008
 				direction=vec3:0.01745224 0 -0.99985081
 			[]
-			[wayr30 § 0 1746]
+			[wayr30 § 0 1747]
 			[]
-			[wayl31 zCWaypoint 0 1749]
+			[wayl31 zCWaypoint 0 1750]
 				wpName=string:DP_FORT_TOWN_TOWNHALL_ENTRANCE_MAIN
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4961 158.467194 -2280
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr31 § 0 1747]
+			[wayr31 § 0 1748]
 			[]
-			[wayl32 zCWaypoint 0 1750]
+			[wayl32 zCWaypoint 0 1751]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12163 -345.634033 1584
 				direction=vec3:-0.0348984301 0 -0.999391556
 			[]
-			[wayr32 zCWaypoint 0 1751]
+			[wayr32 zCWaypoint 0 1752]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12229 -375.030182 2575
 				direction=vec3:0.669131637 0 -0.743144512
 			[]
-			[wayl33 zCWaypoint 0 1752]
+			[wayl33 zCWaypoint 0 1753]
 				wpName=string:DP_FORT_TOWN_SMITH_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11356.1475 26.3218613 -670.360046
 				direction=vec3:0.342020303 0 0.939692736
 			[]
-			[wayr33 zCWaypoint 0 1753]
+			[wayr33 zCWaypoint 0 1754]
 				wpName=string:DP_FORT_TOWN_SMITH_COOL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11405.8125 30.6829185 -812.468445
 				direction=vec3:0.453991234 0 -0.891007662
 			[]
-			[wayl34 § 0 1752]
+			[wayl34 § 0 1753]
 			[]
-			[wayr34 zCWaypoint 0 1754]
+			[wayr34 zCWaypoint 0 1755]
 				wpName=string:DP_FORT_TOWN_SMITH_ANVIL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11237.5059 26.2742729 -652.83252
 				direction=vec3:-0.956305683 0 0.292372823
 			[]
-			[wayl35 § 0 1752]
+			[wayl35 § 0 1753]
 			[]
-			[wayr35 zCWaypoint 0 1755]
+			[wayr35 zCWaypoint 0 1756]
 				wpName=string:DP_FORT_TOWN_SMITH_FIRE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11410.4912 25.7976875 -477.297302
 				direction=vec3:0.0871558785 0 0.996194959
 			[]
-			[wayl36 zCWaypoint 0 1756]
+			[wayl36 zCWaypoint 0 1757]
 				wpName=string:DP_FORT_TOWN_SMITH_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11220.7002 34.2608833 -892.722473
 				direction=vec3:0.601815581 0 0.79863584
 			[]
-			[wayr36 zCWaypoint 0 1757]
+			[wayr36 zCWaypoint 0 1758]
 				wpName=string:DP_FORT_TOWN_SMITH_SHARP
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11268.6318 39.6095467 -1000.17719
 				direction=vec3:0.694659293 0 -0.719340622
 			[]
-			[wayl37 zCWaypoint 0 1758]
+			[wayl37 zCWaypoint 0 1759]
 				wpName=string:DP_FORT_TOWN_SMITH_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11047.3906 41.527771 -1057.96802
 				direction=vec3:0.999848604 0 -0.0174527857
 			[]
-			[wayr37 § 0 1756]
+			[wayr37 § 0 1757]
 			[]
-			[wayl38 § 0 1756]
+			[wayl38 § 0 1757]
 			[]
-			[wayr38 § 0 1752]
+			[wayr38 § 0 1753]
 			[]
-			[wayl39 zCWaypoint 0 1759]
+			[wayl39 zCWaypoint 0 1760]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3344 120.1502 -4808
 				direction=vec3:0.99984771 0 0.0174521487
 			[]
-			[wayr39 zCWaypoint 0 1760]
+			[wayr39 zCWaypoint 0 1761]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3057.58423 120.1502 -4810.95557
 				direction=vec3:-0.999849856 0 -0.0174524859
 			[]
-			[wayl40 zCWaypoint 0 1761]
+			[wayl40 zCWaypoint 0 1762]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3325 120.1502 -4552
 				direction=vec3:0.99984771 0 0.017452145
 			[]
-			[wayr40 § 0 1759]
+			[wayr40 § 0 1760]
 			[]
-			[wayl41 zCWaypoint 0 1762]
+			[wayl41 zCWaypoint 0 1763]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_BED02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3710 120.1502 -4848
 				direction=vec3:3.53902578e-007 0 1.00000095
 			[]
-			[wayr41 § 0 1759]
+			[wayr41 § 0 1760]
 			[]
-			[wayl42 § 0 1761]
+			[wayl42 § 0 1762]
 			[]
-			[wayr42 zCWaypoint 0 1763]
+			[wayr42 zCWaypoint 0 1764]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_BED01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3700 120.1502 -4542
 				direction=vec3:-0.0174525678 0 -0.999848664
 			[]
-			[wayl43 zCWaypoint 0 1764]
+			[wayl43 zCWaypoint 0 1765]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3278.00024 120.150208 -4320
 				direction=vec3:0.99984771 0 0.0174521059
 			[]
-			[wayr43 § 0 1761]
+			[wayr43 § 0 1762]
 			[]
-			[wayl44 § 0 1764]
+			[wayl44 § 0 1765]
 			[]
-			[wayr44 zCWaypoint 0 1765]
+			[wayr44 zCWaypoint 0 1766]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_STOVE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3478.32251 120.150208 -4350.2959
 				direction=vec3:0.99984771 0 0.0174521487
 			[]
-			[wayl45 zCWaypoint 0 1766]
+			[wayl45 zCWaypoint 0 1767]
 				wpName=string:DP_FORT_TOWN_HOUSE01_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3114 120.1502 -4322
 				direction=vec3:0.999850094 0 0.017452104
 			[]
-			[wayr45 § 0 1764]
+			[wayr45 § 0 1765]
 			[]
-			[wayl46 zCWaypoint 0 1767]
+			[wayl46 zCWaypoint 0 1768]
 				wpName=string:DP_FORT_TOWN_HOUSE03_CHAIR02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3665 119.107498 382
 				direction=vec3:0.469471961 0 0.88294965
 			[]
-			[wayr46 zCWaypoint 0 1768]
+			[wayr46 zCWaypoint 0 1769]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3658.00024 119.107498 103
 				direction=vec3:-0.087155953 0 -0.996195793
 			[]
-			[wayl47 zCWaypoint 0 1769]
+			[wayl47 zCWaypoint 0 1770]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_BED01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3761 119.107498 97
 				direction=vec3:0.98480916 0 -0.173648164
 			[]
-			[wayr47 § 0 1768]
+			[wayr47 § 0 1769]
 			[]
-			[wayl48 zCWaypoint 0 1770]
+			[wayl48 zCWaypoint 0 1771]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_BED02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3560 119.107498 110
 				direction=vec3:-0.999392629 0 0.0348989889
 			[]
-			[wayr48 § 0 1768]
+			[wayr48 § 0 1769]
 			[]
-			[wayl49 zCWaypoint 0 1771]
+			[wayl49 zCWaypoint 0 1772]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3531 119.107498 413
 				direction=vec3:-1.15483999e-007 0 -1.00000119
 			[]
-			[wayr49 § 0 1767]
+			[wayr49 § 0 1768]
 			[]
-			[wayl50 § 0 1767]
+			[wayl50 § 0 1768]
 			[]
-			[wayr50 zCWaypoint 0 1772]
+			[wayr50 zCWaypoint 0 1773]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3923.00024 119.107498 427
 				direction=vec3:-0.866025925 0 -0.500000298
 			[]
-			[wayl51 zCWaypoint 0 1773]
+			[wayl51 zCWaypoint 0 1774]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4211 119.107491 476.000031
 				direction=vec3:-0.241922081 0 0.970296144
 			[]
-			[wayr51 § 0 1772]
+			[wayr51 § 0 1773]
 			[]
-			[wayl52 zCWaypoint 0 1774]
+			[wayl52 zCWaypoint 0 1775]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3606 119.107498 783
 				direction=vec3:-1 0 -6.10350952e-008
 			[]
-			[wayr52 § 0 1771]
+			[wayr52 § 0 1772]
 			[]
-			[wayl53 zCWaypoint 0 1775]
+			[wayl53 zCWaypoint 0 1776]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_STOVE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4001 119.107498 794
 				direction=vec3:0.0523358323 0 0.99862957
 			[]
-			[wayr53 § 0 1774]
+			[wayr53 § 0 1775]
 			[]
-			[wayl54 § 0 1775]
+			[wayl54 § 0 1776]
 			[]
-			[wayr54 zCWaypoint 0 1776]
+			[wayr54 zCWaypoint 0 1777]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_CHAIR01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3935 119.107498 708
 				direction=vec3:-0.669131339 0 -0.743146241
 			[]
-			[wayl55 zCWaypoint 0 1777]
+			[wayl55 zCWaypoint 0 1778]
 				wpName=string:DP_FORT_TOWN_HOUSE03_IN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4216 119.107491 711
 				direction=vec3:-1.00000083 0 -6.70552254e-008
 			[]
-			[wayr55 § 0 1775]
+			[wayr55 § 0 1776]
 			[]
-			[wayl56 § 0 1777]
+			[wayl56 § 0 1778]
 			[]
-			[wayr56 § 0 1773]
+			[wayr56 § 0 1774]
 			[]
-			[wayl57 zCWaypoint 0 1778]
+			[wayl57 zCWaypoint 0 1779]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14316 1486.55688 -5138
 				direction=vec3:0.981627584 0 -0.190808952
 			[]
-			[wayr57 zCWaypoint 0 1779]
+			[wayr57 zCWaypoint 0 1780]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_A_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13323 1082.83167 -5469
 				direction=vec3:0.997564375 0 0.069756262
 			[]
-			[wayl58 zCWaypoint 0 1780]
+			[wayl58 zCWaypoint 0 1781]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_A_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12404.9277 731.190674 -5383.04053
 				direction=vec3:0.945518494 0 -0.325568348
 			[]
-			[wayr58 § 0 1779]
+			[wayr58 § 0 1780]
 			[]
-			[wayl59 zCWaypoint 0 1781]
+			[wayl59 zCWaypoint 0 1782]
 				wpName=string:DP_FORT_MILL_TO_EAST_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11607 618.976013 -4876
 				direction=vec3:0.484809369 0 -0.874619722
 			[]
-			[wayr59 § 0 1780]
+			[wayr59 § 0 1781]
 			[]
-			[wayl60 zCWaypoint 0 1782]
+			[wayl60 zCWaypoint 0 1783]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10508.2764 401.92865 -8453.82324
 				direction=vec3:-0.302369595 0 -0.953190744
 			[]
-			[wayr60 zCWaypoint 0 1783]
+			[wayr60 zCWaypoint 0 1784]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10374 425.820374 -8885
 				direction=vec3:-0.0104715079 0 -0.999945343
 			[]
-			[wayl61 zCWaypoint 0 1784]
+			[wayl61 zCWaypoint 0 1785]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10481 417.512024 -7308
 				direction=vec3:0.0767193958 0 -0.997053385
 			[]
-			[wayr61 § 0 1782]
+			[wayr61 § 0 1783]
 			[]
-			[wayl62 zCWaypoint 0 1785]
+			[wayl62 zCWaypoint 0 1786]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10073 504.854187 -6770
 				direction=vec3:0.146083221 0 -0.989272654
 			[]
-			[wayr62 § 0 1784]
+			[wayr62 § 0 1785]
 			[]
-			[wayl63 zCWaypoint 0 1786]
+			[wayl63 zCWaypoint 0 1787]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10045 562.379211 -5739
 				direction=vec3:-0.302369654 0 -0.953191936
 			[]
-			[wayr63 § 0 1785]
+			[wayr63 § 0 1786]
 			[]
-			[wayl64 zCWaypoint 0 1787]
+			[wayl64 zCWaypoint 0 1788]
 				wpName=string:DP_FORT_MILL_TO_EAST_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10234 566.458435 -4784
 				direction=vec3:0.0871555507 0 -0.996194899
 			[]
-			[wayr64 § 0 1786]
+			[wayr64 § 0 1787]
 			[]
-			[wayl65 zCWaypoint 0 1788]
+			[wayl65 zCWaypoint 0 1789]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7848 -432.343628 -240
 				direction=vec3:0.970297277 0 0.241922587
 			[]
-			[wayr65 zCWaypoint 0 1789]
+			[wayr65 zCWaypoint 0 1790]
 				wpName=string:DP_FORT_TOWN_ROAD_TO_TUNNEL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7407 -379.505096 -337
 				direction=vec3:0.173648655 0 -0.984807611
 			[]
-			[wayl66 § 0 1751]
+			[wayl66 § 0 1752]
 			[]
-			[wayr66 zCWaypoint 0 1790]
+			[wayr66 zCWaypoint 0 1791]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12036 -606.43988 2716
 				direction=vec3:0.898794949 0 -0.438370287
 			[]
-			[wayl67 § 0 1750]
+			[wayl67 § 0 1751]
 			[]
-			[wayr67 zCWaypoint 0 1791]
+			[wayr67 zCWaypoint 0 1792]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12142 -61.9572144 1391
 				direction=vec3:0.0523369685 0 -0.998629987
 			[]
-			[wayl68 § 0 1791]
+			[wayl68 § 0 1792]
 			[]
-			[wayr68 zCWaypoint 0 1792]
+			[wayr68 zCWaypoint 0 1793]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12132 -58.4759903 1220
 				direction=vec3:0.173649207 0 -0.984807909
 			[]
-			[wayl69 zCWaypoint 0 1793]
+			[wayl69 zCWaypoint 0 1794]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12219 279.837372 1011
 				direction=vec3:0.422619224 0 -0.90630734
 			[]
-			[wayr69 § 0 1792]
+			[wayr69 § 0 1793]
 			[]
-			[wayl70 § 0 1793]
+			[wayl70 § 0 1794]
 			[]
-			[wayr70 zCWaypoint 0 1794]
+			[wayr70 zCWaypoint 0 1795]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12547 521.660156 225
 				direction=vec3:0.422619224 0 -0.90630734
 			[]
-			[wayl71 zCWaypoint 0 1795]
+			[wayl71 zCWaypoint 0 1796]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12861.3232 633.232056 -526.959717
 				direction=vec3:0.669131398 0 -0.743144035
 			[]
-			[wayr71 § 0 1794]
+			[wayr71 § 0 1795]
 			[]
-			[wayl72 § 0 1795]
+			[wayl72 § 0 1796]
 			[]
-			[wayr72 zCWaypoint 0 1796]
+			[wayr72 zCWaypoint 0 1797]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_11
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13416 754.75415 -969
 				direction=vec3:0.848048806 0 -0.529918253
 			[]
-			[wayl73 zCWaypoint 0 1797]
+			[wayl73 zCWaypoint 0 1798]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_12
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13846 873.81311 -1205
 				direction=vec3:0.920505404 0 -0.390730083
 			[]
-			[wayr73 § 0 1796]
+			[wayr73 § 0 1797]
 			[]
-			[wayl74 zCWaypoint 0 1798]
+			[wayl74 zCWaypoint 0 1799]
 				wpName=string:DP_FORT_RESTCAVE_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14329 945.891235 -1285
 				direction=vec3:0.994522393 0 -0.104527295
 			[]
-			[wayr74 zCWaypoint 0 1799]
+			[wayr74 zCWaypoint 0 1800]
 				wpName=string:DP_FORT_RESTCAVE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14886 945.891418 -1378
 				direction=vec3:0.994522035 0 -0.104527302
 			[]
-			[wayl75 zCWaypoint 0 1800]
+			[wayl75 zCWaypoint 0 1801]
 				wpName=string:DP_FORT_RESTCAVE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17556.4355 1060.0481 -1932.55847
 				direction=vec3:0.994521976 0 -0.104527399
 			[]
-			[wayr75 zCWaypoint 0 1801]
+			[wayr75 zCWaypoint 0 1802]
 				wpName=string:DP_FORT_RESTCAVE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17506.627 1044.10083 -1269.76709
 				direction=vec3:0.994521976 0 -0.104527399
 			[]
-			[wayl76 § 0 1800]
+			[wayl76 § 0 1801]
 			[]
-			[wayr76 zCWaypoint 0 1802]
+			[wayr76 zCWaypoint 0 1803]
 				wpName=string:DP_FORT_RESTCAVE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16999 985.621887 -1664
 				direction=vec3:0.994521976 0 -0.104527399
 			[]
-			[wayl77 § 0 1801]
+			[wayl77 § 0 1802]
 			[]
-			[wayr77 § 0 1802]
+			[wayr77 § 0 1803]
 			[]
-			[wayl78 zCWaypoint 0 1803]
+			[wayl78 zCWaypoint 0 1804]
 				wpName=string:DP_FORT_RESTCAVE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16517 945.853333 -1621
 				direction=vec3:0.994521976 0 -0.104527399
 			[]
-			[wayr78 § 0 1802]
+			[wayr78 § 0 1803]
 			[]
-			[wayl79 § 0 1803]
+			[wayl79 § 0 1804]
 			[]
-			[wayr79 zCWaypoint 0 1804]
+			[wayr79 zCWaypoint 0 1805]
 				wpName=string:DP_FORT_RESTCAVE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15886.0225 964.147766 -1562.73645
 				direction=vec3:0.994522035 0 -0.104527302
 			[]
-			[wayl80 zCWaypoint 0 1805]
+			[wayl80 zCWaypoint 0 1806]
 				wpName=string:DP_FORT_RESTCAVE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15312 956.19989 -1455
 				direction=vec3:0.994522035 0 -0.104527302
 			[]
-			[wayr80 § 0 1804]
+			[wayr80 § 0 1805]
 			[]
-			[wayl81 § 0 1805]
+			[wayl81 § 0 1806]
 			[]
-			[wayr81 zCWaypoint 0 1806]
+			[wayr81 zCWaypoint 0 1807]
 				wpName=string:DP_FORT_RESTCAVE_R_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15379 951.46521 -2044
 				direction=vec3:0.0349009633 0 -0.999392629
 			[]
-			[wayl82 § 0 1805]
+			[wayl82 § 0 1806]
 			[]
-			[wayr82 zCWaypoint 0 1807]
+			[wayr82 zCWaypoint 0 1808]
 				wpName=string:DP_FORT_RESTCAVE_L_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15481 953.115173 -914
 				direction=vec3:0.241921067 0 0.970296979
 			[]
-			[wayl83 zCWaypoint 0 1808]
+			[wayl83 zCWaypoint 0 1809]
 				wpName=string:DP_FORT_RESTCAVE_L_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15541.5186 957.074402 -420.021729
 				direction=vec3:0.24192065 0 0.970296025
 			[]
-			[wayr83 § 0 1807]
+			[wayr83 § 0 1808]
 			[]
-			[wayl84 zCWaypoint 0 1809]
+			[wayl84 zCWaypoint 0 1810]
 				wpName=string:DP_FORT_RESTCAVE_L_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15589.2822 914.81543 74.1200638
 				direction=vec3:0.24192065 0 0.970296085
 			[]
-			[wayr84 § 0 1808]
+			[wayr84 § 0 1809]
 			[]
-			[wayl85 zCWaypoint 0 1810]
+			[wayl85 zCWaypoint 0 1811]
 				wpName=string:DP_FORT_RESTCAVE_R_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15321 951.170349 -2578
 				direction=vec3:0.0349013023 0 -0.999390781
 			[]
-			[wayr85 § 0 1806]
+			[wayr85 § 0 1807]
 			[]
-			[wayl86 zCWaypoint 0 1811]
+			[wayl86 zCWaypoint 0 1812]
 				wpName=string:DP_FORT_RESTCAVE_R_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15262 986.580017 -3149
 				direction=vec3:0.0349013023 0 -0.999390781
 			[]
-			[wayr86 § 0 1810]
+			[wayr86 § 0 1811]
 			[]
-			[wayl87 § 0 1799]
+			[wayl87 § 0 1800]
 			[]
-			[wayr87 § 0 1805]
+			[wayr87 § 0 1806]
 			[]
-			[wayl88 zCWaypoint 0 1812]
+			[wayl88 zCWaypoint 0 1813]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12024 -596.999512 3094
 				direction=vec3:0.325568914 0 -0.945518851
 			[]
-			[wayr88 § 0 1790]
+			[wayr88 § 0 1791]
 			[]
-			[wayl89 zCWaypoint 0 1813]
+			[wayl89 zCWaypoint 0 1814]
 				wpName=string:DP_FORT_TOWN_TO_RESTCAVE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11915 -784.100525 3202
 				direction=vec3:0.857169032 0 -0.515038371
 			[]
-			[wayr89 § 0 1812]
+			[wayr89 § 0 1813]
 			[]
-			[wayl90 zCWaypoint 0 1814]
+			[wayl90 zCWaypoint 0 1815]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_A_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11500 -757.966187 3533
 				direction=vec3:0.874619961 0 0.484810621
 			[]
-			[wayr90 § 0 1813]
+			[wayr90 § 0 1814]
 			[]
-			[wayl91 zCWaypoint 0 1815]
+			[wayl91 zCWaypoint 0 1816]
 				wpName=string:DP_FORT_TOWER_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16479 3419.20459 -2085
 				direction=vec3:-0.992546797 0 0.121868566
 			[]
-			[wayr91 zCWaypoint 0 1816]
+			[wayr91 zCWaypoint 0 1817]
 				wpName=string:DP_FORT_TOWER_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16171 3413.04541 -2060
 				direction=vec3:-0.992546201 0 0.121868454
 			[]
-			[wayl92 zCWaypoint 0 1817]
+			[wayl92 zCWaypoint 0 1818]
 				wpName=string:DP_FORT_TOWER_ENTRANCE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17188 3392.53516 -2070
 				direction=vec3:-0.990270317 0 -0.139174357
 			[]
-			[wayr92 § 0 1815]
+			[wayr92 § 0 1816]
 			[]
-			[wayl93 zCWaypoint 0 1818]
+			[wayl93 zCWaypoint 0 1819]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_12
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17793 3344.37671 -1424
 				direction=vec3:0.819153488 0 -0.573576391
 			[]
-			[wayr93 § 0 1817]
+			[wayr93 § 0 1818]
 			[]
-			[wayl94 zCWaypoint 0 1819]
+			[wayl94 zCWaypoint 0 1820]
 				wpName=string:DP_FORT_OLDMINE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22956 1616.13586 -528
 				direction=vec3:-0.515038669 0 0.857168496
 			[]
-			[wayr94 zCWaypoint 0 1820]
+			[wayr94 zCWaypoint 0 1821]
 				wpName=string:DP_FORT_OLDMINE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22694 1604.02222 -82
 				direction=vec3:0.6293208 0 0.777146041
 			[]
-			[wayl95 zCWaypoint 0 1821]
+			[wayl95 zCWaypoint 0 1822]
 				wpName=string:DP_FORT_OLDMINE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:23240 1588.52551 -966
 				direction=vec3:-0.275637656 0 0.961262822
 			[]
-			[wayr95 § 0 1819]
+			[wayr95 § 0 1820]
 			[]
-			[wayl96 zCWaypoint 0 1822]
+			[wayl96 zCWaypoint 0 1823]
 				wpName=string:DP_FORT_OLDMINE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:23339 1591.79248 -1606
 				direction=vec3:-0.0348995291 0 0.999391675
 			[]
-			[wayr96 § 0 1821]
+			[wayr96 § 0 1822]
 			[]
-			[wayl97 zCWaypoint 0 1823]
+			[wayl97 zCWaypoint 0 1824]
 				wpName=string:DP_FORT_OLDMINE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:23271 1609.97424 -2318
 				direction=vec3:0.974370003 0 0.224951118
 			[]
-			[wayr97 § 0 1822]
+			[wayr97 § 0 1823]
 			[]
-			[wayl98 zCWaypoint 0 1824]
+			[wayl98 zCWaypoint 0 1825]
 				wpName=string:DP_FORT_OLDMINE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22466.4609 1575.9187 -2410.80469
 				direction=vec3:0.974370122 0 0.224950701
 			[]
-			[wayr98 § 0 1823]
+			[wayr98 § 0 1824]
 			[]
-			[wayl99 zCWaypoint 0 1825]
+			[wayl99 zCWaypoint 0 1826]
 				wpName=string:DP_FORT_OLDMINE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21809.8359 1595.90112 -2598.66382
 				direction=vec3:0.974370122 0 0.224950701
 			[]
-			[wayr99 § 0 1824]
+			[wayr99 § 0 1825]
 			[]
-			[wayl100 zCWaypoint 0 1826]
+			[wayl100 zCWaypoint 0 1827]
 				wpName=string:DP_FORT_OLDMINE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21030 1600.27344 -2883
 				direction=vec3:0.974370122 0 0.224950954
 			[]
-			[wayr100 § 0 1825]
+			[wayr100 § 0 1826]
 			[]
-			[wayl101 zCWaypoint 0 1827]
+			[wayl101 zCWaypoint 0 1828]
 				wpName=string:DP_FORT_OLDMINE_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:20533 1591.04431 -3082
 				direction=vec3:0.974370182 0 0.224951118
 			[]
-			[wayr101 § 0 1826]
+			[wayr101 § 0 1827]
 			[]
-			[wayl102 zCWaypoint 0 1828]
+			[wayl102 zCWaypoint 0 1829]
 				wpName=string:DP_FORT_TO_OLDMINE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19816.166 1649.41077 -3345.4502
 				direction=vec3:0.906307817 0 0.42261827
 			[]
-			[wayr102 § 0 1827]
+			[wayr102 § 0 1828]
 			[]
-			[wayl103 zCWaypoint 0 1829]
+			[wayl103 zCWaypoint 0 1830]
 				wpName=string:DP_FORT_TO_OLDMINE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19343 1727.42065 -3539
 				direction=vec3:0.906307817 0 0.42261827
 			[]
-			[wayr103 § 0 1828]
+			[wayr103 § 0 1829]
 			[]
-			[wayl104 zCWaypoint 0 1830]
+			[wayl104 zCWaypoint 0 1831]
 				wpName=string:DP_FORT_TO_OLDMINE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18758.2988 1791.71436 -3857.229
 				direction=vec3:0.906307817 0 0.42261827
 			[]
-			[wayr104 § 0 1829]
+			[wayr104 § 0 1830]
 			[]
-			[wayl105 zCWaypoint 0 1831]
+			[wayl105 zCWaypoint 0 1832]
 				wpName=string:DP_FORT_TO_OLDMINE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17927.8926 1835.33838 -4253.72705
 				direction=vec3:0.906307817 0 0.42261827
 			[]
-			[wayr105 § 0 1830]
+			[wayr105 § 0 1831]
 			[]
-			[wayl106 zCWaypoint 0 1832]
+			[wayl106 zCWaypoint 0 1833]
 				wpName=string:DP_FORT_TO_OLDMINE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16968 1836.67163 -4526
 				direction=vec3:0.906308532 0 0.422618717
 			[]
-			[wayr106 § 0 1831]
+			[wayr106 § 0 1832]
 			[]
-			[wayl107 zCWaypoint 0 1833]
+			[wayl107 zCWaypoint 0 1834]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16001 1869.50574 -4600
 				direction=vec3:0.0174527504 0 0.999849439
 			[]
-			[wayr107 § 0 1832]
+			[wayr107 § 0 1833]
 			[]
-			[wayl108 zCWaypoint 0 1834]
+			[wayl108 zCWaypoint 0 1835]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15932 1893.4707 -5136
 				direction=vec3:0.422619045 0 0.906309009
 			[]
-			[wayr108 zCWaypoint 0 1835]
+			[wayr108 zCWaypoint 0 1836]
 				wpName=string:DP_FORT_WAYUP_COLUMN_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15730.3779 1910.50903 -5896.80566
 				direction=vec3:0.707107306 0 0.707106292
 			[]
-			[wayl109 zCWaypoint 0 1836]
+			[wayl109 zCWaypoint 0 1837]
 				wpName=string:DP_FORT_WAYUP_COLUMN_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15310 1910.57434 -6489
 				direction=vec3:0.707107723 0 0.707107604
 			[]
-			[wayr109 § 0 1835]
+			[wayr109 § 0 1836]
 			[]
-			[wayl110 zCWaypoint 0 1837]
+			[wayl110 zCWaypoint 0 1838]
 				wpName=string:DP_FORT_WAYUP_COLUMN_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14185 1976.5343 -6883
 				direction=vec3:0.933581233 0 0.358368367
 			[]
-			[wayr110 § 0 1836]
+			[wayr110 § 0 1837]
 			[]
-			[wayl111 zCWaypoint 0 1838]
+			[wayl111 zCWaypoint 0 1839]
 				wpName=string:DP_FORT_WAYUP_COLUMN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13389 2003.88062 -7128
 				direction=vec3:0.939693511 0 0.342020482
 			[]
-			[wayr111 § 0 1837]
+			[wayr111 § 0 1838]
 			[]
-			[wayl112 zCWaypoint 0 1839]
+			[wayl112 zCWaypoint 0 1840]
 				wpName=string:DP_FORT_WAYUP_COLUMN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12463 1991.72876 -7499
 				direction=vec3:0.933581233 0 0.358368367
 			[]
-			[wayr112 § 0 1838]
+			[wayr112 § 0 1839]
 			[]
-			[wayl113 zCWaypoint 0 1840]
+			[wayl113 zCWaypoint 0 1841]
 				wpName=string:DP_FORT_WAYUP_COLUMN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11863.374 2026.43921 -7895.25684
 				direction=vec3:0.974370122 0 -0.224950954
 			[]
-			[wayr113 § 0 1839]
+			[wayr113 § 0 1840]
 			[]
-			[wayl114 zCWaypoint 0 1841]
+			[wayl114 zCWaypoint 0 1842]
 				wpName=string:DP_FORT_WAYUP_COLUMN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11117 1994.42859 -7780
 				direction=vec3:0.974370778 0 -0.224951088
 			[]
-			[wayr114 § 0 1840]
+			[wayr114 § 0 1841]
 			[]
-			[wayl115 zCWaypoint 0 1842]
+			[wayl115 zCWaypoint 0 1843]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_11
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10037.2871 1915.60742 -7601.89111
 				direction=vec3:0.258818954 0 -0.965925813
 			[]
-			[wayr115 § 0 1841]
+			[wayr115 § 0 1842]
 			[]
-			[wayl116 § 0 1842]
+			[wayl116 § 0 1843]
 			[]
-			[wayr116 zCWaypoint 0 1843]
+			[wayr116 zCWaypoint 0 1844]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_12
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9926 1859.7887 -8492
 				direction=vec3:-0.207911476 0 -0.978147984
 			[]
-			[wayl117 zCWaypoint 0 1844]
+			[wayl117 zCWaypoint 0 1845]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_12
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15259 1901.51172 -1310
 				direction=vec3:0.0174531266 0 0.99984771
 			[]
-			[wayr117 zCWaypoint 0 1845]
+			[wayr117 zCWaypoint 0 1846]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15199 1900.73914 -717
 				direction=vec3:0.224951103 0 0.97437036
 			[]
-			[wayl118 § 0 1844]
+			[wayl118 § 0 1845]
 			[]
-			[wayr118 zCWaypoint 0 1846]
+			[wayr118 zCWaypoint 0 1847]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_11
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15271.416 1895.32971 -1890.19312
 				direction=vec3:0.0174531266 0 0.99984771
 			[]
-			[wayl119 zCWaypoint 0 1847]
+			[wayl119 zCWaypoint 0 1848]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15309.3994 1843.23315 -2706.88501
 				direction=vec3:0.0174530949 0 0.999847651
 			[]
-			[wayr119 § 0 1846]
+			[wayr119 § 0 1847]
 			[]
-			[wayl120 zCWaypoint 0 1848]
+			[wayl120 zCWaypoint 0 1849]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15926 1794.71008 -3896
 				direction=vec3:-0.342019647 0 0.939693511
 			[]
-			[wayr120 § 0 1847]
+			[wayr120 § 0 1848]
 			[]
-			[wayl121 § 0 1833]
+			[wayl121 § 0 1834]
 			[]
-			[wayr121 § 0 1848]
+			[wayr121 § 0 1849]
 			[]
-			[wayl122 § 0 1834]
+			[wayl122 § 0 1835]
 			[]
-			[wayr122 § 0 1833]
+			[wayr122 § 0 1834]
 			[]
-			[wayl123 zCWaypoint 0 1849]
+			[wayl123 zCWaypoint 0 1850]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15298.1602 1809.65808 -5183.68604
 				direction=vec3:0.981627166 0 -0.190808937
 			[]
-			[wayr123 § 0 1834]
+			[wayr123 § 0 1835]
 			[]
-			[wayl124 § 0 1778]
+			[wayl124 § 0 1779]
 			[]
-			[wayr124 § 0 1849]
+			[wayr124 § 0 1850]
 			[]
-			[wayl125 zCWaypoint 0 1850]
+			[wayl125 zCWaypoint 0 1851]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13674 1199.71277 -4460
 				direction=vec3:0.945518911 0 -0.325568259
 			[]
-			[wayr125 § 0 1778]
+			[wayr125 § 0 1779]
 			[]
-			[wayl126 zCWaypoint 0 1851]
+			[wayl126 zCWaypoint 0 1852]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13094.9033 949.476318 -4080.61035
 				direction=vec3:0.819151998 0 -0.573576391
 			[]
-			[wayr126 § 0 1850]
+			[wayr126 § 0 1851]
 			[]
-			[wayl127 zCWaypoint 0 1852]
+			[wayl127 zCWaypoint 0 1853]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12513 567.183289 -3423
 				direction=vec3:0.819151998 0 -0.57357645
 			[]
-			[wayr127 § 0 1851]
+			[wayr127 § 0 1852]
 			[]
-			[wayl128 zCWaypoint 0 1853]
+			[wayl128 zCWaypoint 0 1854]
 				wpName=string:DP_FORT_MILL_TO_UPWAY_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11871 313.122009 -3181
 				direction=vec3:0.891007781 0 -0.453991234
 			[]
-			[wayr128 § 0 1852]
+			[wayr128 § 0 1853]
 			[]
-			[wayl129 zCWaypoint 0 1854]
+			[wayl129 zCWaypoint 0 1855]
 				wpName=string:DP_FORT_MILL_TO_EAST_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11259.7471 240.983978 -3004.09961
 				direction=vec3:-0.156434596 0 -0.987689018
 			[]
-			[wayr129 § 0 1853]
+			[wayr129 § 0 1854]
 			[]
-			[wayl130 § 0 1787]
+			[wayl130 § 0 1788]
 			[]
-			[wayr130 zCWaypoint 0 1855]
+			[wayr130 zCWaypoint 0 1856]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9773 562.379211 -4718
 				direction=vec3:-0.999849617 0 0.0174524803
 			[]
-			[wayl131 zCWaypoint 0 1856]
+			[wayl131 zCWaypoint 0 1857]
 				wpName=string:DP_FORT_MILL_TO_EAST_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10782 599.738281 -4838
 				direction=vec3:-0.999392152 0 0.0348994993
 			[]
-			[wayr131 § 0 1787]
+			[wayr131 § 0 1788]
 			[]
-			[wayl132 § 0 1781]
+			[wayl132 § 0 1782]
 			[]
-			[wayr132 § 0 1856]
+			[wayr132 § 0 1857]
 			[]
-			[wayl133 zCWaypoint 0 1857]
+			[wayl133 zCWaypoint 0 1858]
 				wpName=string:DP_FORT_MILL_TO_EAST_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11332 490.278107 -4061
 				direction=vec3:0.392219245 0.587785244 -0.707582295
 			[]
-			[wayr133 § 0 1781]
+			[wayr133 § 0 1782]
 			[]
-			[wayl134 § 0 1854]
+			[wayl134 § 0 1855]
 			[]
-			[wayr134 § 0 1857]
+			[wayr134 § 0 1858]
 			[]
-			[wayl135 zCWaypoint 0 1858]
+			[wayl135 zCWaypoint 0 1859]
 				wpName=string:DP_FORT_MILL_TO_EAST_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11427.0273 61.1277885 -2007.64539
 				direction=vec3:0.484809607 0 -0.874619782
 			[]
-			[wayr135 § 0 1854]
+			[wayr135 § 0 1855]
 			[]
-			[wayl136 zCWaypoint 0 1859]
+			[wayl136 zCWaypoint 0 1860]
 				wpName=string:DP_FORT_MILL_TO_EAST_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10941 39.1487503 -1444
 				direction=vec3:0.694658399 0 -0.719340026
 			[]
-			[wayr136 § 0 1858]
+			[wayr136 § 0 1859]
 			[]
-			[wayl137 zCWaypoint 0 1860]
+			[wayl137 zCWaypoint 0 1861]
 				wpName=string:DP_FORT_MILL_TO_EAST_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10707 30.2016563 -1106
 				direction=vec3:0.48480925 0 -0.874619901
 			[]
-			[wayr137 § 0 1859]
+			[wayr137 § 0 1860]
 			[]
-			[wayl138 zCWaypoint 0 1861]
+			[wayl138 zCWaypoint 0 1862]
 				wpName=string:DP_FORT_TOWN_TO_MILL_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10232 44.1672325 -1160
 				direction=vec3:0.484809905 0 -0.874620438
 			[]
-			[wayr138 § 0 1860]
+			[wayr138 § 0 1861]
 			[]
-			[wayl139 § 0 1758]
+			[wayl139 § 0 1759]
 			[]
-			[wayr139 § 0 1860]
+			[wayr139 § 0 1861]
 			[]
-			[wayl140 zCWaypoint 0 1862]
+			[wayl140 zCWaypoint 0 1863]
 				wpName=string:DP_FORT_PILLARCAVE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18335 768.599365 3431
 				direction=vec3:0.82903862 0 -0.559191346
 			[]
-			[wayr140 zCWaypoint 0 1863]
+			[wayr140 zCWaypoint 0 1864]
 				wpName=string:DP_FORT_PILLARCAVE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18845 767.246155 3235
 				direction=vec3:0.829038739 0 -0.559191167
 			[]
-			[wayl141 zCWaypoint 0 1864]
+			[wayl141 zCWaypoint 0 1865]
 				wpName=string:DP_FORT_PILLARCAVE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17838 786.411987 3665
 				direction=vec3:0.829038441 0 -0.559191704
 			[]
-			[wayr141 § 0 1862]
+			[wayr141 § 0 1863]
 			[]
-			[wayl142 zCWaypoint 0 1865]
+			[wayl142 zCWaypoint 0 1866]
 				wpName=string:DP_FORT_PILLARCAVE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17284 781.238464 3979
 				direction=vec3:0.829038143 0 -0.55919224
 			[]
-			[wayr142 § 0 1864]
+			[wayr142 § 0 1865]
 			[]
-			[wayl143 zCWaypoint 0 1866]
+			[wayl143 zCWaypoint 0 1867]
 				wpName=string:DP_FORT_PILLARCAVE_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16806 809.105347 4220
 				direction=vec3:0.82903862 0 -0.559193015
 			[]
-			[wayr143 § 0 1865]
+			[wayr143 § 0 1866]
 			[]
-			[wayl144 zCWaypoint 0 1867]
+			[wayl144 zCWaypoint 0 1868]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16236.8477 796.91217 4616.04541
 				direction=vec3:0.642787278 0 0.766044676
 			[]
-			[wayr144 § 0 1866]
+			[wayr144 § 0 1867]
 			[]
-			[wayl145 zCWaypoint 0 1868]
+			[wayl145 zCWaypoint 0 1869]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16575 907.983154 6073
 				direction=vec3:0.999847829 0 0.0174532011
 			[]
-			[wayr145 zCWaypoint 0 1869]
+			[wayr145 zCWaypoint 0 1870]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16665 874.038574 5439
 				direction=vec3:0.190808266 0 0.981627703
 			[]
-			[wayl146 § 0 1867]
+			[wayl146 § 0 1868]
 			[]
-			[wayr146 § 0 1869]
+			[wayr146 § 0 1870]
 			[]
-			[wayl147 zCWaypoint 0 1870]
+			[wayl147 zCWaypoint 0 1871]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15588.7344 897.308716 3910.21387
 				direction=vec3:0.642787874 0 0.766044199
 			[]
-			[wayr147 § 0 1867]
+			[wayr147 § 0 1868]
 			[]
-			[wayl148 zCWaypoint 0 1871]
+			[wayl148 zCWaypoint 0 1872]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15077 1006.25092 3263
 				direction=vec3:0.642787933 0 0.766044319
 			[]
-			[wayr148 § 0 1870]
+			[wayr148 § 0 1871]
 			[]
-			[wayl149 zCWaypoint 0 1872]
+			[wayl149 zCWaypoint 0 1873]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14482 1157.60498 2886
 				direction=vec3:0.559193432 0 0.829038441
 			[]
-			[wayr149 § 0 1871]
+			[wayr149 § 0 1872]
 			[]
-			[wayl150 zCWaypoint 0 1873]
+			[wayl150 zCWaypoint 0 1874]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14138 1502.80994 1700
 				direction=vec3:0.087155804 0 0.996195257
 			[]
-			[wayr150 § 0 1872]
+			[wayr150 § 0 1873]
 			[]
-			[wayl151 zCWaypoint 0 1874]
+			[wayl151 zCWaypoint 0 1875]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14064 1650.58911 474
 				direction=vec3:-0.0871557519 0 0.996195078
 			[]
-			[wayr151 § 0 1873]
+			[wayr151 § 0 1874]
 			[]
-			[wayl152 zCWaypoint 0 1875]
+			[wayl152 zCWaypoint 0 1876]
 				wpName=string:DP_FORT_TOWER_TO_BRIDGE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14272 1798.51941 -289
 				direction=vec3:-0.866026342 0 0.500000715
 			[]
-			[wayr152 § 0 1874]
+			[wayr152 § 0 1875]
 			[]
-			[wayl153 § 0 1845]
+			[wayl153 § 0 1846]
 			[]
-			[wayr153 § 0 1875]
+			[wayr153 § 0 1876]
 			[]
-			[wayl154 zCWaypoint 0 1876]
+			[wayl154 zCWaypoint 0 1877]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_27
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16482 4667.70166 -7066
 				direction=vec3:-0.40673551 0 -0.913546205
 			[]
-			[wayr154 zCWaypoint 0 1877]
+			[wayr154 zCWaypoint 0 1878]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_28
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16118 4672.70459 -7944
 				direction=vec3:-0.358367682 0 -0.933580816
 			[]
-			[wayl155 zCWaypoint 0 1878]
+			[wayl155 zCWaypoint 0 1879]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_26
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17049 4622.7168 -6306
 				direction=vec3:-0.798634946 0 -0.601816356
 			[]
-			[wayr155 § 0 1876]
+			[wayr155 § 0 1877]
 			[]
-			[wayl156 zCWaypoint 0 1879]
+			[wayl156 zCWaypoint 0 1880]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_25
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18201 4986.71045 -5569
 				direction=vec3:-0.754708886 0 -0.656060278
 			[]
-			[wayr156 § 0 1878]
+			[wayr156 § 0 1879]
 			[]
-			[wayl157 zCWaypoint 0 1880]
+			[wayl157 zCWaypoint 0 1881]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_24
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19239 5158.979 -4926
 				direction=vec3:-0.743144095 0 -0.669131875
 			[]
-			[wayr157 § 0 1879]
+			[wayr157 § 0 1880]
 			[]
-			[wayl158 zCWaypoint 0 1881]
+			[wayl158 zCWaypoint 0 1882]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_23
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:20226 5016.90674 -4335
 				direction=vec3:-0.743144095 0 -0.669131875
 			[]
-			[wayr158 § 0 1880]
+			[wayr158 § 0 1881]
 			[]
-			[wayl159 zCWaypoint 0 1882]
+			[wayl159 zCWaypoint 0 1883]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_22
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21006 4770.02002 -3528
 				direction=vec3:-0.544638097 0 -0.838671505
 			[]
-			[wayr159 § 0 1881]
+			[wayr159 § 0 1882]
 			[]
-			[wayl160 zCWaypoint 0 1883]
+			[wayl160 zCWaypoint 0 1884]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_21
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21213 4614.4209 -2249
 				direction=vec3:-0.104527205 0 -0.994522095
 			[]
-			[wayr160 § 0 1882]
+			[wayr160 § 0 1883]
 			[]
-			[wayl161 zCWaypoint 0 1884]
+			[wayl161 zCWaypoint 0 1885]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_20
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21425 4444.16016 -953
 				direction=vec3:-0.104527846 0 -0.994523585
 			[]
-			[wayr161 § 0 1883]
+			[wayr161 § 0 1884]
 			[]
-			[wayl162 zCWaypoint 0 1885]
+			[wayl162 zCWaypoint 0 1886]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_19
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21436 4267.65576 333
 				direction=vec3:0.121870354 0 -0.992547512
 			[]
-			[wayr162 § 0 1884]
+			[wayr162 § 0 1885]
 			[]
-			[wayl163 zCWaypoint 0 1886]
+			[wayl163 zCWaypoint 0 1887]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_18
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21256 4046.67432 1550
 				direction=vec3:0.241923049 0 -0.970296919
 			[]
-			[wayr163 § 0 1885]
+			[wayr163 § 0 1886]
 			[]
-			[wayl164 zCWaypoint 0 1887]
+			[wayl164 zCWaypoint 0 1888]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_17
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:20540 4042.01343 2048
 				direction=vec3:0.951058388 0 -0.309016854
 			[]
-			[wayr164 § 0 1886]
+			[wayr164 § 0 1887]
 			[]
-			[wayl165 zCWaypoint 0 1888]
+			[wayl165 zCWaypoint 0 1889]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_16
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19807 4031.81689 1672
 				direction=vec3:0.52991873 0 0.848048687
 			[]
-			[wayr165 § 0 1887]
+			[wayr165 § 0 1888]
 			[]
-			[wayl166 zCWaypoint 0 1889]
+			[wayl166 zCWaypoint 0 1890]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_15
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19503 3551.25854 10
 				direction=vec3:0.342019111 0 0.939693034
 			[]
-			[wayr166 § 0 1888]
+			[wayr166 § 0 1889]
 			[]
-			[wayl167 zCWaypoint 0 1890]
+			[wayl167 zCWaypoint 0 1891]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_14
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19157 3345.02808 -1088
 				direction=vec3:0.342019498 0 0.939694226
 			[]
-			[wayr167 § 0 1889]
+			[wayr167 § 0 1890]
 			[]
-			[wayl168 zCWaypoint 0 1891]
+			[wayl168 zCWaypoint 0 1892]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_13
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18490 3344.37671 -1614
 				direction=vec3:0.994522393 0 -0.104527295
 			[]
-			[wayr168 § 0 1890]
+			[wayr168 § 0 1891]
 			[]
-			[wayl169 § 0 1818]
+			[wayl169 § 0 1819]
 			[]
-			[wayr169 § 0 1891]
+			[wayr169 § 0 1892]
 			[]
-			[wayl170 zCWaypoint 0 1892]
+			[wayl170 zCWaypoint 0 1893]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_11
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17447 3294.79248 -551
 				direction=vec3:0.0871567056 0 -0.99619478
 			[]
-			[wayr170 § 0 1818]
+			[wayr170 § 0 1819]
 			[]
-			[wayl171 zCWaypoint 0 1893]
+			[wayl171 zCWaypoint 0 1894]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17293 3079.9209 641
 				direction=vec3:-0.15643388 0 -0.98768878
 			[]
-			[wayr171 § 0 1892]
+			[wayr171 § 0 1893]
 			[]
-			[wayl172 zCWaypoint 0 1894]
+			[wayl172 zCWaypoint 0 1895]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17320 2824.97217 1709
 				direction=vec3:-0.325567663 0 -0.945518732
 			[]
-			[wayr172 § 0 1893]
+			[wayr172 § 0 1894]
 			[]
-			[wayl173 zCWaypoint 0 1895]
+			[wayl173 zCWaypoint 0 1896]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17751.8672 2397.33691 2818.64502
 				direction=vec3:-0.325567663 0 -0.945518732
 			[]
-			[wayr173 § 0 1894]
+			[wayr173 § 0 1895]
 			[]
-			[wayl174 zCWaypoint 0 1896]
+			[wayl174 zCWaypoint 0 1897]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17933 2083.00488 3596
 				direction=vec3:-0.087155655 0 -0.996197104
 			[]
-			[wayr174 § 0 1895]
+			[wayr174 § 0 1896]
 			[]
-			[wayl175 zCWaypoint 0 1897]
+			[wayl175 zCWaypoint 0 1898]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17658 2088.4375 3871
 				direction=vec3:0.788011849 0 -0.615662098
 			[]
-			[wayr175 § 0 1896]
+			[wayr175 § 0 1897]
 			[]
-			[wayl176 zCWaypoint 0 1898]
+			[wayl176 zCWaypoint 0 1899]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17054 2085.23633 3533
 				direction=vec3:0.615661681 0 0.788011014
 			[]
-			[wayr176 § 0 1897]
+			[wayr176 § 0 1898]
 			[]
-			[wayl177 zCWaypoint 0 1899]
+			[wayl177 zCWaypoint 0 1900]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16336 2132.27295 2607
 				direction=vec3:0.544638336 0 0.838671327
 			[]
-			[wayr177 § 0 1898]
+			[wayr177 § 0 1899]
 			[]
-			[wayl178 zCWaypoint 0 1900]
+			[wayl178 zCWaypoint 0 1901]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15740 2094.37842 1476
 				direction=vec3:0.224951074 0 0.974370062
 			[]
-			[wayr178 § 0 1899]
+			[wayr178 § 0 1900]
 			[]
-			[wayl179 zCWaypoint 0 1901]
+			[wayl179 zCWaypoint 0 1902]
 				wpName=string:DP_FORT_WAYUP_TO_TOWER_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15438 1904.17712 367
 				direction=vec3:0.224951103 0 0.974370062
 			[]
-			[wayr179 § 0 1900]
+			[wayr179 § 0 1901]
 			[]
-			[wayl180 § 0 1845]
+			[wayl180 § 0 1846]
 			[]
-			[wayr180 § 0 1901]
+			[wayr180 § 0 1902]
 			[]
-			[wayl181 zCWaypoint 0 1902]
+			[wayl181 zCWaypoint 0 1903]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13850 5.39255142 6135
 				direction=vec3:0.990267992 0 0.13917388
 			[]
-			[wayr181 zCWaypoint 0 1903]
+			[wayr181 zCWaypoint 0 1904]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_B_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13613 84.8713379 5351
 				direction=vec3:0.544638276 0 0.838671386
 			[]
-			[wayl182 zCWaypoint 0 1904]
+			[wayl182 zCWaypoint 0 1905]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_B_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13201.5508 -66.3765182 4712.99512
 				direction=vec3:0.777145386 0 0.629321158
 			[]
-			[wayr182 § 0 1903]
+			[wayr182 § 0 1904]
 			[]
-			[wayl183 zCWaypoint 0 1905]
+			[wayl183 zCWaypoint 0 1906]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_B_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12741.2813 -267.308228 4287.53223
 				direction=vec3:0.777145386 0 0.629321158
 			[]
-			[wayr183 § 0 1904]
+			[wayr183 § 0 1905]
 			[]
-			[wayl184 zCWaypoint 0 1906]
+			[wayl184 zCWaypoint 0 1907]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_B_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12100 -525.770447 3965
 				direction=vec3:0.777145803 0 0.629321158
 			[]
-			[wayr184 § 0 1905]
+			[wayr184 § 0 1906]
 			[]
-			[wayl185 § 0 1814]
+			[wayl185 § 0 1815]
 			[]
-			[wayr185 § 0 1906]
+			[wayr185 § 0 1907]
 			[]
-			[wayl186 zCWaypoint 0 1907]
+			[wayl186 zCWaypoint 0 1908]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12858.2119 -266.572693 6076.60742
 				direction=vec3:0.990267932 0 0.139173731
 			[]
-			[wayr186 zCWaypoint 0 1908]
+			[wayr186 zCWaypoint 0 1909]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_A_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12592 -358.597321 5512
 				direction=vec3:0.681998134 0 0.731354475
 			[]
-			[wayl187 zCWaypoint 0 1909]
+			[wayl187 zCWaypoint 0 1910]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_A_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12171 -453.218414 5015
 				direction=vec3:0.809016943 0 0.587786138
 			[]
-			[wayr187 § 0 1908]
+			[wayr187 § 0 1909]
 			[]
-			[wayl188 zCWaypoint 0 1910]
+			[wayl188 zCWaypoint 0 1911]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_A_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11502 -637.425903 4424
 				direction=vec3:0.629320264 0 0.777146876
 			[]
-			[wayr188 § 0 1909]
+			[wayr188 § 0 1910]
 			[]
-			[wayl189 § 0 1814]
+			[wayl189 § 0 1815]
 			[]
-			[wayr189 § 0 1910]
+			[wayr189 § 0 1911]
 			[]
-			[wayl190 zCWaypoint 0 1911]
+			[wayl190 zCWaypoint 0 1912]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_A_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10620.1553 -825.141602 3307.73486
 				direction=vec3:0.990267992 0 0.13917388
 			[]
-			[wayr190 § 0 1814]
+			[wayr190 § 0 1815]
 			[]
-			[wayl191 zCWaypoint 0 1912]
+			[wayl191 zCWaypoint 0 1913]
 				wpName=string:DP_FORT_ABANDONED_TO_CEMENTRY_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9873.6875 -848.99353 3156.41333
 				direction=vec3:-0.121869147 0 -0.992546201
 			[]
-			[wayr191 § 0 1911]
+			[wayr191 § 0 1912]
 			[]
-			[wayl192 zCWaypoint 0 1913]
+			[wayl192 zCWaypoint 0 1914]
 				wpName=string:DP_FORT_TOWN_FIELD1_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3640 -446.237549 3181
 				direction=vec3:0.0523358658 0 0.99862951
 			[]
-			[wayr192 zCWaypoint 0 1914]
+			[wayr192 zCWaypoint 0 1915]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3519.87549 -358.782379 2428.16626
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl193 zCWaypoint 0 1915]
+			[wayl193 zCWaypoint 0 1916]
 				wpName=string:DP_FORT_TOWN_FIELD1_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5114 -465.809326 2802
 				direction=vec3:0.0523358658 0 0.99862951
 			[]
-			[wayr193 zCWaypoint 0 1916]
+			[wayr193 zCWaypoint 0 1917]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4890 -358.78241 1785
 				direction=vec3:0.85716784 0 -0.515038013
 			[]
-			[wayl194 zCWaypoint 0 1917]
+			[wayl194 zCWaypoint 0 1918]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17304 988.966736 6323
 				direction=vec3:0.788010716 0 0.615662336
 			[]
-			[wayr194 zCWaypoint 0 1918]
+			[wayr194 zCWaypoint 0 1919]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17827 1163.93372 7254
 				direction=vec3:0.406736225 0 0.913546264
 			[]
-			[wayl195 zCWaypoint 0 1919]
+			[wayl195 zCWaypoint 0 1920]
 				wpName=string:DP_FORT_NATURALBRIDGE_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18093 1337.98718 8332
 				direction=vec3:-0.990269542 0 0.139171913
 			[]
-			[wayr195 § 0 1918]
+			[wayr195 § 0 1919]
 			[]
-			[wayl196 § 0 1868]
+			[wayl196 § 0 1869]
 			[]
-			[wayr196 § 0 1917]
+			[wayr196 § 0 1918]
 			[]
-			[wayl197 zCWaypoint 0 1920]
+			[wayl197 zCWaypoint 0 1921]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15472 686.516968 6050
 				direction=vec3:0.990267992 0 0.13917388
 			[]
-			[wayr197 § 0 1868]
+			[wayr197 § 0 1869]
 			[]
-			[wayl198 zCWaypoint 0 1921]
+			[wayl198 zCWaypoint 0 1922]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14726 474.334991 6019
 				direction=vec3:0.990267992 0 0.13917388
 			[]
-			[wayr198 § 0 1920]
+			[wayr198 § 0 1921]
 			[]
-			[wayl199 § 0 1902]
+			[wayl199 § 0 1903]
 			[]
-			[wayr199 § 0 1921]
+			[wayr199 § 0 1922]
 			[]
-			[wayl200 zCWaypoint 0 1922]
+			[wayl200 zCWaypoint 0 1923]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13941 40.0117569 6881
 				direction=vec3:-0.19080995 0 0.981628358
 			[]
-			[wayr200 § 0 1902]
+			[wayr200 § 0 1903]
 			[]
-			[wayl201 § 0 1907]
+			[wayl201 § 0 1908]
 			[]
-			[wayr201 zCWaypoint 0 1923]
+			[wayr201 zCWaypoint 0 1924]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13096.1699 -177.059708 7326.67676
 				direction=vec3:0.882947266 0 0.46947214
 			[]
-			[wayl202 § 0 1907]
+			[wayl202 § 0 1908]
 			[]
-			[wayr202 § 0 1902]
+			[wayr202 § 0 1903]
 			[]
-			[wayl203 zCWaypoint 0 1924]
+			[wayl203 zCWaypoint 0 1925]
 				wpName=string:DP_FORT_TO_NATURALBRIDGE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11818 -485.888855 6006
 				direction=vec3:0.99026829 0 0.139173821
 			[]
-			[wayr203 § 0 1907]
+			[wayr203 § 0 1908]
 			[]
-			[wayl204 zCWaypoint 0 1925]
+			[wayl204 zCWaypoint 0 1926]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10770 -581.404175 5943
 				direction=vec3:0.422618628 0 0.906308174
 			[]
-			[wayr204 § 0 1924]
+			[wayr204 § 0 1925]
 			[]
-			[wayl205 zCWaypoint 0 1926]
+			[wayl205 zCWaypoint 0 1927]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:13785 -138.271179 7939
 				direction=vec3:0.882948041 0 0.469472706
 			[]
-			[wayr205 § 0 1922]
+			[wayr205 § 0 1923]
 			[]
-			[wayl206 § 0 1926]
+			[wayl206 § 0 1927]
 			[]
-			[wayr206 § 0 1923]
+			[wayr206 § 0 1924]
 			[]
-			[wayl207 zCWaypoint 0 1927]
+			[wayl207 zCWaypoint 0 1928]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:14630.6035 -274.198425 8253.84863
 				direction=vec3:0.99984777 0 -0.0174521338
 			[]
-			[wayr207 § 0 1926]
+			[wayr207 § 0 1927]
 			[]
-			[wayl208 zCWaypoint 0 1928]
+			[wayl208 zCWaypoint 0 1929]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15863.0703 -327.564697 8349.86719
 				direction=vec3:0.999847651 0 -0.0174521152
 			[]
-			[wayr208 § 0 1927]
+			[wayr208 § 0 1928]
 			[]
-			[wayl209 zCWaypoint 0 1929]
+			[wayl209 zCWaypoint 0 1930]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:17184 -581.328125 8477
 				direction=vec3:0.999847651 0 -0.0174521152
 			[]
-			[wayr209 § 0 1928]
+			[wayr209 § 0 1929]
 			[]
-			[wayl210 zCWaypoint 0 1930]
+			[wayl210 zCWaypoint 0 1931]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:18330 -823.844116 8562
 				direction=vec3:0.999847651 0 -0.0174521152
 			[]
-			[wayr210 § 0 1929]
+			[wayr210 § 0 1930]
 			[]
-			[wayl211 zCWaypoint 0 1931]
+			[wayl211 zCWaypoint 0 1932]
 				wpName=string:DP_FORT_UNDER_NATURALBRIDGE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19243 -951.412231 8536
 				direction=vec3:0.999849021 0 -0.0174516942
 			[]
-			[wayr211 § 0 1930]
+			[wayr211 § 0 1931]
 			[]
-			[wayl212 zCWaypoint 0 1932]
+			[wayl212 zCWaypoint 0 1933]
 				wpName=string:DP_FORT_NATURALBRIDGE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19281 -867.971191 8017
 				direction=vec3:0.275638342 0 -0.961263716
 			[]
-			[wayr212 § 0 1931]
+			[wayr212 § 0 1932]
 			[]
-			[wayl213 zCWaypoint 0 1933]
+			[wayl213 zCWaypoint 0 1934]
 				wpName=string:DP_FORT_NATURALBRIDGE_13
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15125 1850.75024 8418
 				direction=vec3:-0.0871574432 0 0.996194899
 			[]
-			[wayr213 zCWaypoint 0 1934]
+			[wayr213 zCWaypoint 0 1935]
 				wpName=string:DP_FORT_NATURALBRIDGE_14
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15096 1850.75024 9484
 				direction=vec3:-0.08715716 0 0.996194541
 			[]
-			[wayl214 zCWaypoint 0 1935]
+			[wayl214 zCWaypoint 0 1936]
 				wpName=string:DP_FORT_NATURALBRIDGE_12
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15346 1775.54175 7670
 				direction=vec3:-0.422620267 0 0.906307817
 			[]
-			[wayr214 § 0 1933]
+			[wayr214 § 0 1934]
 			[]
-			[wayl215 zCWaypoint 0 1936]
+			[wayl215 zCWaypoint 0 1937]
 				wpName=string:DP_FORT_NATURALBRIDGE_11
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15769 1720.94299 7452
 				direction=vec3:-0.990268707 0 0.139171481
 			[]
-			[wayr215 § 0 1935]
+			[wayr215 § 0 1936]
 			[]
-			[wayl216 zCWaypoint 0 1937]
+			[wayl216 zCWaypoint 0 1938]
 				wpName=string:DP_FORT_NATURALBRIDGE_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:16972 1407.43896 8013
 				direction=vec3:-0.961261809 0 -0.275638908
 			[]
-			[wayr216 § 0 1936]
+			[wayr216 § 0 1937]
 			[]
-			[wayl217 § 0 1919]
+			[wayl217 § 0 1920]
 			[]
-			[wayr217 § 0 1937]
+			[wayr217 § 0 1938]
 			[]
-			[wayl218 zCWaypoint 0 1938]
+			[wayl218 zCWaypoint 0 1939]
 				wpName=string:DP_FORT_NATURALBRIDGE_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19121 1219.90442 8177
 				direction=vec3:-0.694659829 0 0.719339132
 			[]
-			[wayr218 § 0 1919]
+			[wayr218 § 0 1920]
 			[]
-			[wayl219 zCWaypoint 0 1939]
+			[wayl219 zCWaypoint 0 1940]
 				wpName=string:DP_FORT_NATURALBRIDGE_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19285 951.881592 7161
 				direction=vec3:-0.0174537376 0 0.999848068
 			[]
-			[wayr219 § 0 1938]
+			[wayr219 § 0 1939]
 			[]
-			[wayl220 zCWaypoint 0 1940]
+			[wayl220 zCWaypoint 0 1941]
 				wpName=string:DP_FORT_NATURALBRIDGE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19348 301.892303 5566
 				direction=vec3:-0.241923198 0 0.970297694
 			[]
-			[wayr220 § 0 1939]
+			[wayr220 § 0 1940]
 			[]
-			[wayl221 zCWaypoint 0 1941]
+			[wayl221 zCWaypoint 0 1942]
 				wpName=string:DP_FORT_NATURALBRIDGE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19791 257.329346 5274
 				direction=vec3:-0.866027415 0 0.500000596
 			[]
-			[wayr221 § 0 1940]
+			[wayr221 § 0 1941]
 			[]
-			[wayl222 zCWaypoint 0 1942]
+			[wayl222 zCWaypoint 0 1943]
 				wpName=string:DP_FORT_NATURALBRIDGE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:20139 194.106873 5902
 				direction=vec3:-0.207911149 0 -0.978148282
 			[]
-			[wayr222 § 0 1941]
+			[wayr222 § 0 1942]
 			[]
-			[wayl223 zCWaypoint 0 1943]
+			[wayl223 zCWaypoint 0 1944]
 				wpName=string:DP_FORT_NATURALBRIDGE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:20100 -26.9057388 6565
 				direction=vec3:0.275638044 0 -0.961261451
 			[]
-			[wayr223 § 0 1942]
+			[wayr223 § 0 1943]
 			[]
-			[wayl224 zCWaypoint 0 1944]
+			[wayl224 zCWaypoint 0 1945]
 				wpName=string:DP_FORT_NATURALBRIDGE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19753 -467.946106 7427
 				direction=vec3:0.275638044 0 -0.961261451
 			[]
-			[wayr224 § 0 1943]
+			[wayr224 § 0 1944]
 			[]
-			[wayl225 § 0 1932]
+			[wayl225 § 0 1933]
 			[]
-			[wayr225 § 0 1944]
+			[wayr225 § 0 1945]
 			[]
-			[wayl226 zCWaypoint 0 1945]
+			[wayl226 zCWaypoint 0 1946]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9635 1980.75647 -6149
 				direction=vec3:0.258819163 0 -0.965927303
 			[]
-			[wayr226 § 0 1842]
+			[wayr226 § 0 1843]
 			[]
-			[wayl227 zCWaypoint 0 1946]
+			[wayl227 zCWaypoint 0 1947]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9095 1941.9071 -5716
 				direction=vec3:0.898795366 0 -0.438372523
 			[]
-			[wayr227 § 0 1945]
+			[wayr227 § 0 1946]
 			[]
-			[wayl228 zCWaypoint 0 1947]
+			[wayl228 zCWaypoint 0 1948]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8163 1827.40515 -5384
 				direction=vec3:0.80901897 0 -0.587786674
 			[]
-			[wayr228 § 0 1946]
+			[wayr228 § 0 1947]
 			[]
-			[wayl229 zCWaypoint 0 1948]
+			[wayl229 zCWaypoint 0 1949]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7595 1649.05786 -4553
 				direction=vec3:0.121869244 0 -0.992547929
 			[]
-			[wayr229 § 0 1947]
+			[wayr229 § 0 1948]
 			[]
-			[wayl230 zCWaypoint 0 1949]
+			[wayl230 zCWaypoint 0 1950]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7600 1502.97778 -3561
 				direction=vec3:-0.139173388 0 -0.990269542
 			[]
-			[wayr230 § 0 1948]
+			[wayr230 § 0 1949]
 			[]
-			[wayl231 zCWaypoint 0 1950]
+			[wayl231 zCWaypoint 0 1951]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7662 1359.1261 -2966
 				direction=vec3:-0.681999743 0 -0.73135525
 			[]
-			[wayr231 § 0 1949]
+			[wayr231 § 0 1950]
 			[]
-			[wayl232 zCWaypoint 0 1951]
+			[wayl232 zCWaypoint 0 1952]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8126 1175.46216 -2889
 				direction=vec3:-0.999848783 0 0.0174524374
 			[]
-			[wayr232 § 0 1950]
+			[wayr232 § 0 1951]
 			[]
-			[wayl233 zCWaypoint 0 1952]
+			[wayl233 zCWaypoint 0 1953]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8710 964.14447 -3313
 				direction=vec3:-0.544639468 0 0.838671088
 			[]
-			[wayr233 § 0 1951]
+			[wayr233 § 0 1952]
 			[]
-			[wayl234 zCWaypoint 0 1953]
+			[wayl234 zCWaypoint 0 1954]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8996 631.628296 -4735
 				direction=vec3:-0.719340146 0 0.694658995
 			[]
-			[wayr234 § 0 1952]
+			[wayr234 § 0 1953]
 			[]
-			[wayl235 § 0 1855]
+			[wayl235 § 0 1856]
 			[]
-			[wayr235 § 0 1953]
+			[wayr235 § 0 1954]
 			[]
-			[wayl236 zCWaypoint 0 1954]
+			[wayl236 zCWaypoint 0 1955]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_UP_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8060 -708.359009 6636
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayr236 zCWaypoint 0 1955]
+			[wayr236 zCWaypoint 0 1956]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_UP_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8022.23535 -662.259338 7532.78418
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayl237 zCWaypoint 0 1956]
+			[wayl237 zCWaypoint 0 1957]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_UP_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7538.98389 -836.234436 5683.37207
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayr237 § 0 1954]
+			[wayr237 § 0 1955]
 			[]
-			[wayl238 zCWaypoint 0 1957]
+			[wayl238 zCWaypoint 0 1958]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7954 -904.181946 4489
 				direction=vec3:0.994523048 0 -0.104528315
 			[]
-			[wayr238 § 0 1956]
+			[wayr238 § 0 1957]
 			[]
-			[wayl239 zCWaypoint 0 1958]
+			[wayl239 zCWaypoint 0 1959]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5064.11719 -1173.67456 5624.67334
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayr239 zCWaypoint 0 1959]
+			[wayr239 zCWaypoint 0 1960]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3936.80469 -1114.3219 5635.10449
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayl240 zCWaypoint 0 1960]
+			[wayl240 zCWaypoint 0 1961]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5805.06543 -1271.67407 6188.75928
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayr240 § 0 1958]
+			[wayr240 § 0 1959]
 			[]
-			[wayl241 zCWaypoint 0 1961]
+			[wayl241 zCWaypoint 0 1962]
 				wpName=string:DP_FORT_TOWN_TO_WESTRIVER_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5921.0249 -1159.01819 5374.83154
 				direction=vec3:-0.0174526367 0 0.99984771
 			[]
-			[wayr241 § 0 1958]
+			[wayr241 § 0 1959]
 			[]
-			[wayl242 § 0 1961]
+			[wayl242 § 0 1962]
 			[]
-			[wayr242 § 0 1960]
+			[wayr242 § 0 1961]
 			[]
-			[wayl243 zCWaypoint 0 1962]
+			[wayl243 zCWaypoint 0 1963]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6081 -1034.80164 4515
 				direction=vec3:-0.01745262 0 0.999847651
 			[]
-			[wayr243 § 0 1961]
+			[wayr243 § 0 1962]
 			[]
-			[wayl244 zCWaypoint 0 1963]
+			[wayl244 zCWaypoint 0 1964]
 				wpName=string:DP_CEMETERY_CRYPT_L_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10778 -501.091187 9456
 				direction=vec3:-0.0349001698 0 -0.999392509
 			[]
-			[wayr244 zCWaypoint 0 1964]
+			[wayr244 zCWaypoint 0 1965]
 				wpName=string:DP_CEMETERY_CRYPT_L_ROOM1_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10638 -501.091003 9645
 				direction=vec3:-0.0349003263 0 -0.999390781
 			[]
-			[wayl245 zCWaypoint 0 1965]
+			[wayl245 zCWaypoint 0 1966]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM2_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12417 -672.121887 8431
 				direction=vec3:0.987689793 0 -0.156435341
 			[]
-			[wayr245 zCWaypoint 0 1966]
+			[wayr245 zCWaypoint 0 1967]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM2_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12774 -672.121887 8362
 				direction=vec3:0.173648879 0 0.984809697
 			[]
-			[wayl246 zCWaypoint 0 1967]
+			[wayl246 zCWaypoint 0 1968]
 				wpName=string:DP_CEMETERY_CRYPT_R_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11859 -566.495422 8543
 				direction=vec3:-0.19080922 0 -0.981627107
 			[]
-			[wayr246 § 0 1965]
+			[wayr246 § 0 1966]
 			[]
-			[wayl247 zCWaypoint 0 1968]
+			[wayl247 zCWaypoint 0 1969]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM1_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11640 -566.684021 8561
 				direction=vec3:-0.190809608 0 -0.981627107
 			[]
-			[wayr247 zCWaypoint 0 1969]
+			[wayr247 zCWaypoint 0 1970]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM1_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11384 -566.684082 8407
 				direction=vec3:-0.190809608 0 -0.981627107
 			[]
-			[wayl248 § 0 1967]
+			[wayl248 § 0 1968]
 			[]
-			[wayr248 § 0 1968]
+			[wayr248 § 0 1969]
 			[]
-			[wayl249 zCWaypoint 0 1970]
+			[wayl249 zCWaypoint 0 1971]
 				wpName=string:DP_CEMETERY_CRYPT_R_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12008 -459.851929 9280
 				direction=vec3:-0.19080992 0 -0.981628835
 			[]
-			[wayr249 § 0 1967]
+			[wayr249 § 0 1968]
 			[]
-			[wayl250 zCWaypoint 0 1971]
+			[wayl250 zCWaypoint 0 1972]
 				wpName=string:DP_CEMETERY_CRYPT_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11570 -459.851929 9351
 				direction=vec3:0.241922528 0 0.970295548
 			[]
-			[wayr250 § 0 1970]
+			[wayr250 § 0 1971]
 			[]
-			[wayl251 § 0 1963]
+			[wayl251 § 0 1964]
 			[]
-			[wayr251 zCWaypoint 0 1972]
+			[wayr251 zCWaypoint 0 1973]
 				wpName=string:DP_CEMETERY_CRYPT_L_ROOM2_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10621 -582.681458 8794
 				direction=vec3:-0.0349003263 0 -0.999390781
 			[]
-			[wayl252 § 0 1971]
+			[wayl252 § 0 1972]
 			[]
-			[wayr252 § 0 1963]
+			[wayr252 § 0 1964]
 			[]
-			[wayl253 zCWaypoint 0 1973]
+			[wayl253 zCWaypoint 0 1974]
 				wpName=string:DP_CEMETERY_CRYPT_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11462 -422.258087 8938
 				direction=vec3:0.241922423 0 0.970297039
 			[]
-			[wayr253 § 0 1971]
+			[wayr253 § 0 1972]
 			[]
-			[wayl254 zCWaypoint 0 1974]
+			[wayl254 zCWaypoint 0 1975]
 				wpName=string:DP_CEMETERY_GRAVES_L_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9967 -171.591431 8314
 				direction=vec3:-0.0174521208 0 0.999849379
 			[]
-			[wayr254 zCWaypoint 0 1975]
+			[wayr254 zCWaypoint 0 1976]
 				wpName=string:DP_CEMETERY_GRAVES_L_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9753 -231.825623 7741
 				direction=vec3:0.58778584 0 0.809017539
 			[]
-			[wayl255 zCWaypoint 0 1976]
+			[wayl255 zCWaypoint 0 1977]
 				wpName=string:DP_CEMETERY_GRAVES_L_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10507 -219.143036 7705
 				direction=vec3:-0.309017271 0 0.951058567
 			[]
-			[wayr255 § 0 1975]
+			[wayr255 § 0 1976]
 			[]
-			[wayl256 zCWaypoint 0 1977]
+			[wayl256 zCWaypoint 0 1978]
 				wpName=string:DP_CEMETERY_GRAVES_BACK_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11306 -79.5349121 9460
 				direction=vec3:0.99254781 0 -0.121868864
 			[]
-			[wayr256 zCWaypoint 0 1978]
+			[wayr256 zCWaypoint 0 1979]
 				wpName=string:DP_CEMETERY_GRAVES_BACK_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11760 -71.8589783 9338
 				direction=vec3:0.992546141 0 -0.121868931
 			[]
-			[wayl257 zCWaypoint 0 1979]
+			[wayl257 zCWaypoint 0 1980]
 				wpName=string:DP_CEMETERY_GRAVES_R_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12046 -115.538605 9019
 				direction=vec3:-0.453990757 0 0.891007066
 			[]
-			[wayr257 § 0 1978]
+			[wayr257 § 0 1979]
 			[]
-			[wayl258 zCWaypoint 0 1980]
+			[wayl258 zCWaypoint 0 1981]
 				wpName=string:DP_CEMETERY_GRAVES_L_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10750 -113.272858 9445
 				direction=vec3:0.992546141 0 -0.121870026
 			[]
-			[wayr258 § 0 1977]
+			[wayr258 § 0 1978]
 			[]
-			[wayl259 § 0 1974]
+			[wayl259 § 0 1975]
 			[]
-			[wayr259 zCWaypoint 0 1981]
+			[wayr259 zCWaypoint 0 1982]
 				wpName=string:DP_CEMETERY_GRAVES_L_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10177 -164.840408 9315
 				direction=vec3:0.707107425 0 0.707107484
 			[]
-			[wayl260 § 0 1980]
+			[wayl260 § 0 1981]
 			[]
-			[wayr260 § 0 1981]
+			[wayr260 § 0 1982]
 			[]
-			[wayl261 § 0 1976]
+			[wayl261 § 0 1977]
 			[]
-			[wayr261 § 0 1974]
+			[wayr261 § 0 1975]
 			[]
-			[wayl262 zCWaypoint 0 1982]
+			[wayl262 zCWaypoint 0 1983]
 				wpName=string:DP_CEMETERY_GRAVES_L_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10585 -153.185272 8497
 				direction=vec3:0.992547035 0 -0.121869862
 			[]
-			[wayr262 § 0 1974]
+			[wayr262 § 0 1975]
 			[]
-			[wayl263 § 0 1982]
+			[wayl263 § 0 1983]
 			[]
-			[wayr263 § 0 1980]
+			[wayr263 § 0 1981]
 			[]
-			[wayl264 § 0 1976]
+			[wayl264 § 0 1977]
 			[]
-			[wayr264 § 0 1982]
+			[wayr264 § 0 1983]
 			[]
-			[wayl265 zCWaypoint 0 1983]
+			[wayl265 zCWaypoint 0 1984]
 				wpName=string:DP_CEMETERY_WAY_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11059 -270.152039 7483
 				direction=vec3:0.292371631 0 0.956304729
 			[]
-			[wayr265 § 0 1976]
+			[wayr265 § 0 1977]
 			[]
-			[wayl266 zCWaypoint 0 1984]
+			[wayl266 zCWaypoint 0 1985]
 				wpName=string:DP_CEMETERY_GRAVES_R_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11967 -185.538513 8215
 				direction=vec3:-0.978149056 0 0.207912505
 			[]
-			[wayr266 § 0 1979]
+			[wayr266 § 0 1980]
 			[]
-			[wayl267 zCWaypoint 0 1985]
+			[wayl267 zCWaypoint 0 1986]
 				wpName=string:DP_CEMETERY_GRAVES_R_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11905 -224.212067 7747
 				direction=vec3:0.104529016 0 0.99452275
 			[]
-			[wayr267 § 0 1984]
+			[wayr267 § 0 1985]
 			[]
-			[wayl268 zCWaypoint 0 1986]
+			[wayl268 zCWaypoint 0 1987]
 				wpName=string:DP_CEMETERY_GRAVES_R_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11609 -276.942413 7430
 				direction=vec3:0.98769021 0 -0.156434894
 			[]
-			[wayr268 § 0 1985]
+			[wayr268 § 0 1986]
 			[]
-			[wayl269 § 0 1983]
+			[wayl269 § 0 1984]
 			[]
-			[wayr269 § 0 1986]
+			[wayr269 § 0 1987]
 			[]
-			[wayl270 zCWaypoint 0 1987]
+			[wayl270 zCWaypoint 0 1988]
 				wpName=string:DP_CEMTETRY_WAY_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11277 -215.596039 7945
 				direction=vec3:0.292371929 0 0.956304669
 			[]
-			[wayr270 § 0 1983]
+			[wayr270 § 0 1984]
 			[]
-			[wayl271 zCWaypoint 0 1988]
+			[wayl271 zCWaypoint 0 1989]
 				wpName=string:DP_CEMETERY_WAY_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11368 -158.581604 8397
 				direction=vec3:0.292372048 0 0.95630461
 			[]
-			[wayr271 § 0 1984]
+			[wayr271 § 0 1985]
 			[]
-			[wayl272 § 0 1988]
+			[wayl272 § 0 1989]
 			[]
-			[wayr272 § 0 1982]
+			[wayr272 § 0 1983]
 			[]
-			[wayl273 § 0 1973]
+			[wayl273 § 0 1974]
 			[]
-			[wayr273 § 0 1988]
+			[wayr273 § 0 1989]
 			[]
-			[wayl274 § 0 1987]
+			[wayl274 § 0 1988]
 			[]
-			[wayr274 § 0 1988]
+			[wayr274 § 0 1989]
 			[]
-			[wayl275 zCWaypoint 0 1989]
+			[wayl275 zCWaypoint 0 1990]
 				wpName=string:DP_CEMETERY_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10823 -337.168427 6998
 				direction=vec3:0.292372316 0 0.956305981
 			[]
-			[wayr275 § 0 1983]
+			[wayr275 § 0 1984]
 			[]
-			[wayl276 zCWaypoint 0 1990]
+			[wayl276 zCWaypoint 0 1991]
 				wpName=string:DP_FORT_TOWN_MILL_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10414 30.376194 -1765
 				direction=vec3:0.390731752 0 -0.920505941
 			[]
-			[wayr276 § 0 1861]
+			[wayr276 § 0 1862]
 			[]
-			[wayl277 zCWaypoint 0 1991]
+			[wayl277 zCWaypoint 0 1992]
 				wpName=string:DP_FORT_TOWN_TO_MILL_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9930 8.04709625 -846
 				direction=vec3:0.61566186 0 -0.788011372
 			[]
-			[wayr277 § 0 1861]
+			[wayr277 § 0 1862]
 			[]
-			[wayl278 zCWaypoint 0 1992]
+			[wayl278 zCWaypoint 0 1993]
 				wpName=string:DP_FORT_TOWN_TO_MILL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9702 -110.918488 -508
 				direction=vec3:0.754710019 0 -0.656059563
 			[]
-			[wayr278 § 0 1991]
+			[wayr278 § 0 1992]
 			[]
-			[wayl279 zCWaypoint 0 1993]
+			[wayl279 zCWaypoint 0 1994]
 				wpName=string:DP_FORT_TOWN_TO_MILL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9401 -407.046448 246
 				direction=vec3:0.99984777 0 0.0174522772
 			[]
-			[wayr279 § 0 1992]
+			[wayr279 § 0 1993]
 			[]
-			[wayl280 zCWaypoint 0 1994]
+			[wayl280 zCWaypoint 0 1995]
 				wpName=string:DP_FORT_TOWN_ENTANCE_MILL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8983 -443.395081 249
 				direction=vec3:0.999849021 0 0.0174522903
 			[]
-			[wayr280 § 0 1993]
+			[wayr280 § 0 1994]
 			[]
-			[wayl281 zCWaypoint 0 1995]
+			[wayl281 zCWaypoint 0 1996]
 				wpName=string:DP_FORT_TOWN_TO_ABANDONED_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9774 -694.219971 902
 				direction=vec3:-0.121869132 0 -0.992546201
 			[]
-			[wayr281 § 0 1993]
+			[wayr281 § 0 1994]
 			[]
-			[wayl282 zCWaypoint 0 1996]
+			[wayl282 zCWaypoint 0 1997]
 				wpName=string:DP_FORT_TOWN_TO_ABANDONED_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9783 -744.287781 1394
 				direction=vec3:-0.121869132 0 -0.992546201
 			[]
-			[wayr282 § 0 1995]
+			[wayr282 § 0 1996]
 			[]
-			[wayl283 zCWaypoint 0 1997]
+			[wayl283 zCWaypoint 0 1998]
 				wpName=string:DP_FORT_TOWN_TO_ABANDONED_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9780 -764.598145 2111
 				direction=vec3:-0.121869005 0 -0.99254626
 			[]
-			[wayr283 § 0 1996]
+			[wayr283 § 0 1997]
 			[]
-			[wayl284 zCWaypoint 0 1998]
+			[wayl284 zCWaypoint 0 1999]
 				wpName=string:DP_FORT_TOWN_TO_ABANDONED_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10210 -788.294312 2060
 				direction=vec3:-0.121869467 0 -0.992547333
 			[]
-			[wayr284 § 0 1997]
+			[wayr284 § 0 1998]
 			[]
-			[wayl285 zCWaypoint 0 1999]
+			[wayl285 zCWaypoint 0 2000]
 				wpName=string:DP_FORT_TOWN_ABANDONED_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10236 -690.513184 1674
 				direction=vec3:0.999848843 0 -0.0174524859
 			[]
-			[wayr285 § 0 1998]
+			[wayr285 § 0 1999]
 			[]
-			[wayl286 zCWaypoint 0 2000]
+			[wayl286 zCWaypoint 0 2001]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4433 135.706757 -774
 				direction=vec3:-0.990790308 0 0.135405257
 			[]
-			[wayr286 zCWaypoint 0 2001]
+			[wayr286 zCWaypoint 0 2002]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4179 108.49173 -729
 				direction=vec3:-0.0909445956 0 0.995857179
 			[]
-			[wayl287 zCWaypoint 0 2002]
+			[wayl287 zCWaypoint 0 2003]
 				wpName=string:DP_FORT_TOWN_HOUSE03_ENTRANCE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4230 117.68013 21.0000019
 				direction=vec3:0.0348997042 0 0.999399841
 			[]
-			[wayr287 § 0 2001]
+			[wayr287 § 0 2002]
 			[]
-			[wayl288 zCWaypoint 0 2003]
+			[wayl288 zCWaypoint 0 2004]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4694 68.177002 -143
 				direction=vec3:-0.990792215 0 0.13540554
 			[]
-			[wayr288 § 0 2000]
+			[wayr288 § 0 2001]
 			[]
-			[wayl289 zCWaypoint 0 2004]
+			[wayl289 zCWaypoint 0 2005]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_L_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4796 66.7781525 -1829
 				direction=vec3:0.0349045768 0 -0.999527395
 			[]
-			[wayr289 zCWaypoint 0 2005]
+			[wayr289 zCWaypoint 0 2006]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4885 86.3805237 -1113
 				direction=vec3:-0.500000417 0 -0.866025746
 			[]
-			[wayl290 zCWaypoint 0 2006]
+			[wayl290 zCWaypoint 0 2007]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5203 68.177002 -592
 				direction=vec3:-0.369800895 -0.08288645 -0.925407946
 			[]
-			[wayr290 § 0 2003]
+			[wayr290 § 0 2004]
 			[]
-			[wayl291 § 0 2002]
+			[wayl291 § 0 2003]
 			[]
-			[wayr291 § 0 2003]
+			[wayr291 § 0 2004]
 			[]
-			[wayl292 § 0 2002]
+			[wayl292 § 0 2003]
 			[]
-			[wayr292 zCWaypoint 0 2007]
+			[wayr292 zCWaypoint 0 2008]
 				wpName=string:DP_FORT_TOWN_HOUSE03_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4228 117.680138 257
 				direction=vec3:0.0348993838 0 0.999391735
 			[]
-			[wayl293 § 0 2006]
+			[wayl293 § 0 2007]
 			[]
-			[wayr293 § 0 2005]
+			[wayr293 § 0 2006]
 			[]
-			[wayl294 zCWaypoint 0 2008]
+			[wayl294 zCWaypoint 0 2009]
 				wpName=string:DP_FORT_TOWN_FIELDS_TO_TOWNHALL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5504 51.4266129 -146
 				direction=vec3:-0.422618181 0 -0.906307817
 			[]
-			[wayr294 § 0 2006]
+			[wayr294 § 0 2007]
 			[]
-			[wayl295 zCWaypoint 0 2009]
+			[wayl295 zCWaypoint 0 2010]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5683 104.966095 -766
 				direction=vec3:0.997564971 0 -0.0697569475
 			[]
-			[wayr295 § 0 2006]
+			[wayr295 § 0 2007]
 			[]
-			[wayl296 § 0 2009]
+			[wayl296 § 0 2010]
 			[]
-			[wayr296 zCWaypoint 0 2010]
+			[wayr296 zCWaypoint 0 2011]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6153 73.2131958 -890
 				direction=vec3:0.0174520947 0 -0.99984771
 			[]
-			[wayl297 zCWaypoint 0 2011]
+			[wayl297 zCWaypoint 0 2012]
 				wpName=string:DP_FORT_TOWN_FIELDS_TO_TOWNHALL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5833 -195.945465 408
 				direction=vec3:-0.422618419 0 -0.906308889
 			[]
-			[wayr297 § 0 2008]
+			[wayr297 § 0 2009]
 			[]
-			[wayl298 zCWaypoint 0 2012]
+			[wayl298 zCWaypoint 0 2013]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5985 -307.058594 1001
 				direction=vec3:0.933581293 0 -0.35836789
 			[]
-			[wayr298 § 0 2011]
+			[wayr298 § 0 2012]
 			[]
-			[wayl299 zCWaypoint 0 2013]
+			[wayl299 zCWaypoint 0 2014]
 				wpName=string:DP_FORT_TOWN_TO_TOWNCAVE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4902 95.487915 -3382
 				direction=vec3:0.992546082 0 -0.121869594
 			[]
-			[wayr299 zCWaypoint 0 2014]
+			[wayr299 zCWaypoint 0 2015]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_R_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4808 66.1423416 -2720
 				direction=vec3:-0.0348996744 0 0.999391794
 			[]
-			[wayl300 zCWaypoint 0 2015]
+			[wayl300 zCWaypoint 0 2016]
 				wpName=string:DP_FORT_TOWN_TOWNCAVE_ENTRANCE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6148 74.1593018 -3607
 				direction=vec3:0.939694405 0 -0.342021435
 			[]
-			[wayr300 zCWaypoint 0 2016]
+			[wayr300 zCWaypoint 0 2017]
 				wpName=string:DP_FORT_TOWN_TO_TOWNCAVE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6004 69.3698578 -3563
 				direction=vec3:0.99254638 0 -0.121869743
 			[]
-			[wayl301 zCWaypoint 0 2017]
+			[wayl301 zCWaypoint 0 2018]
 				wpName=string:DP_FORT_TOWN_TO_TOWNCAVE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5493 68.177002 -3522
 				direction=vec3:0.992546082 0 -0.121869594
 			[]
-			[wayr301 § 0 2016]
+			[wayr301 § 0 2017]
 			[]
-			[wayl302 § 0 2017]
+			[wayl302 § 0 2018]
 			[]
-			[wayr302 § 0 2013]
+			[wayr302 § 0 2014]
 			[]
-			[wayl303 zCWaypoint 0 2018]
+			[wayl303 zCWaypoint 0 2019]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3778.00024 71.2906952 -2437
 				direction=vec3:0.139173061 0 0.990268946
 			[]
-			[wayr303 zCWaypoint 0 2019]
+			[wayr303 zCWaypoint 0 2020]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3763.00024 76.882843 -2812
 				direction=vec3:0.241921932 0 0.970296621
 			[]
-			[wayl304 zCWaypoint 0 2020]
+			[wayl304 zCWaypoint 0 2021]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3952 73.5744324 -2315
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr304 § 0 2018]
+			[wayr304 § 0 2019]
 			[]
-			[wayl305 § 0 2004]
+			[wayl305 § 0 2005]
 			[]
-			[wayr305 zCWaypoint 0 2021]
+			[wayr305 zCWaypoint 0 2022]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_L_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4419 68.177002 -1764.00012
 				direction=vec3:0.898795426 0 -0.43837133
 			[]
-			[wayl306 § 0 2014]
+			[wayl306 § 0 2015]
 			[]
-			[wayr306 zCWaypoint 0 2022]
+			[wayr306 zCWaypoint 0 2023]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_R_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4428 68.177002 -2789
 				direction=vec3:1.00000107 0 3.81842256e-007
 			[]
-			[wayl307 § 0 1914]
+			[wayl307 § 0 1915]
 			[]
-			[wayr307 zCWaypoint 0 2023]
+			[wayr307 zCWaypoint 0 2024]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_R_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3276 -223.74411 1744
 				direction=vec3:-0.342020243 0 -0.939692557
 			[]
-			[wayl308 zCWaypoint 0 2024]
+			[wayl308 zCWaypoint 0 2025]
 				wpName=string:DP_FORT_TOWN_FIELD2_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7881 -469.300598 2601
 				direction=vec3:0.529919326 0 0.848048151
 			[]
-			[wayr308 zCWaypoint 0 2025]
+			[wayr308 zCWaypoint 0 2026]
 				wpName=string:DP_FORT_TOWN_FIELD2_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8062 -486.531921 960
 				direction=vec3:0.529918969 0 0.84804827
 			[]
-			[wayl309 § 0 2024]
+			[wayl309 § 0 2025]
 			[]
-			[wayr309 zCWaypoint 0 2026]
+			[wayr309 zCWaypoint 0 2027]
 				wpName=string:DP_FORT_TOWN_FIELD2_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6597 -393.421844 2093
 				direction=vec3:0.529919565 0 0.848048985
 			[]
-			[wayl310 § 0 1915]
+			[wayl310 § 0 1916]
 			[]
-			[wayr310 zCWaypoint 0 2027]
+			[wayr310 zCWaypoint 0 2028]
 				wpName=string:DP_FORT_TOWN_FIELD1_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4465 -422.472473 3967
 				direction=vec3:0.0523358807 0 0.99862951
 			[]
-			[wayl311 zCWaypoint 0 2028]
+			[wayl311 zCWaypoint 0 2029]
 				wpName=string:DP_FORT_TOWN_FIELD1_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3630 -456.580048 4134
 				direction=vec3:0.0523358807 0 0.99862951
 			[]
-			[wayr311 zCWaypoint 0 2029]
+			[wayr311 zCWaypoint 0 2030]
 				wpName=string:DP_FORT_TOWN_FIELD1_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4334 -445.108154 3024
 				direction=vec3:0.0523358658 0 0.99862951
 			[]
-			[wayl312 zCWaypoint 0 2030]
+			[wayl312 zCWaypoint 0 2031]
 				wpName=string:DP_FORT_TOWN_FIELD2_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8425 -486.531921 1834
 				direction=vec3:0.529919326 0 0.848048151
 			[]
-			[wayr312 § 0 2024]
+			[wayr312 § 0 2025]
 			[]
-			[wayl313 zCWaypoint 0 2031]
+			[wayl313 zCWaypoint 0 2032]
 				wpName=string:DP_FORT_TOWN_FIELD2_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6949 -411.013336 3017
 				direction=vec3:0.529918969 0 0.848048329
 			[]
-			[wayr313 § 0 2024]
+			[wayr313 § 0 2025]
 			[]
-			[wayl314 § 0 2031]
+			[wayl314 § 0 2032]
 			[]
-			[wayr314 § 0 2026]
+			[wayr314 § 0 2027]
 			[]
-			[wayl315 § 0 2031]
+			[wayl315 § 0 2032]
 			[]
-			[wayr315 zCWaypoint 0 2032]
+			[wayr315 zCWaypoint 0 2033]
 				wpName=string:DP_FORT_TOWN_FIELD2_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7443 -433.813477 1703
 				direction=vec3:0.529919028 0 0.84804827
 			[]
-			[wayl316 § 0 2026]
+			[wayl316 § 0 2027]
 			[]
-			[wayr316 § 0 2032]
+			[wayr316 § 0 2033]
 			[]
-			[wayl317 § 0 2025]
+			[wayl317 § 0 2026]
 			[]
-			[wayr317 § 0 2032]
+			[wayr317 § 0 2033]
 			[]
-			[wayl318 § 0 2024]
+			[wayl318 § 0 2025]
 			[]
-			[wayr318 § 0 2032]
+			[wayr318 § 0 2033]
 			[]
-			[wayl319 § 0 2030]
+			[wayl319 § 0 2031]
 			[]
-			[wayr319 § 0 2032]
+			[wayr319 § 0 2033]
 			[]
-			[wayl320 § 0 2025]
+			[wayl320 § 0 2026]
 			[]
-			[wayr320 § 0 2030]
+			[wayr320 § 0 2031]
 			[]
-			[wayl321 § 0 1913]
+			[wayl321 § 0 1914]
 			[]
-			[wayr321 § 0 2027]
+			[wayr321 § 0 2028]
 			[]
-			[wayl322 § 0 2028]
+			[wayl322 § 0 2029]
 			[]
-			[wayr322 § 0 1913]
+			[wayr322 § 0 1914]
 			[]
-			[wayl323 § 0 2028]
+			[wayl323 § 0 2029]
 			[]
-			[wayr323 § 0 2027]
+			[wayr323 § 0 2028]
 			[]
-			[wayl324 § 0 2027]
+			[wayl324 § 0 2028]
 			[]
-			[wayr324 § 0 2029]
+			[wayr324 § 0 2030]
 			[]
-			[wayl325 § 0 2027]
+			[wayl325 § 0 2028]
 			[]
-			[wayr325 zCWaypoint 0 2033]
+			[wayr325 zCWaypoint 0 2034]
 				wpName=string:DP_FORT_TOWN_FIELD1_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5188 -492.101685 3612
 				direction=vec3:0.0523358658 0 0.99862951
 			[]
-			[wayl326 § 0 2029]
+			[wayl326 § 0 2030]
 			[]
-			[wayr326 § 0 2033]
+			[wayr326 § 0 2034]
 			[]
-			[wayl327 § 0 1915]
+			[wayl327 § 0 1916]
 			[]
-			[wayr327 § 0 2033]
+			[wayr327 § 0 2034]
 			[]
-			[wayl328 § 0 2029]
+			[wayl328 § 0 2030]
 			[]
-			[wayr328 § 0 1913]
+			[wayr328 § 0 1914]
 			[]
-			[wayl329 § 0 2029]
+			[wayl329 § 0 2030]
 			[]
-			[wayr329 § 0 1915]
+			[wayr329 § 0 1916]
 			[]
-			[wayl330 zCWaypoint 0 2034]
+			[wayl330 zCWaypoint 0 2035]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5416 -346.341553 1386
 				direction=vec3:0.81915313 0 0.573577404
 			[]
-			[wayr330 zCWaypoint 0 2035]
+			[wayr330 zCWaypoint 0 2036]
 				wpName=string:DP_FORT_TOWN_ROAD_CEMENTRY_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5952 -461.671448 1892
 				direction=vec3:0.390731007 0 0.920505404
 			[]
-			[wayl331 zCWaypoint 0 2036]
+			[wayl331 zCWaypoint 0 2037]
 				wpName=string:DP_FORT_TOWN_ROAD_CEMENTRY_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6124 -833.31897 3006
 				direction=vec3:-0.01745262 0 0.999847651
 			[]
-			[wayr331 § 0 2035]
+			[wayr331 § 0 2036]
 			[]
-			[wayl332 zCWaypoint 0 2037]
+			[wayl332 zCWaypoint 0 2038]
 				wpName=string:DP_FORT_TOWN_ENTANCE_CEMENTRY
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6078 -919.139648 3786
 				direction=vec3:-0.0174525678 0 0.999848664
 			[]
-			[wayr332 § 0 2036]
+			[wayr332 § 0 2037]
 			[]
-			[wayl333 § 0 1914]
+			[wayl333 § 0 1915]
 			[]
-			[wayr333 zCWaypoint 0 2038]
+			[wayr333 zCWaypoint 0 2039]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4195 -358.782379 2213
 				direction=vec3:0.933580935 0 -0.358367741
 			[]
-			[wayl334 § 0 2038]
+			[wayl334 § 0 2039]
 			[]
-			[wayr334 § 0 1916]
+			[wayr334 § 0 1917]
 			[]
-			[wayl335 § 0 1916]
+			[wayl335 § 0 1917]
 			[]
-			[wayr335 § 0 2034]
+			[wayr335 § 0 2035]
 			[]
-			[wayl336 § 0 2012]
+			[wayl336 § 0 2013]
 			[]
-			[wayr336 § 0 2034]
+			[wayr336 § 0 2035]
 			[]
-			[wayl337 § 0 2012]
+			[wayl337 § 0 2013]
 			[]
-			[wayr337 zCWaypoint 0 2039]
+			[wayr337 zCWaypoint 0 2040]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6772 -348.890411 763
 				direction=vec3:0.874620736 0 -0.484809846
 			[]
-			[wayl338 zCWaypoint 0 2040]
+			[wayl338 zCWaypoint 0 2041]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7162 -379.505096 293
 				direction=vec3:0.500000834 0 -0.866025984
 			[]
-			[wayr338 § 0 2039]
+			[wayr338 § 0 2040]
 			[]
-			[wayl339 § 0 1914]
+			[wayl339 § 0 1915]
 			[]
-			[wayr339 zCWaypoint 0 2041]
+			[wayr339 zCWaypoint 0 2042]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2791 -359.411224 2424
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl340 zCWaypoint 0 2042]
+			[wayl340 zCWaypoint 0 2043]
 				wpName=string:DP_COAST_TOWN_BRIGE_CONNECT
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2521 -343.4422 2455
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr340 § 0 2041]
+			[wayr340 § 0 2042]
 			[]
-			[wayl341 zCWaypoint 0 2043]
+			[wayl341 zCWaypoint 0 2044]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_R_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2903 -87.3691254 -231
 				direction=vec3:-0.342020243 0 -0.939692557
 			[]
-			[wayr341 zCWaypoint 0 2044]
+			[wayr341 zCWaypoint 0 2045]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_R_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2917 -61.8326263 269
 				direction=vec3:-0.342020273 0 -0.939692616
 			[]
-			[wayl342 zCWaypoint 0 2045]
+			[wayl342 zCWaypoint 0 2046]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2896 -84.9615784 -714
 				direction=vec3:-0.342020363 0 -0.939692557
 			[]
-			[wayr342 § 0 2043]
+			[wayr342 § 0 2044]
 			[]
-			[wayl343 zCWaypoint 0 2046]
+			[wayl343 zCWaypoint 0 2047]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3412 47.3961105 -1026
 				direction=vec3:-0.999391913 0 0.0348996967
 			[]
-			[wayr343 zCWaypoint 0 2047]
+			[wayr343 zCWaypoint 0 2048]
 				wpName=string:DP_FORT_TOWN_OUT_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3382 56.5787582 -1439.00012
 				direction=vec3:-0.406736821 0 -0.91354692
 			[]
-			[wayl344 § 0 2047]
+			[wayl344 § 0 2048]
 			[]
-			[wayr344 zCWaypoint 0 2048]
+			[wayr344 zCWaypoint 0 2049]
 				wpName=string:DP_FORT_TOWN_OUT_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4066 90.1166382 -1541
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl345 zCWaypoint 0 2049]
+			[wayl345 zCWaypoint 0 2050]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2201 -119.110397 -2148
 				direction=vec3:-0.342020363 0 -0.939692557
 			[]
-			[wayr345 zCWaypoint 0 2050]
+			[wayr345 zCWaypoint 0 2051]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2360 -189.228134 -1514
 				direction=vec3:-0.987690151 0 0.156434804
 			[]
-			[wayl346 § 0 2049]
+			[wayl346 § 0 2050]
 			[]
-			[wayr346 zCWaypoint 0 2051]
+			[wayr346 zCWaypoint 0 2052]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2317 69.7966461 -2916
 				direction=vec3:-0.342020363 0 -0.939692557
 			[]
-			[wayl347 zCWaypoint 0 2052]
+			[wayl347 zCWaypoint 0 2053]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3780 79.9109497 -3186
 				direction=vec3:0.190808713 0 0.981627703
 			[]
-			[wayr347 § 0 2019]
+			[wayr347 § 0 2020]
 			[]
-			[wayl348 zCWaypoint 0 2053]
+			[wayl348 zCWaypoint 0 2054]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3522 77.2337418 -3458.00024
 				direction=vec3:0.882948041 0 0.469472319
 			[]
-			[wayr348 § 0 2052]
+			[wayr348 § 0 2053]
 			[]
-			[wayl349 § 0 2047]
+			[wayl349 § 0 2048]
 			[]
-			[wayr349 zCWaypoint 0 2054]
+			[wayr349 zCWaypoint 0 2055]
 				wpName=string:DP_FORT_TOWN_HOUSE02_ENTRANCE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3013 68.8947449 -1976
 				direction=vec3:-0.139173463 0 -0.990269244
 			[]
-			[wayl350 § 0 2053]
+			[wayl350 § 0 2054]
 			[]
-			[wayr350 zCWaypoint 0 2055]
+			[wayr350 zCWaypoint 0 2056]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2659 93.4509888 -3519
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayl351 zCWaypoint 0 2056]
+			[wayl351 zCWaypoint 0 2057]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2131.0022 68.177002 -4324.18164
 				direction=vec3:0.99984771 0 -0.0174521487
 			[]
-			[wayr351 zCWaypoint 0 2057]
+			[wayr351 zCWaypoint 0 2058]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_09
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:1260 68.177002 -4395
 				direction=vec3:0.99984771 0 -0.0174521469
 			[]
-			[wayl352 § 0 2056]
+			[wayl352 § 0 2057]
 			[]
-			[wayr352 zCWaypoint 0 2058]
+			[wayr352 zCWaypoint 0 2059]
 				wpName=string:DP_FORT_TOWN_ROAD_TOWNHALL_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2538 87.1630554 -4203
 				direction=vec3:0.544638991 0 0.838671386
 			[]
-			[wayl353 § 0 1766]
+			[wayl353 § 0 1767]
 			[]
-			[wayr353 § 0 2058]
+			[wayr353 § 0 2059]
 			[]
-			[wayl354 § 0 2055]
+			[wayl354 § 0 2056]
 			[]
-			[wayr354 § 0 2058]
+			[wayr354 § 0 2059]
 			[]
-			[wayl355 § 0 2055]
+			[wayl355 § 0 2056]
 			[]
-			[wayr355 zCWaypoint 0 2059]
+			[wayr355 zCWaypoint 0 2060]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2465 115.192848 -3366
 				direction=vec3:0.241921738 0 -0.970296264
 			[]
-			[wayl356 § 0 2051]
+			[wayl356 § 0 2052]
 			[]
-			[wayr356 § 0 2059]
+			[wayr356 § 0 2060]
 			[]
-			[wayl357 zCWaypoint 0 2060]
+			[wayl357 zCWaypoint 0 2061]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2755 -113.30368 -1175
 				direction=vec3:-0.34202072 0 -0.93969357
 			[]
-			[wayr357 § 0 2050]
+			[wayr357 § 0 2051]
 			[]
-			[wayl358 § 0 2045]
+			[wayl358 § 0 2046]
 			[]
-			[wayr358 § 0 2060]
+			[wayr358 § 0 2061]
 			[]
-			[wayl359 § 0 2045]
+			[wayl359 § 0 2046]
 			[]
-			[wayr359 § 0 2046]
+			[wayr359 § 0 2047]
 			[]
-			[wayl360 § 0 1748]
+			[wayl360 § 0 1749]
 			[]
-			[wayr360 § 0 2010]
+			[wayr360 § 0 2011]
 			[]
-			[wayl361 § 0 2004]
+			[wayl361 § 0 2005]
 			[]
-			[wayr361 zCWaypoint 0 2061]
+			[wayr361 zCWaypoint 0 2062]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4801 158.467194 -2269
 				direction=vec3:0.999392271 0 0.0349000655
 			[]
-			[wayl362 § 0 2014]
+			[wayl362 § 0 2015]
 			[]
-			[wayr362 § 0 2061]
+			[wayr362 § 0 2062]
 			[]
-			[wayl363 § 0 2061]
+			[wayl363 § 0 2062]
 			[]
-			[wayr363 § 0 1749]
+			[wayr363 § 0 1750]
 			[]
-			[wayl364 zCWaypoint 0 2062]
+			[wayl364 zCWaypoint 0 2063]
 				wpName=string:DP_COAST_TOWN_STONEBRIGE_CONNECT
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:770 68.177002 -4388
 				direction=vec3:0.99984771 0 -0.0174521469
 			[]
-			[wayr364 § 0 2057]
+			[wayr364 § 0 2058]
 			[]
-			[wayl365 § 0 2048]
+			[wayl365 § 0 2049]
 			[]
-			[wayr365 § 0 2021]
+			[wayr365 § 0 2022]
 			[]
-			[wayl366 § 0 2048]
+			[wayl366 § 0 2049]
 			[]
-			[wayr366 zCWaypoint 0 2063]
+			[wayr366 zCWaypoint 0 2064]
 				wpName=string:DP_FORT_TOWN_TO_TOWNHALL_BACK_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3917 85.686203 -1101
 				direction=vec3:0.998824239 0 -0.0485370792
 			[]
-			[wayl367 § 0 2001]
+			[wayl367 § 0 2002]
 			[]
-			[wayr367 § 0 2063]
+			[wayr367 § 0 2064]
 			[]
-			[wayl368 § 0 2046]
+			[wayl368 § 0 2047]
 			[]
-			[wayr368 § 0 2063]
+			[wayr368 § 0 2064]
 			[]
-			[wayl369 § 0 2052]
+			[wayl369 § 0 2053]
 			[]
-			[wayr369 § 0 2013]
+			[wayr369 § 0 2014]
 			[]
-			[wayl370 § 0 2044]
+			[wayl370 § 0 2045]
 			[]
-			[wayr370 zCWaypoint 0 2064]
+			[wayr370 zCWaypoint 0 2065]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_R_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2892.02979 -86.9076691 797.494385
 				direction=vec3:-0.342020273 0 -0.939692616
 			[]
-			[wayl371 § 0 2064]
+			[wayl371 § 0 2065]
 			[]
-			[wayr371 zCWaypoint 0 2065]
+			[wayr371 zCWaypoint 0 2066]
 				wpName=string:DP_FORT_TOWN_TO_RIVER_R_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2929.57495 -150.075729 1286.59021
 				direction=vec3:-0.342020273 0 -0.939692616
 			[]
-			[wayl372 § 0 2023]
+			[wayl372 § 0 2024]
 			[]
-			[wayr372 § 0 2065]
+			[wayr372 § 0 2066]
 			[]
-			[wayl373 zCWaypoint 0 2066]
+			[wayl373 zCWaypoint 0 2067]
 				wpName=string:DP_FORT_TOWN_TUNNEL_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7543 -350.922852 -3122
 				direction=vec3:-0.0697567016 0 -0.997564018
 			[]
-			[wayr373 zCWaypoint 0 2067]
+			[wayr373 zCWaypoint 0 2068]
 				wpName=string:DP_FORT_TOWN_ENTANCE_TUNNEL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7542 -352.113647 -2198
 				direction=vec3:-0.0697567761 0 -0.997565866
 			[]
-			[wayl374 § 0 2066]
+			[wayl374 § 0 2067]
 			[]
-			[wayr374 zCWaypoint 0 2068]
+			[wayr374 zCWaypoint 0 2069]
 				wpName=string:DP_FORT_TOWN_TUNNEL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7551 -441.796967 -4117
 				direction=vec3:-0.0697568357 0 -0.997564018
 			[]
-			[wayl375 § 0 2068]
+			[wayl375 § 0 2069]
 			[]
-			[wayr375 zCWaypoint 0 2069]
+			[wayr375 zCWaypoint 0 2070]
 				wpName=string:DP_FORT_TOWN_TUNNEL_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7297 -509.062439 -5384
 				direction=vec3:-0.0697568357 0 -0.997564018
 			[]
-			[wayl376 § 0 2069]
+			[wayl376 § 0 2070]
 			[]
-			[wayr376 zCWaypoint 0 2070]
+			[wayr376 zCWaypoint 0 2071]
 				wpName=string:DP_FORT_TOWN_TUNNEL_OUT
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7013 -475.847107 -6837
 				direction=vec3:-0.0697568357 0 -0.997564018
 			[]
-			[wayl377 § 0 2067]
+			[wayl377 § 0 2068]
 			[]
-			[wayr377 zCWaypoint 0 2071]
+			[wayr377 zCWaypoint 0 2072]
 				wpName=string:DP_FORT_TOWN_ROAD_TO_TUNNEL_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:7490 -379.505096 -1348
 				direction=vec3:0.173648492 0 -0.984807789
 			[]
-			[wayl378 § 0 1789]
+			[wayl378 § 0 1790]
 			[]
-			[wayr378 § 0 2071]
+			[wayr378 § 0 2072]
 			[]
-			[wayl379 § 0 1789]
+			[wayl379 § 0 1790]
 			[]
-			[wayr379 § 0 2040]
+			[wayr379 § 0 2041]
 			[]
-			[wayl380 § 0 1994]
+			[wayl380 § 0 1995]
 			[]
-			[wayr380 zCWaypoint 0 2072]
+			[wayr380 zCWaypoint 0 2073]
 				wpName=string:DP_FORT_TOWN_ROAD_FIELDS_10
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8513 -430.575867 38
 				direction=vec3:0.970295668 0 0.241922289
 			[]
-			[wayl381 § 0 1788]
+			[wayl381 § 0 1789]
 			[]
-			[wayr381 § 0 2072]
+			[wayr381 § 0 2073]
 			[]
-			[wayl382 § 0 2072]
+			[wayl382 § 0 2073]
 			[]
-			[wayr382 § 0 2025]
+			[wayr382 § 0 2026]
 			[]
-			[wayl383 § 0 2012]
+			[wayl383 § 0 2013]
 			[]
-			[wayr383 § 0 2026]
+			[wayr383 § 0 2027]
 			[]
-			[wayl384 § 0 2070]
+			[wayl384 § 0 2071]
 			[]
-			[wayr384 zCWaypoint 0 2073]
+			[wayr384 zCWaypoint 0 2074]
 				wpName=string:DP_FORT_EASTSHORE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6720 -422.005737 -7108
 				direction=vec3:-0.891007245 0 -0.45399043
 			[]
-			[wayl385 § 0 2073]
+			[wayl385 § 0 2074]
 			[]
-			[wayr385 zCWaypoint 0 2074]
+			[wayr385 zCWaypoint 0 2075]
 				wpName=string:DP_FORT_EASTSHORE_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6059.44629 -450.311676 -7412.92041
 				direction=vec3:-0.891006768 0 -0.453989953
 			[]
-			[wayl386 § 0 2074]
+			[wayl386 § 0 2075]
 			[]
-			[wayr386 zCWaypoint 0 2075]
+			[wayr386 zCWaypoint 0 2076]
 				wpName=string:DP_FORT_EASTSHORE_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:5306 -422.762543 -7671
 				direction=vec3:-0.999391437 0 0.0349001214
 			[]
-			[wayl387 § 0 2075]
+			[wayl387 § 0 2076]
 			[]
-			[wayr387 zCWaypoint 0 2076]
+			[wayr387 zCWaypoint 0 2077]
 				wpName=string:DP_FORT_EASTSHORE_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:4376 -288.410645 -7502
 				direction=vec3:-1.00000036 0 6.44475222e-007
 			[]
-			[wayl388 § 0 2076]
+			[wayl388 § 0 2077]
 			[]
-			[wayr388 zCWaypoint 0 2077]
+			[wayr388 zCWaypoint 0 2078]
 				wpName=string:DP_FORT_EASTSHORE_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3827 -223.629883 -7353
 				direction=vec3:-0.927184403 0 0.374607414
 			[]
-			[wayl389 zCWaypoint 0 2078]
+			[wayl389 zCWaypoint 0 2079]
 				wpName=string:DP_FORT_EASTSHORE_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3464 -223.629944 -7239
 				direction=vec3:-0.927186668 0 0.374608517
 			[]
-			[wayr389 § 0 2077]
+			[wayr389 § 0 2078]
 			[]
-			[wayl390 § 0 2078]
+			[wayl390 § 0 2079]
 			[]
-			[wayr390 zCWaypoint 0 2079]
+			[wayr390 zCWaypoint 0 2080]
 				wpName=string:DP_FORT_EASTSHORE_END
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3167 -228.751556 -6919
 				direction=vec3:0.325568676 0 -0.945520699
 			[]
-			[wayl391 § 0 1966]
+			[wayl391 § 0 1967]
 			[]
-			[wayr391 zCWaypoint 0 2080]
+			[wayr391 zCWaypoint 0 2081]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM2_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12860 -672.121887 8808
 				direction=vec3:0.173648119 0 0.984807789
 			[]
-			[wayl392 § 0 2080]
+			[wayl392 § 0 2081]
 			[]
-			[wayr392 zCWaypoint 0 2081]
+			[wayr392 zCWaypoint 0 2082]
 				wpName=string:DP_CEMETERY_CRYPT_R_ROOM2_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:12446 -672.121887 8892
 				direction=vec3:0.173648119 0 0.984807789
 			[]
-			[wayl393 § 0 1965]
+			[wayl393 § 0 1966]
 			[]
-			[wayr393 § 0 2081]
+			[wayr393 § 0 2082]
 			[]
-			[wayl394 § 0 2037]
+			[wayl394 § 0 2038]
 			[]
-			[wayr394 § 0 1962]
+			[wayr394 § 0 1963]
 			[]
-			[wayl395 § 0 1962]
+			[wayl395 § 0 1963]
 			[]
-			[wayr395 zCWaypoint 0 2082]
+			[wayr395 zCWaypoint 0 2083]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:6833 -982.068481 4518
 				direction=vec3:0.998630524 0 0.0523362719
 			[]
-			[wayl396 § 0 2082]
+			[wayl396 § 0 2083]
 			[]
-			[wayr396 § 0 1957]
+			[wayr396 § 0 1958]
 			[]
-			[wayl397 § 0 1957]
+			[wayl397 § 0 1958]
 			[]
-			[wayr397 zCWaypoint 0 2083]
+			[wayr397 zCWaypoint 0 2084]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:8755 -874.494202 4804
 				direction=vec3:0.984808624 0 0.173648179
 			[]
-			[wayl398 § 0 2083]
+			[wayl398 § 0 2084]
 			[]
-			[wayr398 zCWaypoint 0 2084]
+			[wayr398 zCWaypoint 0 2085]
 				wpName=string:DP_FORT_TOWN_TO_CEMENTRY_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9985 -801.804565 4922
 				direction=vec3:-0.0174521487 0 0.99984771
 			[]
-			[wayl399 § 0 2084]
+			[wayl399 § 0 2085]
 			[]
-			[wayr399 § 0 1925]
+			[wayr399 § 0 1926]
 			[]
-			[wayl400 § 0 1989]
+			[wayl400 § 0 1990]
 			[]
-			[wayr400 § 0 1925]
+			[wayr400 § 0 1926]
 			[]
-			[wayl401 zCWaypoint 0 2085]
+			[wayl401 zCWaypoint 0 2086]
 				wpName=string:DP_FORT_ABANDONED_TO_CEMENTRY_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9931 -891.797913 4112
 				direction=vec3:-0.121869147 0 -0.992546201
 			[]
-			[wayr401 § 0 1912]
+			[wayr401 § 0 1913]
 			[]
-			[wayl402 § 0 1912]
+			[wayl402 § 0 1913]
 			[]
-			[wayr402 § 0 1997]
+			[wayr402 § 0 1998]
 			[]
-			[wayl403 § 0 2084]
+			[wayl403 § 0 2085]
 			[]
-			[wayr403 § 0 2085]
+			[wayr403 § 0 2086]
 			[]
-			[wayl404 § 0 1934]
+			[wayl404 § 0 1935]
 			[]
-			[wayr404 zCWaypoint 0 2086]
+			[wayr404 zCWaypoint 0 2087]
 				wpName=string:DP_FORT_CONNECT_FOREST_NATURALBRIDGE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15098 1850.75024 9862
 				direction=vec3:0 0 1
 			[]
-			[wayl405 § 0 2000]
+			[wayl405 § 0 2001]
 			[]
-			[wayr405 § 0 2005]
+			[wayr405 § 0 2006]
 			[]
-			[wayl406 zCWaypoint 0 2087]
+			[wayl406 zCWaypoint 0 2088]
 				wpName=string:DP_FORT_TOWN_HOUSE02_ENTRANCE_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3598 76.058075 -2396
 				direction=vec3:-0.999391913 0 0.0348994955
 			[]
-			[wayr406 § 0 2018]
+			[wayr406 § 0 2019]
 			[]
-			[wayl407 § 0 2022]
+			[wayl407 § 0 2023]
 			[]
-			[wayr407 § 0 2019]
+			[wayr407 § 0 2020]
 			[]
-			[wayl408 § 0 2048]
+			[wayl408 § 0 2049]
 			[]
-			[wayr408 § 0 2020]
+			[wayr408 § 0 2021]
 			[]
-			[wayl409 § 0 2087]
+			[wayl409 § 0 2088]
 			[]
-			[wayr409 zCWaypoint 0 2088]
+			[wayr409 zCWaypoint 0 2089]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3379 71.0510788 -2403
 				direction=vec3:-0.999390841 0 0.0348993801
 			[]
-			[wayl410 § 0 2088]
+			[wayl410 § 0 2089]
 			[]
-			[wayr410 zCWaypoint 0 2089]
+			[wayr410 zCWaypoint 0 2090]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3190 70.9886932 -2400
 				direction=vec3:-0.999390781 0 0.0348994099
 			[]
-			[wayl411 § 0 2089]
+			[wayl411 § 0 2090]
 			[]
-			[wayr411 zCWaypoint 0 2090]
+			[wayr411 zCWaypoint 0 2091]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3013.00024 70.932251 -2401
 				direction=vec3:-0.999390781 0 0.0348994099
 			[]
-			[wayl412 § 0 2090]
+			[wayl412 § 0 2091]
 			[]
-			[wayr412 zCWaypoint 0 2091]
+			[wayr412 zCWaypoint 0 2092]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2989 71.8268814 -2880
 				direction=vec3:-0.034899652 0 -0.999391854
 			[]
-			[wayl413 § 0 2054]
+			[wayl413 § 0 2055]
 			[]
-			[wayr413 § 0 2090]
+			[wayr413 § 0 2091]
 			[]
-			[wayl414 § 0 2091]
+			[wayl414 § 0 2092]
 			[]
-			[wayr414 zCWaypoint 0 2092]
+			[wayr414 zCWaypoint 0 2093]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_BED01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3086 71.8696442 -2895
 				direction=vec3:0.987690985 0 -0.156434327
 			[]
-			[wayl415 § 0 2091]
+			[wayl415 § 0 2092]
 			[]
-			[wayr415 zCWaypoint 0 2093]
+			[wayr415 zCWaypoint 0 2094]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_BED02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2898.00024 71.8125763 -2879
 				direction=vec3:-0.997566164 0 0.0697559267
 			[]
-			[wayl416 § 0 2089]
+			[wayl416 § 0 2090]
 			[]
-			[wayr416 zCWaypoint 0 2094]
+			[wayr416 zCWaypoint 0 2095]
 				wpName=string:DP_FORT_TOWN_HOUSE02_IN_STOVE
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:3231 71.0014801 -2278
 				direction=vec3:0.139172778 0 0.990269184
 			[]
-			[wayl417 § 0 2007]
+			[wayl417 § 0 2008]
 			[]
-			[wayr417 § 0 1773]
+			[wayr417 § 0 1774]
 			[]
-			[wayl418 § 0 1783]
+			[wayl418 § 0 1784]
 			[]
-			[wayr418 zCWaypoint 0 2095]
+			[wayr418 zCWaypoint 0 2096]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10526 427.77832 -9449
 				direction=vec3:0.348572284 0 -0.937282264
 			[]
-			[wayl419 § 0 2095]
+			[wayl419 § 0 2096]
 			[]
-			[wayr419 zCWaypoint 0 2096]
+			[wayr419 zCWaypoint 0 2097]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10974 388.057983 -10067
 				direction=vec3:0.634731054 0 -0.772733927
 			[]
-			[wayl420 § 0 2096]
+			[wayl420 § 0 2097]
 			[]
-			[wayr420 zCWaypoint 0 2097]
+			[wayr420 zCWaypoint 0 2098]
 				wpName=string:DP_FORT_TUNNEL_WATERFALL_08
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11237.001 366.004974 -10398
 				direction=vec3:0.428935438 0 -0.903335571
 			[]
-			[wayl421 zCWaypoint 0 2098]
+			[wayl421 zCWaypoint 0 2099]
 				wpName=string:DP_CAMP_CONNECT_FORT_TUNNEL_WATERFALL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:11403 336.878571 -10609
 				direction=vec3:0.699664116 0 -0.714472055
 			[]
-			[wayr421 § 0 2097]
+			[wayr421 § 0 2098]
 			[]
-			[wayl422 zCWaypoint 0 2099]
+			[wayl422 zCWaypoint 0 2100]
 				wpName=string:DP_CAMP_CONNECT_FORT_OVER_WATERFALL
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10520 1724.99316 -9737
 				direction=vec3:0.49090445 0 -0.871213377
 			[]
-			[wayr422 zCWaypoint 0 2100]
+			[wayr422 zCWaypoint 0 2101]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_14
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10009 1664.37769 -9574
 				direction=vec3:0.190809771 0 -0.981627285
 			[]
-			[wayl423 zCWaypoint 0 2101]
+			[wayl423 zCWaypoint 0 2102]
 				wpName=string:DP_FORT_WAYUP_EASTROAD_13
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:9876.51172 1804.31177 -8980.72559
 				direction=vec3:-0.20791097 0 -0.978147686
 			[]
-			[wayr423 § 0 2100]
+			[wayr423 § 0 2101]
 			[]
-			[wayl424 § 0 2101]
+			[wayl424 § 0 2102]
 			[]
-			[wayr424 § 0 1843]
+			[wayr424 § 0 1844]
 			[]
-			[wayl425 § 0 1877]
+			[wayl425 § 0 1878]
 			[]
-			[wayr425 zCWaypoint 0 2102]
+			[wayr425 zCWaypoint 0 2103]
 				wpName=string:DP_CAMP_CONNECT_FORT_WAYUP
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:15991 4676.28662 -8205
 				direction=vec3:-0.35836792 0 -0.933580458
 			[]
-			[wayl426 § 0 1990]
+			[wayl426 § 0 1991]
 			[]
-			[wayr426 zCWaypoint 0 2103]
+			[wayr426 zCWaypoint 0 2104]
 				wpName=string:DP_FORT_TOWN_MILL_IN_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:10489.7959 30.3762131 -1932.77051
 				direction=vec3:0.390731007 0 -0.920504928
 			[]
-			[wayl427 § 0 1760]
+			[wayl427 § 0 1761]
 			[]
-			[wayr427 zCWaypoint 0 2104]
+			[wayr427 zCWaypoint 0 2105]
 				wpName=string:DP_FORT_TOWN_HOUSE01_IN_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2831.83691 120.1502 -5127.31592
 				direction=vec3:0.998631716 0 -0.0523356125
 			[]
-			[wayl428 zCWaypoint 0 2105]
+			[wayl428 zCWaypoint 0 2106]
 				wpName=string:DP_FORT_TOWN_HOUSE01_CELLAR_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2916.57886 -389.232208 -5142.69629
 				direction=vec3:-1.00000131 0 -4.65661287e-008
 			[]
-			[wayr428 § 0 2104]
+			[wayr428 § 0 2105]
 			[]
-			[wayl429 § 0 2105]
+			[wayl429 § 0 2106]
 			[]
-			[wayr429 zCWaypoint 0 2106]
+			[wayr429 zCWaypoint 0 2107]
 				wpName=string:DP_FORT_TOWN_HOUSE01_CELLAR_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:2986.46509 -389.232208 -4757.91895
 				direction=vec3:0.0174523778 0 -0.99984777
 			[]
-			[wayl430 zCWaypoint 0 2107]
+			[wayl430 zCWaypoint 0 2108]
 				wpName=string:DP_TO_RUINS_TRANSITION
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22206 -1766.16309 10322
 				direction=vec3:0.453992099 0 0.891005695
 			[]
-			[wayr430 zCWaypoint 0 2108]
+			[wayr430 zCWaypoint 0 2109]
 				wpName=string:DP_FORT_TO_RUINS_01
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22864.2207 -1626.54846 8737.05957
 				direction=vec3:0.453992099 0 0.891005695
 			[]
-			[wayl431 § 0 2108]
+			[wayl431 § 0 2109]
 			[]
-			[wayr431 zCWaypoint 0 2109]
+			[wayr431 zCWaypoint 0 2110]
 				wpName=string:DP_FORT_TO_RUINS_02
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22836 -1227.33472 7473
 				direction=vec3:0.453992307 0 0.891005635
 			[]
-			[wayl432 zCWaypoint 0 2110]
+			[wayl432 zCWaypoint 0 2111]
 				wpName=string:DP_FORT_TO_RUINS_03
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:22607.1074 -1211.18176 6872.00049
 				direction=vec3:0.453992099 0 0.891005695
 			[]
-			[wayr432 § 0 2109]
+			[wayr432 § 0 2110]
 			[]
-			[wayl433 § 0 2110]
+			[wayl433 § 0 2111]
 			[]
-			[wayr433 zCWaypoint 0 2111]
+			[wayr433 zCWaypoint 0 2112]
 				wpName=string:DP_FORT_TO_RUINS_04
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:23663 -1211.18237 6404
 				direction=vec3:0.920505226 0 -0.390733123
 			[]
-			[wayl434 § 0 2111]
+			[wayl434 § 0 2112]
 			[]
-			[wayr434 zCWaypoint 0 2112]
+			[wayr434 zCWaypoint 0 2113]
 				wpName=string:DP_FORT_TO_RUINS_05
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:24799 -1225.36096 6732
 				direction=vec3:0.945519567 0 0.325566649
 			[]
-			[wayl435 § 0 2110]
+			[wayl435 § 0 2111]
 			[]
-			[wayr435 zCWaypoint 0 2113]
+			[wayr435 zCWaypoint 0 2114]
 				wpName=string:DP_FORT_TO_RUINS_06
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:21298 -1078.68835 7880
 				direction=vec3:0.819152057 0 -0.573578656
 			[]
-			[wayl436 § 0 1931]
+			[wayl436 § 0 1932]
 			[]
-			[wayr436 zCWaypoint 0 2114]
+			[wayr436 zCWaypoint 0 2115]
 				wpName=string:DP_FORT_TO_RUINS_07
 				waterDepth=int:0
 				underWater=bool:0
 				position=vec3:19967 -939 8438
 				direction=vec3:0.998630345 0 -0.0523377843
 			[]
-			[wayl437 § 0 2113]
+			[wayl437 § 0 2114]
 			[]
-			[wayr437 § 0 2114]
+			[wayr437 § 0 2115]
 			[]
-			[wayl438 § 0 1728]
+			[wayl438 § 0 1729]
 			[]
-			[wayr438 § 0 1729]
+			[wayr438 § 0 1730]
 			[]
-			[wayl439 § 0 1798]
+			[wayl439 § 0 1799]
 			[]
-			[wayr439 § 0 1797]
+			[wayr439 § 0 1798]
 			[]
 		[]
 	[]
