@@ -3,13 +3,91 @@ ver 1
 zCArchiverGeneric
 ASCII
 saveGame 0
-date 5.11.2019 20:21:41
-user Anastasy
+date 4.4.2020 1:53:53
+user Anastasiya
 END
-objects 93       
+objects 97       
 END
 
 [% zCMaterial 39939 0]
+	name=string:MOD_SAGA_STONE_05
+	matGroup=enum:0
+	color=color:123 110 89 255
+	smoothAngle=float:60
+	texture=string:MOD_SAGA_STONE_05.TGA
+	texScale=string:512 512
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 1]
+	name=string:MOD_SAGA_STONE_01
+	matGroup=enum:0
+	color=color:104 96 80 255
+	smoothAngle=float:60
+	texture=string:MOD_SAGA_STONE_01.TGA
+	texScale=string:1024 1024
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 2]
+	name=string:MOD_SAGA_FLOOR_COBBLESTONE
+	matGroup=enum:0
+	color=color:118 109 94 255
+	smoothAngle=float:60
+	texture=string:MOD_SAGA_FLOOR_COBBLESTONE.TGA
+	texScale=string:1024 1024
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 3]
 	name=string:MOD_SAGA_WOOD_05
 	matGroup=enum:3
 	color=color:76 54 38 255
@@ -35,7 +113,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 1]
+[% zCMaterial 39939 4]
 	name=string:MOD_SAGA_WOOD_12
 	matGroup=enum:3
 	color=color:68 64 49 255
@@ -61,7 +139,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 2]
+[% zCMaterial 39939 5]
 	name=string:MOD_SAGA_WOOD_11
 	matGroup=enum:3
 	color=color:64 53 39 255
@@ -87,33 +165,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 3]
-	name=string:MOD_SAGA_STONE_01
-	matGroup=enum:2
-	color=color:104 96 80 255
-	smoothAngle=float:60
-	texture=string:MOD_SAGA_STONE_01.TGA
-	texScale=string:1024 1024
-	texAniFPS=float:0
-	texAniMapMode=enum:0
-	texAniMapDir=string:0 0
-	noCollDet=bool:0
-	noLightmap=bool:0
-	lodDontCollapse=bool:0
-	detailObject=string:
-	detailObjectScale=float:1
-	forceOccluder=bool:0
-	environmentalMapping=bool:0
-	environmentalMappingStrength=float:1
-	waveMode=enum:0
-	waveSpeed=enum:2
-	waveMaxAmplitude=float:30
-	waveGridSize=float:100
-	ignoreSunLight=bool:0
-	alphaFunc=enum:1
-	defaultMapping=rawFloat:2.34375 2.34375 
-[]
-[% zCMaterial 39939 4]
+[% zCMaterial 39939 6]
 	name=string:MOD_SAGA_ROCK_01_TRANSITION
 	matGroup=enum:2
 	color=color:84 79 55 255
@@ -139,7 +191,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 5]
+[% zCMaterial 39939 7]
 	name=string:MOD_SAGA_ROCK_06_TRANSITION
 	matGroup=enum:2
 	color=color:92 87 59 255
@@ -165,7 +217,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 6]
+[% zCMaterial 39939 8]
 	name=string:MOD_SAGA_ROCK_01
 	matGroup=enum:2
 	color=color:84 78 61 255
@@ -191,7 +243,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 7]
+[% zCMaterial 39939 9]
 	name=string:MOD_NW_NATURE_DARKWOOD_BODEN_01
 	matGroup=enum:4
 	color=color:70 54 22 255
@@ -217,7 +269,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 8]
+[% zCMaterial 39939 10]
 	name=string:MOD_NW_NATURE_WALDBODEN_TRANS_01
 	matGroup=enum:4
 	color=color:72 63 22 255
@@ -243,7 +295,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 9]
+[% zCMaterial 39939 11]
 	name=string:MOD_SAGA_SANDS
 	matGroup=enum:4
 	color=color:183 156 109 255
@@ -269,7 +321,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 10]
+[% zCMaterial 39939 12]
 	name=string:MOD_SAGA_SANDS_TRANSITION
 	matGroup=enum:4
 	color=color:155 134 88 255
@@ -295,7 +347,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 11]
+[% zCMaterial 39939 13]
 	name=string:MOD_SAGA_GRASS_04_TRANSITION
 	matGroup=enum:4
 	color=color:70 60 24 255
@@ -321,7 +373,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 12]
+[% zCMaterial 39939 14]
 	name=string:MOD_SAGA_GRASS_04
 	matGroup=enum:4
 	color=color:66 50 31 255
@@ -347,7 +399,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 13]
+[% zCMaterial 39939 15]
 	name=string:MOD_NW_NATURE_KIES_01
 	matGroup=enum:4
 	color=color:81 71 54 255
@@ -373,7 +425,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 14]
+[% zCMaterial 39939 16]
 	name=string:MOD_SAGA_GRASS_03
 	matGroup=enum:4
 	color=color:93 83 41 255
@@ -399,7 +451,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 15]
+[% zCMaterial 39939 17]
 	name=string:MOD_SAGA_GRASS_05
 	matGroup=enum:4
 	color=color:92 80 41 255
@@ -425,7 +477,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 16]
+[% zCMaterial 39939 18]
 	name=string:MOD_SAGA_ROCK_04
 	matGroup=enum:2
 	color=color:99 90 75 255
@@ -451,7 +503,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 17]
+[% zCMaterial 39939 19]
 	name=string:MOD_SAGA_ROCK_02
 	matGroup=enum:2
 	color=color:81 71 64 255
@@ -477,7 +529,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 18]
+[% zCMaterial 39939 20]
 	name=string:MOD_SAGA_ROCK_02_TRANSITION
 	matGroup=enum:2
 	color=color:79 71 55 255
@@ -503,7 +555,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 19]
+[% zCMaterial 39939 21]
 	name=string:MOD_SAGA_STONE_02
 	matGroup=enum:2
 	color=color:61 55 45 255
@@ -529,7 +581,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 20]
+[% zCMaterial 39939 22]
 	name=string:MOD_SAGA_STONE_03
 	matGroup=enum:2
 	color=color:58 62 56 255
@@ -555,33 +607,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 21]
-	name=string:MOD_SAGA_FLOOR_COBBLESTONE
-	matGroup=enum:2
-	color=color:118 109 94 255
-	smoothAngle=float:60
-	texture=string:MOD_SAGA_FLOOR_COBBLESTONE.TGA
-	texScale=string:1024 1024
-	texAniFPS=float:0
-	texAniMapMode=enum:0
-	texAniMapDir=string:0 0
-	noCollDet=bool:0
-	noLightmap=bool:0
-	lodDontCollapse=bool:0
-	detailObject=string:
-	detailObjectScale=float:1
-	forceOccluder=bool:0
-	environmentalMapping=bool:0
-	environmentalMappingStrength=float:1
-	waveMode=enum:0
-	waveSpeed=enum:2
-	waveMaxAmplitude=float:30
-	waveGridSize=float:100
-	ignoreSunLight=bool:0
-	alphaFunc=enum:1
-	defaultMapping=rawFloat:2.34375 2.34375 
-[]
-[% zCMaterial 39939 22]
+[% zCMaterial 39939 23]
 	name=string:MOD_SAGA_GROUND_SOIL_01
 	matGroup=enum:4
 	color=color:76 63 44 255
@@ -607,7 +633,7 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 23]
+[% zCMaterial 39939 24]
 	name=string:MOD_SAGA_ROCK_05
 	matGroup=enum:2
 	color=color:86 81 63 255
@@ -633,39 +659,13 @@ END
 	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
-[% zCMaterial 39939 24]
+[% zCMaterial 39939 25]
 	name=string:MOD_SAGA_STONE_04
 	matGroup=enum:2
 	color=color:142 135 120 255
 	smoothAngle=float:60
 	texture=string:MOD_SAGA_STONE_04.TGA
 	texScale=string:1024 512
-	texAniFPS=float:0
-	texAniMapMode=enum:0
-	texAniMapDir=string:0 0
-	noCollDet=bool:0
-	noLightmap=bool:0
-	lodDontCollapse=bool:0
-	detailObject=string:
-	detailObjectScale=float:1
-	forceOccluder=bool:0
-	environmentalMapping=bool:0
-	environmentalMappingStrength=float:1
-	waveMode=enum:0
-	waveSpeed=enum:2
-	waveMaxAmplitude=float:30
-	waveGridSize=float:100
-	ignoreSunLight=bool:0
-	alphaFunc=enum:1
-	defaultMapping=rawFloat:2.34375 2.34375 
-[]
-[% zCMaterial 39939 25]
-	name=string:MOD_SAGA_STONE_05
-	matGroup=enum:2
-	color=color:123 110 89 255
-	smoothAngle=float:60
-	texture=string:MOD_SAGA_STONE_05.TGA
-	texScale=string:512 512
 	texAniFPS=float:0
 	texAniMapMode=enum:0
 	texAniMapDir=string:0 0
@@ -2408,7 +2408,7 @@ END
 	smoothAngle=float:60
 	texture=string:NW_WATER_LAKE01_A0.TGA
 	texScale=string:256 256
-	texAniFPS=float:10.0000067
+	texAniFPS=float:10.0000076
 	texAniMapMode=enum:1
 	texAniMapDir=string:0 9.9999997e-005
 	noCollDet=bool:0
@@ -2425,5 +2425,109 @@ END
 	waveGridSize=float:37
 	ignoreSunLight=bool:0
 	alphaFunc=enum:2
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 93]
+	name=string:DSP_SALTCAVE_WALLS_01
+	matGroup=enum:0
+	color=color:178 183 176 255
+	smoothAngle=float:60
+	texture=string:DSP_SALTCAVE_WALLS_01.TGA
+	texScale=string:1024 1024
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 94]
+	name=string:DSP_SALTCAVE_WALLS_01_TRANSITION_ROCK
+	matGroup=enum:0
+	color=color:134 133 122 255
+	smoothAngle=float:60
+	texture=string:DSP_SALTCAVE_WALLS_01_TRANSITION_ROCK.TGA
+	texScale=string:1024 1024
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 95]
+	name=string:DSP_SALTCAVE_FLOOR_01
+	matGroup=enum:0
+	color=color:205 210 202 255
+	smoothAngle=float:60
+	texture=string:DSP_SALTCAVE_FLOOR_01.TGA
+	texScale=string:512 512
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
+	defaultMapping=rawFloat:2.34375 2.34375 
+[]
+[% zCMaterial 39939 96]
+	name=string:DSP_SALTCAVE_FLOOR_01_TRANSITION_WALLS
+	matGroup=enum:0
+	color=color:193 198 191 255
+	smoothAngle=float:60
+	texture=string:DSP_SALTCAVE_FLOOR_01_TRANSITION_WALLS.TGA
+	texScale=string:1024 1024
+	texAniFPS=float:0
+	texAniMapMode=enum:0
+	texAniMapDir=string:0 0
+	noCollDet=bool:0
+	noLightmap=bool:0
+	lodDontCollapse=bool:0
+	detailObject=string:
+	detailObjectScale=float:1
+	forceOccluder=bool:0
+	environmentalMapping=bool:0
+	environmentalMappingStrength=float:1
+	waveMode=enum:0
+	waveSpeed=enum:2
+	waveMaxAmplitude=float:30
+	waveGridSize=float:100
+	ignoreSunLight=bool:0
+	alphaFunc=enum:1
 	defaultMapping=rawFloat:2.34375 2.34375 
 []
