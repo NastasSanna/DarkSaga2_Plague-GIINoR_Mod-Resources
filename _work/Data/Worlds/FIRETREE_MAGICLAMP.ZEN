@@ -1,0 +1,76 @@
+ZenGin Archive
+ver 1
+zCArchiverGeneric
+ASCII
+saveGame 0
+date 29.3.2020 0:56:47
+user Anastasiya
+END
+objects 4        
+END
+
+[% oCWorld:zCWorld 36865 0]
+	[VobTree % 0 0]
+		childs0=int:1
+		[% zCVob 52224 1]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:26642.5137 -515.980286 12552.3379 26712.9961 -438.754761 12626.6709 
+			trafoOSToWSRot=raw:0000803f0000008000000000000000000000803f0000000000000080000000800000803f
+			trafoOSToWSPos=vec3:26679 -478 12589
+			vobName=string:
+			visual=string:MAGICLAMP_LIGHT.pfx
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:1
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual zCParticleFX 0 2]
+			[]
+			[ai % 0 0]
+			[]
+		[]
+		childs1=int:1
+		[% zCVobLight:zCVob 39168 3]
+			pack=int:0
+			presetName=string:
+			bbox3DWS=rawFloat:26179 -955 12089 27179 45 13089 
+			trafoOSToWSRot=raw:0000803f0000000000000000000000000000803f0000000000000000000000000000803f
+			trafoOSToWSPos=vec3:26679 -455 12589
+			vobName=string:
+			visual=string:
+			showVisual=bool:1
+			visualCamAlign=enum:0
+			visualAniMode=enum:0
+			visualAniModeStrength=float:0
+			vobFarClipZScale=float:1
+			cdStatic=bool:0
+			cdDyn=bool:0
+			staticVob=bool:0
+			dynShadow=enum:0
+			zbias=int:0
+			isAmbient=bool:0
+			[visual % 0 0]
+			[]
+			[ai % 0 0]
+			[]
+			lightPresetInUse=string:
+			lightType=enum:0
+			range=float:500
+			color=color:214 251 254 255
+			spotConeAngle=float:0
+			lightStatic=bool:1
+			lightQuality=enum:0
+			lensflareFX=string:
+		[]
+		childs2=int:0
+	[]
+	[EndMarker % 0 0]
+	[]
+[]
