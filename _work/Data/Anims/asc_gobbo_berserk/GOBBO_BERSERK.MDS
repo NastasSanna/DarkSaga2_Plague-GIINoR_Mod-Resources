@@ -1,0 +1,101 @@
+// BERSERK
+// OVERLAYED ANIS: WALKLOOP, CHAIR, BENCH, SIT
+
+Model ("Gobbo")
+{
+	meshAndTree ("HGOB_BODY.ASC" DONT_USE_MESH)
+	
+	
+	aniEnum
+	{
+		ani      ("S_FISTRUN"                  1               "S_FISTRUN"           0.1 0.1  M. "HGOB_1HRUNAMBIENT_M01.ASC" F  1   50)         
+		{
+			*eventSFX (1 "GOB_AMBIENT" EMPTY_SLOT)
+		}
+		ani      ("T_FISTRUN_2_FISTRUNL"       1               "S_FISTRUNL"          0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  1   15)         
+		ani      ("S_FISTRUNL"                 1               "S_FISTRUNL"          0.0 0.2  M. "HGOB_1HRUNLOOP_M01.ASC"    F  16  36)         
+		{
+			*eventSFXGrnd (26 "RUN")                   
+			*eventSFX     (27 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (36 "RUN")                   
+		}
+		ani      ("T_FISTRUNL_2_FISTRUN"       1               "S_FISTRUN"           0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  37  49)         
+		{
+			*eventSFXGrnd (46 "RUN")
+		}
+		aniBlend ("T_FISTRUNR_2_FISTRUN"                       "S_FISTRUN"           0.2 0.2)                                                   
+		ani      ("T_FISTJUMPB"                1               "S_FISTRUN"           0.0 0.2  M. "HGOB_JUMPB_M01.ASC"        F  0   14)         
+		{
+			*eventSFXGrnd (10 "SNEAK")
+			*eventSFXGrnd (13 "SNEAK")
+		}
+		aniAlias ("S_FISTWALK"                 1               "S_FISTWALK"          0.1 0.1  M. "S_FISTRUN"                 F)                 
+		ani      ("T_FISTWALK_2_FISTWALKL"     1               "S_FISTWALKL"         0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  1   9)          
+		ani      ("S_FISTWALKL"                1               "S_FISTWALKL"         0.0 0.1  M. "HGOB_1HWALKLOOP_M01.ASC"   F  10  39)         
+		{
+			*eventSFXGrnd (11 "RUN")
+			*eventSFXGrnd (30 "RUN")
+		}
+		ani      ("T_FISTWALKL_2_FISTWALK"     1               "S_FISTWALK"          0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  40  50)         
+		{
+			*eventSFXGrnd (40 "RUN")
+		}
+		aniBlend ("T_FISTWALKR_2_FISTWALK"                     "S_FISTWALK"          0.2 0.2)                                                   
+		aniAlias ("T_FISTWALK_2_FISTWALKBL"    1               "S_FISTWALKBL"        0.0 0.0  M. "T_FISTWALKL_2_FISTWALK"    R)                 
+		aniAlias ("S_FISTWALKBL"               1               "S_FISTWALKBL"        0.0 0.0  M. "S_FISTWALKL"               R)                 
+		aniAlias ("T_FISTWALKBL_2_FISTWALK"    1               "S_FISTWALK"          0.0 0.0  M. "T_FISTWALK_2_FISTWALKL"    R)                 
+		aniBlend ("T_FISTWALKBR_2_FISTWALK"                    "S_FISTWALK"          0.2 0.2)                                                   
+		ani      ("T_FISTRUNTURNL"             20              "T_FISTRUNTURNL"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  26  49)         
+		{
+			*eventSFXGrnd (1 "SNEAK")
+		}
+		ani      ("T_FISTRUNTURNR"             20              "T_FISTRUNTURNR"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  1   24)         
+		{
+			*eventSFXGrnd (1 "SNEAK")
+		}
+		aniAlias ("T_FISTWALKTURNL"            20              "T_FISTWALKTURNL"     0.2 0.2  M. "T_FISTRUNTURNL"            F)                 
+		aniAlias ("T_FISTWALKTURNR"            20              "T_FISTWALKTURNR"     0.2 0.2  M. "T_FISTRUNTURNR"            F)                 
+		ani      ("T_FISTRUNSTRAFEL"           1               "T_FISTRUNSTRAFEL"    0.1 0.1  M. "HGOB_1HSTRAFEL_M01.ASC"    F  0   15)         
+		{
+			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (8 "SNEAK")                 
+		}
+		ani      ("T_FISTRUNSTRAFER"           1               "T_FISTRUNSTRAFER"    0.1 0.1  M. "HGOB_1HSTRAFER_M01.ASC"    F  0   15)         
+		{
+			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (8 "SNEAK")                 
+		}
+		aniAlias ("T_FISTWALKSTRAFEL"          1               "T_FISTWALKSTRAFEL"   0.1 0.1  M. "T_FISTRUNSTRAFEL"          F)                 
+		aniAlias ("T_FISTWALKSTRAFER"          1               "T_FISTWALKSTRAFER"   0.1 0.1  M. "T_FISTRUNSTRAFER"          F)                 
+		aniBlend ("T_FISTRUN_2_FISTWALK"                       "S_FISTWALK"          0.1 0.1)                                                   
+		aniBlend ("T_FISTWALK_2_FISTRUN"                       "S_FISTRUN"           0.1 0.1)                                                   
+		aniBlend ("T_FISTRUNL_2_FISTWALKL"                     "S_FISTWALKL"         0.1 0.1)                                                   
+		aniBlend ("T_FISTWALKL_2_FISTRUNL"                     "S_FISTRUNL"          0.1 0.1)                                                   
+		ani      ("S_FISTATTACK"               1               "S_FISTATTACK"        0.1 0.2  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
+		{
+			*eventTag (0 "DEF_HIT_LIMB"  "Bip01 L Hand" "Bip01 L Finger0")
+			*eventTag (0 "DEF_OPT_FRAME" "5")                             
+			*eventTag (0 "DEF_HIT_END"   "18")                            
+			*eventTag (0 "DEF_WINDOW"    "9	18")                          
+			*eventSFX (6 "GOB_ATTACK"    EMPTY_SLOT)                      
+		}
+		ani      ("T_FISTATTACKMOVE"           2               ""                    0.1 0.1  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
+		{
+			*eventTag (0 "DEF_HIT_LIMB"  "ZS_RIGHTHAND" "Bip01 L Hand" "Bip01 L Finger0")
+			*eventTag (0 "DEF_OPT_FRAME" "4")                                            
+			*eventSFX (6 "GOB_ATTACK"    EMPTY_SLOT)                                     
+		}
+		aniAlias ("T_FISTPARADEJUMPB"          1               ""                    0.0 0.0  M. "T_FISTJUMPB"               F)                 
+		aniAlias ("T_FISTPARADE_0"             1               ""                    0.0 0.0  M. "T_FISTJUMPB"               F)                 
+		ani      ("T_PERCEPTION"               2               ""                    0.0 0.0  M. "HGOB_PERCEPTION_M01.ASC"   F  0   120)        
+		ani      ("T_WARN"                     2               ""                    0.1 0.1  M. "HGOB_S_ALARM_M01.ASC"      F  0   49)         
+		{
+			*eventSFX (13 "GOB_WARN" EMPTY_SLOT)
+		}
+		ani      ("T_STAND_2_SIT"              1               "S_SIT"               0.1 0.0  M. "HGOB_SITDOWN_M01.ASC"      F  1   39)         
+		ani      ("S_SIT"                      1               "S_SIT"               0.0 0.0  M. "HGOB_SITDOWN_M01.ASC"      F  40  99   FPS:5) 
+		aniAlias ("T_SIT_2_STAND"              1               ""                    0.0 0.0  M. "T_STAND_2_SIT"             R)                 
+		ani      ("T_SIT_RANDOM_01"            2               "S_SIT"               0.0 0.0  M. "HGOB_SITDOWN_M01.ASC"      F  100 159  FPS:15)
+		aniAlias ("R_ROAM2"                    2               ""                    0.1 0.1  M. "T_PERCEPTION"              F)                 
+	}
+}
