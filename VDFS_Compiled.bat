@@ -1,6 +1,6 @@
 @echo off
 
-set p="F:\Gothic Mod\Gothic II DSP\"
+set p="..\..\Gothic II DSP\"
 
 DEL /F /Q %p%*.DMP
 
