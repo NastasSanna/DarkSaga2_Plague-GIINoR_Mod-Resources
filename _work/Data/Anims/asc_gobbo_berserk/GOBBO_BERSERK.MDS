@@ -4,6 +4,7 @@
 Model ("Gobbo")
 {
 	meshAndTree ("HGOB_BODY.ASC" DONT_USE_MESH)
+	meshAndTree ("HGOB_BODY_CHIEF.ASC" DONT_USE_MESH)
 	
 	
 	aniEnum
