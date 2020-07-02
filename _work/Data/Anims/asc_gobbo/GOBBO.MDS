@@ -6,8 +6,8 @@ Model ("Gobbo")
 {
 	meshAndTree ("GOB_BODY.ASC" DONT_USE_MESH)
 	registerMesh ("GOB_BODY.ASC")
+	registerMesh ("GOBBO_SKELETON_BODY.ASC")
 	registerMesh ("GOB_SHAMANBODY.ASC")
-	registerMesh ("HGOB_BODY.ASC")
 	aniEnum
 	{
 		modelTag ("DEF_HIT_LIMB"               "ZS_RIGHTHAND")                                                                                 
