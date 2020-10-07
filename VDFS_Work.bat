@@ -1,4 +1,4 @@
-@echo off
+@echo on
 
 set p="..\..\Gothic II DSP\"
 
