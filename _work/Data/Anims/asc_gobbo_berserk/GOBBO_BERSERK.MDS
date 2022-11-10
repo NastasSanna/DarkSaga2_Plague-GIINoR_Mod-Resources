@@ -9,70 +9,137 @@ Model ("Gobbo")
 	
 	aniEnum
 	{
-		ani      ("S_FISTRUN"                  1               "S_FISTRUN"           0.1 0.1  M. "HGOB_1HRUNAMBIENT_M01.ASC" F  1   50)         
+	
+		ani      ("S_RUN"                  1               "S_RUN"           0.1 0.1  M. "HGOB_1HRUNAMBIENT_M01.ASC" F  1   50)         
 		{
 			*eventSFX (1 "GOB_AMBIENT" EMPTY_SLOT)
 		}
-		ani      ("T_FISTRUN_2_FISTRUNL"       1               "S_FISTRUNL"          0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  1   15)         
-		ani      ("S_FISTRUNL"                 1               "S_FISTRUNL"          0.0 0.2  M. "HGOB_1HRUNLOOP_M01.ASC"    F  16  36)         
+		ani      ("T_RUN_2_RUNL"       1               "S_RUNL"          0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  1   15)         
+		ani      ("S_RUNL"                 1               "S_RUNL"          0.0 0.2  M. "HGOB_1HRUNLOOP_M01.ASC"    F  16  36)         
 		{
 			*eventSFXGrnd (26 "RUN")                   
 			*eventSFX     (27 "GOB_AMBIENT" EMPTY_SLOT)
 			*eventSFXGrnd (36 "RUN")                   
 		}
-		ani      ("T_FISTRUNL_2_FISTRUN"       1               "S_FISTRUN"           0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  37  49)         
+		ani      ("T_RUNL_2_RUN"       1               "S_RUN"           0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  37  49)         
 		{
 			*eventSFXGrnd (46 "RUN")
 		}
-		aniBlend ("T_FISTRUNR_2_FISTRUN"                       "S_FISTRUN"           0.2 0.2)                                                   
-		ani      ("T_FISTJUMPB"                1               "S_FISTRUN"           0.0 0.2  M. "HGOB_JUMPB_M01.ASC"        F  0   14)         
+		aniBlend ("T_RUNR_2_RUN"                       "S_RUN"           0.2 0.2)                                                   
+		ani      ("T_JUMPB"                1               "S_RUN"           0.0 0.2  M. "HGOB_JUMPB_M01.ASC"        F  0   14)         
 		{
 			*eventSFXGrnd (10 "SNEAK")
 			*eventSFXGrnd (13 "SNEAK")
 		}
-		aniAlias ("S_FISTWALK"                 1               "S_FISTWALK"          0.1 0.1  M. "S_FISTRUN"                 F)                 
-		ani      ("T_FISTWALK_2_FISTWALKL"     1               "S_FISTWALKL"         0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  1   9)          
-		ani      ("S_FISTWALKL"                1               "S_FISTWALKL"         0.0 0.1  M. "HGOB_1HWALKLOOP_M01.ASC"   F  10  39)         
+		aniAlias ("S_WALK"                 1               "S_WALK"          0.1 0.1  M. "S_1hRUN"                 F)                 
+		ani      ("T_WALK_2_WALKL"     1               "S_WALKL"         0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  1   9)          
+		ani      ("S_WALKL"                1               "S_WALKL"         0.0 0.1  M. "HGOB_1HWALKLOOP_M01.ASC"   F  10  39)         
 		{
 			*eventSFXGrnd (11 "RUN")
 			*eventSFXGrnd (30 "RUN")
 		}
-		ani      ("T_FISTWALKL_2_FISTWALK"     1               "S_FISTWALK"          0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  40  50)         
+		ani      ("T_WALKL_2_WALK"     1               "S_WALK"          0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  40  50)         
 		{
 			*eventSFXGrnd (40 "RUN")
 		}
-		aniBlend ("T_FISTWALKR_2_FISTWALK"                     "S_FISTWALK"          0.2 0.2)                                                   
-		aniAlias ("T_FISTWALK_2_FISTWALKBL"    1               "S_FISTWALKBL"        0.0 0.0  M. "T_FISTWALKL_2_FISTWALK"    R)                 
-		aniAlias ("S_FISTWALKBL"               1               "S_FISTWALKBL"        0.0 0.0  M. "S_FISTWALKL"               R)                 
-		aniAlias ("T_FISTWALKBL_2_FISTWALK"    1               "S_FISTWALK"          0.0 0.0  M. "T_FISTWALK_2_FISTWALKL"    R)                 
-		aniBlend ("T_FISTWALKBR_2_FISTWALK"                    "S_FISTWALK"          0.2 0.2)                                                   
-		ani      ("T_FISTRUNTURNL"             20              "T_FISTRUNTURNL"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  26  49)         
+		aniBlend ("T_WALKR_2_WALK"                     "S_WALK"          0.2 0.2)                                                   
+		aniAlias ("T_WALK_2_WALKBL"    1               "S_WALKBL"        0.0 0.0  M. "T_WALKL_2_WALK"    R)                 
+		aniAlias ("S_WALKBL"               1               "S_WALKBL"        0.0 0.0  M. "S_WALKL"               R)                 
+		aniAlias ("T_WALKBL_2_WALK"    1               "S_WALK"          0.0 0.0  M. "T_WALK_2_WALKL"    R)                 
+		aniBlend ("T_WALKBR_2_WALK"                    "S_WALK"          0.2 0.2)                                                   
+		ani      ("T_RUNTURNL"             20              "T_RUNTURNL"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  26  49)         
 		{
 			*eventSFXGrnd (1 "SNEAK")
 		}
-		ani      ("T_FISTRUNTURNR"             20              "T_FISTRUNTURNR"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  1   24)         
+		ani      ("T_RUNTURNR"             20              "T_RUNTURNR"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  1   24)         
 		{
 			*eventSFXGrnd (1 "SNEAK")
 		}
-		aniAlias ("T_FISTWALKTURNL"            20              "T_FISTWALKTURNL"     0.2 0.2  M. "T_FISTRUNTURNL"            F)                 
-		aniAlias ("T_FISTWALKTURNR"            20              "T_FISTWALKTURNR"     0.2 0.2  M. "T_FISTRUNTURNR"            F)                 
-		ani      ("T_FISTRUNSTRAFEL"           1               "T_FISTRUNSTRAFEL"    0.1 0.1  M. "HGOB_1HSTRAFEL_M01.ASC"    F  0   15)         
+		aniAlias ("T_WALKTURNL"            20              "T_WALKTURNL"     0.2 0.2  M. "T_RUNTURNL"            F)                 
+		aniAlias ("T_WALKTURNR"            20              "T_WALKTURNR"     0.2 0.2  M. "T_RUNTURNR"            F)                 
+		ani      ("T_RUNSTRAFEL"           1               "T_RUNSTRAFEL"    0.1 0.1  M. "HGOB_1HSTRAFEL_M01.ASC"    F  0   15)         
 		{
 			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
 			*eventSFXGrnd (8 "SNEAK")                 
 		}
-		ani      ("T_FISTRUNSTRAFER"           1               "T_FISTRUNSTRAFER"    0.1 0.1  M. "HGOB_1HSTRAFER_M01.ASC"    F  0   15)         
+		ani      ("T_RUNSTRAFER"           1               "T_RUNSTRAFER"    0.1 0.1  M. "HGOB_1HSTRAFER_M01.ASC"    F  0   15)         
 		{
 			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
 			*eventSFXGrnd (8 "SNEAK")                 
 		}
-		aniAlias ("T_FISTWALKSTRAFEL"          1               "T_FISTWALKSTRAFEL"   0.1 0.1  M. "T_FISTRUNSTRAFEL"          F)                 
-		aniAlias ("T_FISTWALKSTRAFER"          1               "T_FISTWALKSTRAFER"   0.1 0.1  M. "T_FISTRUNSTRAFER"          F)                 
-		aniBlend ("T_FISTRUN_2_FISTWALK"                       "S_FISTWALK"          0.1 0.1)                                                   
-		aniBlend ("T_FISTWALK_2_FISTRUN"                       "S_FISTRUN"           0.1 0.1)                                                   
-		aniBlend ("T_FISTRUNL_2_FISTWALKL"                     "S_FISTWALKL"         0.1 0.1)                                                   
-		aniBlend ("T_FISTWALKL_2_FISTRUNL"                     "S_FISTRUNL"          0.1 0.1)                                                   
-		ani      ("S_FISTATTACK"               1               "S_FISTATTACK"        0.1 0.2  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
+		aniAlias ("T_WALKSTRAFEL"          1               "T_WALKSTRAFEL"   0.1 0.1  M. "T_RUNSTRAFEL"          F)                 
+		aniAlias ("T_WALKSTRAFER"          1               "T_WALKSTRAFER"   0.1 0.1  M. "T_RUNSTRAFER"          F)                 
+		aniBlend ("T_RUN_2_WALK"                       "S_WALK"          0.1 0.1)                                                   
+		aniBlend ("T_WALK_2_RUN"                       "S_RUN"           0.1 0.1)                                                   
+		aniBlend ("T_RUNL_2_WALKL"                     "S_WALKL"         0.1 0.1)                                                   
+		aniBlend ("T_WALKL_2_RUNL"                     "S_RUNL"          0.1 0.1)                                                   
+
+	
+	
+		ani      ("S_1hRUN"                  1               "S_1hRUN"           0.1 0.1  M. "HGOB_1HRUNAMBIENT_M01.ASC" F  1   50)         
+		{
+			*eventSFX (1 "GOB_AMBIENT" EMPTY_SLOT)
+		}
+		ani      ("T_1hRUN_2_1hRUNL"       1               "S_1hRUNL"          0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  1   15)         
+		ani      ("S_1hRUNL"                 1               "S_1hRUNL"          0.0 0.2  M. "HGOB_1HRUNLOOP_M01.ASC"    F  16  36)         
+		{
+			*eventSFXGrnd (26 "RUN")                   
+			*eventSFX     (27 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (36 "RUN")                   
+		}
+		ani      ("T_1hRUNL_2_1hRUN"       1               "S_1hRUN"           0.0 0.0  M. "HGOB_1HRUNLOOP_M01.ASC"    F  37  49)         
+		{
+			*eventSFXGrnd (46 "RUN")
+		}
+		aniBlend ("T_1hRUNR_2_1hRUN"                       "S_1hRUN"           0.2 0.2)                                                   
+		ani      ("T_1hJUMPB"                1               "S_1hRUN"           0.0 0.2  M. "HGOB_JUMPB_M01.ASC"        F  0   14)         
+		{
+			*eventSFXGrnd (10 "SNEAK")
+			*eventSFXGrnd (13 "SNEAK")
+		}
+		aniAlias ("S_1hWALK"                 1               "S_1hWALK"          0.1 0.1  M. "S_1hRUN"                 F)                 
+		ani      ("T_1hWALK_2_1hWALKL"     1               "S_1hWALKL"         0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  1   9)          
+		ani      ("S_1hWALKL"                1               "S_1hWALKL"         0.0 0.1  M. "HGOB_1HWALKLOOP_M01.ASC"   F  10  39)         
+		{
+			*eventSFXGrnd (11 "RUN")
+			*eventSFXGrnd (30 "RUN")
+		}
+		ani      ("T_1hWALKL_2_1hWALK"     1               "S_1hWALK"          0.0 0.0  M. "HGOB_1HWALKLOOP_M01.ASC"   F  40  50)         
+		{
+			*eventSFXGrnd (40 "RUN")
+		}
+		aniBlend ("T_1hWALKR_2_1hWALK"                     "S_1hWALK"          0.2 0.2)                                                   
+		aniAlias ("T_1hWALK_2_1hWALKBL"    1               "S_1hWALKBL"        0.0 0.0  M. "T_1hWALKL_2_1hWALK"    R)                 
+		aniAlias ("S_1hWALKBL"               1               "S_1hWALKBL"        0.0 0.0  M. "S_1hWALKL"               R)                 
+		aniAlias ("T_1hWALKBL_2_1hWALK"    1               "S_1hWALK"          0.0 0.0  M. "T_1hWALK_2_1hWALKL"    R)                 
+		aniBlend ("T_1hWALKBR_2_1hWALK"                    "S_1hWALK"          0.2 0.2)                                                   
+		ani      ("T_1hRUNTURNL"             20              "T_1hRUNTURNL"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  26  49)         
+		{
+			*eventSFXGrnd (1 "SNEAK")
+		}
+		ani      ("T_1hRUNTURNR"             20              "T_1hRUNTURNR"      0.2 0.2  M. "HGOB_1HTURNLR_M01.ASC"     F  1   24)         
+		{
+			*eventSFXGrnd (1 "SNEAK")
+		}
+		aniAlias ("T_1hWALKTURNL"            20              "T_1hWALKTURNL"     0.2 0.2  M. "T_1hRUNTURNL"            F)                 
+		aniAlias ("T_1hWALKTURNR"            20              "T_1hWALKTURNR"     0.2 0.2  M. "T_1hRUNTURNR"            F)                 
+		ani      ("T_1hRUNSTRAFEL"           1               "T_1hRUNSTRAFEL"    0.1 0.1  M. "HGOB_1HSTRAFEL_M01.ASC"    F  0   15)         
+		{
+			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (8 "SNEAK")                 
+		}
+		ani      ("T_1hRUNSTRAFER"           1               "T_1hRUNSTRAFER"    0.1 0.1  M. "HGOB_1HSTRAFER_M01.ASC"    F  0   15)         
+		{
+			*eventSFX     (1 "GOB_AMBIENT" EMPTY_SLOT)
+			*eventSFXGrnd (8 "SNEAK")                 
+		}
+		aniAlias ("T_1hWALKSTRAFEL"          1               "T_1hWALKSTRAFEL"   0.1 0.1  M. "T_1hRUNSTRAFEL"          F)                 
+		aniAlias ("T_1hWALKSTRAFER"          1               "T_1hWALKSTRAFER"   0.1 0.1  M. "T_1hRUNSTRAFER"          F)                 
+		aniBlend ("T_1hRUN_2_1hWALK"                       "S_1hWALK"          0.1 0.1)                                                   
+		aniBlend ("T_1hWALK_2_1hRUN"                       "S_1hRUN"           0.1 0.1)                                                   
+		aniBlend ("T_1hRUNL_2_1hWALKL"                     "S_1hWALKL"         0.1 0.1)                                                   
+		aniBlend ("T_1hWALKL_2_1hRUNL"                     "S_1hRUNL"          0.1 0.1)                                                   
+		ani      ("S_1hATTACK"               1               "S_1hATTACK"        0.1 0.2  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
 		{
 			*eventTag (0 "DEF_HIT_LIMB"  "Bip01 L Hand" "Bip01 L Finger0")
 			*eventTag (0 "DEF_OPT_FRAME" "5")                             
@@ -80,14 +147,15 @@ Model ("Gobbo")
 			*eventTag (0 "DEF_WINDOW"    "9	18")                          
 			*eventSFX (6 "GOB_ATTACK"    EMPTY_SLOT)                      
 		}
-		ani      ("T_FISTATTACKMOVE"           2               ""                    0.1 0.1  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
+		ani      ("T_1hATTACKMOVE"           2               ""                    0.1 0.1  M. "HGOB_1HATTACK_M01.ASC"     F  3   22)         
 		{
 			*eventTag (0 "DEF_HIT_LIMB"  "ZS_RIGHTHAND" "Bip01 L Hand" "Bip01 L Finger0")
 			*eventTag (0 "DEF_OPT_FRAME" "4")                                            
 			*eventSFX (6 "GOB_ATTACK"    EMPTY_SLOT)                                     
 		}
-		aniAlias ("T_FISTPARADEJUMPB"          1               ""                    0.0 0.0  M. "T_FISTJUMPB"               F)                 
-		aniAlias ("T_FISTPARADE_0"             1               ""                    0.0 0.0  M. "T_FISTJUMPB"               F)                 
+		aniAlias ("T_1hPARADEJUMPB"          1               ""                    0.0 0.0  M. "T_1hJUMPB"               F)                 
+		aniAlias ("T_1hPARADE_0"             1               ""                    0.0 0.0  M. "T_1hJUMPB"               F)                 
+
 		ani      ("T_PERCEPTION"               2               ""                    0.0 0.0  M. "HGOB_PERCEPTION_M01.ASC"   F  0   120)        
 		ani      ("T_WARN"                     2               ""                    0.1 0.1  M. "HGOB_S_ALARM_M01.ASC"      F  0   49)         
 		{
