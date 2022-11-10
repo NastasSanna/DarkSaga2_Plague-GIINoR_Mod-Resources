@@ -1,7 +1,7 @@
 [BEGINVDF]
 Comment=Темная Сага 2: Чума
-BaseDir=I:\Gothic MOD\My mods\DarkSaga2_Plague
-VDFName=I:\Gothic MOD\Gothic II DSP\Data\modvdf\DarkSaga2_Plague.mod
+BaseDir=H:\Gothic MOD\My mods\DarkSaga2_Plague
+VDFName=H:\Gothic MOD\Gothic II DSP\Data\modvdf\DarkSaga2_Plague.mod
 [FILES]
 *.fnt -r
 *.tex -r
